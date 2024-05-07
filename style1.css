@@ -287,9 +287,11 @@ body{
 
 .card{
     display: flex;
-    align-items: center;
-    gap: 30px;
-    margin-top: 30px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 15px;
+    /* align-items: center;
+    margin-top: 30px; */
 }
 
 .main-content-pizza{
@@ -313,6 +315,7 @@ body{
     border-radius: 10px;
     padding: 15px;
     width: 30%;
+    margin-top: 10px;
 }
 
 .card-pizza-2{
@@ -323,6 +326,7 @@ body{
     border-radius: 10px;
     padding: 15px;
     width: 30%;
+    margin-top: 10px;
 }
 
 .card-pizza-3{
@@ -333,6 +337,7 @@ body{
     border-radius: 10px;
     padding: 15px;
     width: 30%;
+    margin-top: 10px;
 }
 
 .tampilkan{
@@ -372,4 +377,106 @@ body{
 
 .search-button span{
     color: #D77E19;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .header{
+        margin-top:  5px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .search-container{
+        position: relative;
+        display: flex;
+        align-items: center;
+        margin-right: 10px;
+    }
+
+    .search-box{
+        width: 230px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        outline: none;
+        margin-left: 60px;
+    }
+
+    .sidebar-kiri{
+        background-color: #FFFFFF;
+        display: flex;
+        flex-direction: column;
+        width: 3%;
+        height: 100vh;
+        margin: 180px 10px 20px;
+        padding: 20px;
+        border-radius: 20px;
+        color: black;
+        align-items: center;
+        position: fixed;
+    }
+
+    .card img{
+        width: 80px;
+        height: 80px;
+        border-radius: 7px;
+    }
+    
+    .main-content-pizza{
+        background-color: #FFFFFF;
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-left: 60px;
+        margin-right: 20px;
+        padding: 5px;
+        border-radius: 10px;
+        color: black;
+        align-items: center;
+        margin-top: 20px;
+    }
+    
+    .card-pizza-1{
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        background-color: #D77E19;
+        border-radius: 10px;
+        padding: 10px;
+        width: 80%;
+        margin-top: 10px;
+    }
+    
+    .card-pizza-2{
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        background-color: #F5BA5E;
+        border-radius: 10px;
+        padding: 10px;
+        width: 80%;
+        margin-top: 10px;
+    }
+    
+    .card-pizza-3{
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        background-color: #E3A36F;
+        border-radius: 10px;
+        padding: 10px;
+        width: 80%;
+        margin-top: 10px;
+    }
+
+    .card h2{
+        font-size: 18px;
+    }
+
+    .card h3{
+        font-size: 16px;
+    }
 }
