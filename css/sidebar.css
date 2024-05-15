@@ -142,41 +142,7 @@ body{
     color: #D77E19;
 }
 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .search-container{
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-right: 10px;
-    }
 
-
-    .search-box{
-        width: 230px;
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        outline: none;
-        margin-left: 60px;
-    }
-
-    .sidebar-kiri{
-        background-color: #FFFFFF;
-        display: flex;
-        flex-direction: column;
-        width: 3%;
-        height: 100vh;
-        margin: 180px 10px 20px;
-        padding: 20px;
-        border-radius: 20px;
-        color: black;
-        align-items: center;
-        position: fixed;
-    }
-
-
-}
 
 
 /* Media query untuk perangkat dengan lebar layar kurang dari atau sama dengan 768px */
@@ -185,55 +151,78 @@ body{
 
   }
   
-  /* Media query untuk perangkat dengan lebar layar di antara 768px dan 1024px */
   @media only screen and (min-width: 769px) and (max-width: 1024px) {
     /* Atur tampilan atau tata letak untuk layar menengah di sini */
 
     /* Mengatur lebar sidebar */
-    .sidebar-kiri{
-        width: 20%; /* Ubah lebar sidebar menjadi 20% dari lebar layar */
-        height: 100vh;
+    .sidebar-kiri {
+        display: none; /* Hide the menu by default */
+        flex-direction: column;
+        width: 100%;
+        background-color: #333;
+        position: absolute;
+        top: 50px;
+        left: 0;
     }
 
-    /* Mengatur tata letak logout */
-    .logout{
-        width: 50%; /* Mengatur lebar logout menjadi 50% dari lebar parent */
-    }   
-
-    /* Mengatur tampilan konten utama */
-    .main--content{
-        position: relative;
-        background: #ebe9e9;
-        width: 70%; /* Ubah lebar konten utama menjadi 70% dari lebar layar */
-        padding: 0.5rem;
+    .sidebar-kiri h1 {
+        margin: 10px 0;
+        text-align: center;
     }
 
-    /* Mengatur ukuran font judul */
-    .header--title{
-        font-size: 18px; /* Ubah ukuran font judul menjadi 18px */
-        font-weight: 200;
+    .sidebar-kiri ul {
+        display: block; /* Show the toggle button */
     }
 
-    /* Mengatur tata letak kotak pencarian */
-    .search-container{
-        position: relative;
+    .sidebar-kiri ul a:hover {
+        display: flex; /* Show the menu when active */
+    }
+    .sidebar-kiri {
+        display: none; /* Hide the menu by default */
+        flex-direction: column;
+        width: 100%;
+        background-color: #333;
+        position: absolute;
+        top: 50px;
+        left: 0;
+    }
+
+    .sidebar-kiri h1{
+        margin: 10px 0;
+        text-align: center;
+    }
+    
+    .sidebar-kiri ul{
         display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 80%;
         align-items: center;
-        margin-right: 20px;
-        justify-content: space-between;
+        margin-top: 20px;
     }
-
-    /* Mengatur ukuran kotak pencarian */
-    .search-box{
-        width: 140px;
-        height: 30px; /* Ubah tinggi kotak pencarian menjadi 30px */
-        padding: 5px;
-        border: 1px solid #ccc;
-        border-radius: 2px;
-        outline: none;
-        margin-left: 5px;
+    
+    .sidebar-kiri ul li{
+        list-style: none;
+        align-items: center;
+        margin: 25px;
+        /* padding: 10px 30px 10px 30px; */
+        
+        border-radius: 20px;
     }
-}
+    
+    .sidebar-kiri ul a{
+        color: #F5BA5E;
+        text-decoration: none;
+        
+        width: auto;
+        transition: transform 0.5s ease;
+    }
+    .sidebar-kiri ul a:hover{
+        background-color: rgb(234, 234, 234);
+        transform: translateX(10px);
+        border-radius: 20px;
+    }
+} 
 
 
   /* Media query untuk perangkat dengan lebar layar lebih dari atau sama dengan 1024px */

@@ -264,19 +264,13 @@ body{
   @media only screen and (min-width: 769px) and (max-width: 1024px) {
     /* Atur tampilan atau tata letak untuk layar menengah di sini */
 
-    /* Mengatur lebar sidebar */
-    .sidebar-kiri{
-        width: 20%; /* Ubah lebar sidebar menjadi 20% dari lebar layar */
-        height: 100vh;
+    /* Mengatur tata letak logout */
+    .logout {
+        width: 50%; /* Mengatur lebar logout menjadi 50% dari lebar parent */
     }
 
-    /* Mengatur tata letak logout */
-    .logout{
-        width: 50%; /* Mengatur lebar logout menjadi 50% dari lebar parent */
-    }   
-
     /* Mengatur tampilan konten utama */
-    .main--content{
+    .main--content {
         position: relative;
         background: #ebe9e9;
         width: 70%; /* Ubah lebar konten utama menjadi 70% dari lebar layar */
@@ -284,13 +278,13 @@ body{
     }
 
     /* Mengatur ukuran font judul */
-    .header--title{
+    .header--title {
         font-size: 18px; /* Ubah ukuran font judul menjadi 18px */
         font-weight: 200;
     }
 
     /* Mengatur tata letak kotak pencarian */
-    .search-container{
+    .search-container {
         position: relative;
         display: flex;
         align-items: center;
@@ -299,7 +293,7 @@ body{
     }
 
     /* Mengatur ukuran kotak pencarian */
-    .search-box{
+    .search-box {
         width: 140px;
         height: 30px; /* Ubah tinggi kotak pencarian menjadi 30px */
         padding: 5px;
@@ -307,6 +301,10 @@ body{
         border-radius: 2px;
         outline: none;
         margin-left: 5px;
+    }
+
+    .sidebar-kanan {
+        display: none; /* Hide the right sidebar for medium screens */
     }
 }
 
