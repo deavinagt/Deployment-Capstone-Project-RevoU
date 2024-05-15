@@ -8,44 +8,46 @@
     <title>apagitu -deavin</title>
 </head>
 <body>
-    <div class="content">
+   <div class="content">
         <!-- sidebar-kiri -->
         <div class="sidebar-kiri">
-            <!-- <div class="logo"></div> -->
             <ul>
-                <a href="index.html">
-                <li class="active"> <span class="material-symbols-outlined">
-                            home
-                        </span></li>
-                        </a>
-                    <a href="pizza.html">
-                        <li><span class="material-symbols-outlined">
-                            local_pizza
-                            </span>
-                        </li>
-                    </a>
-                    <a href="analysis.html">
-                <li><span class="material-symbols-outlined">
-                    analytics
-                    </span></li>
-                    </a>
-                    <a href="person.html">
-                <li><span class="material-symbols-outlined">
-                    account_circle
-                    </span></li>
-                    </a>
-                    <a href="setting.html">
-                <li><span class="material-symbols-outlined">
-                    settings
-                    </span></li>
-                    </a>
-                    <a href="help.html">
-                <li class="logout"><span class="material-symbols-outlined">
-                    help
-                    </span></li>
-                    </a>
+                <li class="li"><a href="index.html" class="link">
+                    <span class="material-symbols-outlined">home</span>
+                </a></li>
+                <li class="li"><a href="pizza.html" class="link">
+                    <span class="material-symbols-outlined">local_pizza</span>
+                </a></li>
+                <li class="li"><a href="analysis.html" class="link">
+                    <span class="material-symbols-outlined">analytics</span>
+                </a></li>
+                <li class="li"><a href="person.html" class="link">
+                    <span class="material-symbols-outlined">account_circle</span>
+                </a></li>
+                <li class="li"><a href="setting.html" class="link">
+                    <span class="material-symbols-outlined">settings</span>
+                </a></li>
+                <li class="li logout"><a href="help.html" class="link">
+                    <span class="material-symbols-outlined">help</span>
+                </a></li>
             </ul>
         </div>
+
+        <!-- Main Content -->
+        <div class="main--content">
+            <div class="header--wrapper">
+                <div class="header--title">
+                    <h1>Welcome, <span>Medan Team 23!</span></h1>
+                </div>
+                <div class="search-container">
+                    <input type="text" class="search-box" placeholder="Search here">
+                    <button type="submit" class="search-button">
+                        <span class="material-symbols-outlined">search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 
         <!-- Main Content -->
         <div class="main--content">
@@ -60,9 +62,7 @@
                         </span></button>
                     </div>
                 </div>
-            </div>
-            </div>
-        </div>
-    </div>
+
+    <script src="../js/dom.js"></script>
 </body>
 </html>

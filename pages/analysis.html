@@ -3,50 +3,118 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="../css/sidebar.css">
+    <link rel="stylesheet" href="../css/analysis.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <!-- kalau diluar folder manggil css nya pake ../namafile, kalau didalam satu file cukup namafile aja -->
     <title>Document</title>
 </head>
 <!-- tag <div> untuk grouping -->
 <body>
-    <div class="sidebar-kiri">
-        <h1>Dashboard 23</h1>
-        <!-- cara buat cepet ul>li*(banyak list yang mau dibuat)>a -->
-        <ul>
-        <li>
-            <a href="dashboardpg1.html">
-                <span class="material-symbols-outlined">
-                    home
-                </span>
-                Home
-            </a>
-        </li>
-        <li>
-            <a href="pizza.html">
-                <span class="material-symbols-outlined">
-                    local_pizza
-                </span>
-                Pizza
-            </a>
-        </li>
-        <li>
-            <a href="analysis.html">
-                <span class="material-symbols-outlined">
-                    query_stats
-                </span>
-                Analysis
-            </a>
-        </li>
-        <li>
-            <a href="random.html">
-                <span class="material-symbols-outlined">
-                    database
-                </span>
-                Random
-            </a>
-        </li>
-       </ul>
-    </div>
+    <div class="content">
+        <!-- sidebar-kiri -->
+        <div class="sidebar-kiri">
+            <ul>
+                <li class="li"><a href="index.html" class="link">
+                    <span class="material-symbols-outlined">home</span>
+                </a></li>
+                <li class="li"><a href="pizza.html" class="link">
+                    <span class="material-symbols-outlined">local_pizza</span>
+                </a></li>
+                <li class="isis"><a href="analysis.html" class="link">
+                    <span class="material-symbols-outlined">analytics</span>
+                </a></li>
+                <li class="li"><a href="person.html" class="link">
+                    <span class="material-symbols-outlined">account_circle</span>
+                </a></li>
+                <li class="li"><a href="setting.html" class="link">
+                    <span class="material-symbols-outlined">settings</span>
+                </a></li>
+                <li class="li logout"><a href="help.html" class="link">
+                    <span class="material-symbols-outlined">help</span>
+                </a></li>
+            </ul>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main--content">
+                <div class="header--wrapper">
+                    <div class="header--title">
+                        <h1>Welcome, <span>Medan Team 23!</span></h1>
+                    </div>
+                    <div class="search-container">
+                        <input type="text" class="search-box" placeholder="Search here">
+                        <button type="submit" class="search-button"><span class="material-symbols-outlined">
+                            search
+                        </span></button>
+                    </div>
+                </div>
+
+            <div class="container-chart">
+                <h1 class="head-chart">Jangan Nangis</h1>
+                <div class="dropdown">
+                    <button onclick="myFunction()" class="dropbtn">Month
+                        <span class="material-symbols-outlined">
+                            arrow_drop_down
+                        </span>
+                    </button>
+                    <div id="filter" class="dropdown-content">
+                        <button class="filter"  id="All">All</button>
+                        <button class="filter"  id="Januari">January</button>
+                        <button class="filter"  id="February">February</button>
+                    </div>
+                </div>
+                <div class="groupchart">
+                    <canvas id="barchart1" class="chart"></canvas>
+                    <canvas id = "barchart2" class="chart"></canvas>
+                    <canvas id = 'barchart3'class="chart"></canvas>
+
+                    <div class="barchart4">
+                        <h3>Highest Sold</h3>
+                        <table id="data-table">
+                            <thead>
+                                <tr>
+                                    <th>No</th>
+                                    <th>Pizza Name</th>
+                                    <th>Total Sold</th>
+                                    <th>Total Revenue</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                            <div class="pagination">
+                                <button id="prev-button">Previous</button>
+                                <span id="page-indicator"></span>
+                                <button id="next-button">Next</button>
+                            </div>
+                        </table>
+                    </div>
+                    <div class="barchart5">
+                        <h3>Lowest Sold</h3>
+                        <table id="data-table-chart5">
+                            <thead>
+                                <tr>
+                                    <th>No</th>
+                                    <th>Pizza Name</th>
+                                    <th>Total Sold</th>
+                                    <th>Total Revenue</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                            <div class="pagination">
+                                <button id="prev-button-chart5">Previous</button>
+                                <span id="page-indicator-chart5"></span>
+                                <button id="next-button-chart5">Next</button>
+                            </div>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="../js/chart.js"></script>
+    <script src="../js/dom.js"></script>
 </body>
 </html>
