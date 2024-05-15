@@ -22,13 +22,13 @@ body{
     top: 0;
     left: 0;
     bottom: 0;
-    width: 110px;
+    width: 120px;
     height: 100vh;
     padding: 0 1.7rem;
     color: black;
     align-items: center;
     position: sticky;
-    overflow: hidden;
+    /* overflow: hidden; */
     transition: all 0.5s linear;
 }
 
@@ -43,32 +43,53 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    width: 80%;
+    gap: 5px;
+    width: 100px;
+    height: 80vh;
     align-items: center;
     margin-top: 20px;
 }
 
-.sidebar-kiri ul li{
+/* .sidebar-kiri ul li{
+    display: flex;
+    justify-content: center;
     list-style: none;
     align-items: center;
+    height: 100%;
+    width: 100px;
+    
+    width: 100%;
     margin: 25px;
-    /* padding: 10px 30px 10px 30px; */
+    padding: 10px 30px 10px 30px;
     
     border-radius: 20px;
+} */
+
+.sidebar-kiri ul li {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+    height: 100%;
+    width: 100px;
+    border-radius: 20px;
+    transition: all 0.5s ease;
+    position: relative; /* Added to allow z-index to work */
+    z-index: 0; /* Ensure non-active elements are behind */
 }
 
 .sidebar-kiri ul a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: #F5BA5E;
     text-decoration: none;
-    
-    width: auto;
+    height: 100%;
+    width: 100%;
+    /* text-align: center; */
     transition: transform 0.5s ease;
 }
-.sidebar-kiri ul a:hover{
-    background-color: rgb(234, 234, 234);
-    transform: translateX(10px);
-    border-radius: 20px;
-}
+
 
 .main--content{
     position: relative;
@@ -141,6 +162,7 @@ body{
 .search-button span{
     color: #D77E19;
 }
+
 
 
 

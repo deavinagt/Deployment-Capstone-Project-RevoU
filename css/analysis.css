@@ -1,0 +1,219 @@
+.container-chart{
+    max-width: 100%;
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px;
+    margin-left: 50px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.isis{
+    background-color: #D0A2F7;
+}
+
+.sidebar-kiri ul a:hover{
+    background-color: #D0A2F7;
+    /* transform: translateX(10px); */
+    border-radius: 20px;
+}
+
+.groupchart{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.chart{
+    /* width: 350px;
+    height: 250px; */
+    max-width: 375px;
+    max-height: 300px;
+    margin: 10px 30px;
+    border-radius: 20px;
+    /* border: 5px black solid; */
+}
+
+
+#barchart1{
+    border-top: 20px solid #D77E19;
+    border-bottom: 20px solid #D77E19;
+    border-left: 10px solid #D77E19;
+    border-right: 10px solid #D77E19;
+}
+
+#barchart2{
+    border-top: 20px solid #F5BA5E;
+    border-bottom: 20px solid #F5BA5E;
+    border-left: 10px solid #F5BA5E;
+    border-right: 10px solid #F5BA5E;
+}
+#barchart3{
+    border-top: 20px solid #E3A36F;
+    border-bottom: 20px solid #E3A36F;
+    border-left: 10px solid #E3A36F;
+    border-right: 10px solid #E3A36F;
+}
+
+
+.barchart4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: max-content;
+    margin: 10px 30px;
+    border-radius: 20px;
+    border-top: 15px solid #D77E19;
+    border-bottom: 5px solid #D77E19;
+    border-left: 10px solid #D77E19;
+    border-right: 10px solid #D77E19;
+}
+.barchart4 h3{
+    text-align: center;
+    width: 100%;
+    background-color: #D77E19;
+}
+
+.barchart5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: max-content;
+    margin: 10px 30px;
+    border-radius: 15px;
+    border-top: 15px solid #E3A36F;
+    border-bottom: 5px solid #E3A36F;
+    border-left: 10px solid #E3A36F;
+    border-right: 10px solid #E3A36F;
+}
+.barchart5 h3{
+    text-align: center;
+    width: 100%;
+    background-color: #E3A36F;
+}
+
+table{
+    width: 100%;
+}
+
+
+.barchart5 td, .barchart4 th, .barchart4 td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.barchart4 th{
+    background-color: #E3A36F;
+}
+
+.barchart5 th {
+    background-color: #E3A36F;
+}
+
+.barchart4 table, .barchart5 table {
+    background-color: #F5BA5E;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* pagination chart 4 */
+.pagination{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: #F5BA5E;
+}
+#prev-button{
+    width: 70px;
+    background-color: #D77E19;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#next-button{
+    width: 70px;
+    background-color: #D77E19;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* pagination chart 5 */
+#prev-button-chart5{
+    width: 70px;
+    background-color: #D77E19;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#next-button-chart5{
+    width: 70px;
+    background-color: #D77E19;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+/* dropdown */
+
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    background-color: #a98467;
+    border-radius: 10px;
+}
+.dropbtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter{
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+    margin: 3px;
+    padding: 2px;
+    background-color: #DBA979;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.filter:hover{
+    background-color: #adadad;
+}
+
+
+.dropdown-content{
+    display: flex;
+    flex-direction: row;
+    background-color: #a98467;
+    align-items: center;
+}
+
+.dropbtn{
+    background-color: #a98467;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+/* .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+} */
