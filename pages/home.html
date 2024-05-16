@@ -53,8 +53,9 @@
                     <div class="main-content">
                         <div class="main-content-1">
                             <ul>
-                                <li><div class="business-problem">
+                                <li><div class="business-problem" id="blur">
                                     <h1>Business Problem</h1>
+                                    <a href="#" onclick="toggle()">See all</a>
                                 </div></li>
                                 <li><div class="problem-statement">
                                     <h1>Problem Statement</h1>
@@ -63,6 +64,7 @@
                                     <h1>Scope</h1>
                                 </div></li>
                             </ul>
+
                         </div>
                         <div class="main-content-2">
                             <ul>
@@ -177,5 +179,23 @@
             </div>
         </div>
     </div>
+    <div id="popup">
+        <h1>
+            Problem Statement
+        </h1>
+        <p>
+            Problem Statement
+            Nothing
+        </p>
+        <a href="#" onclick="toggle()">Close</a>
+    </div>
+    <script src="../js/dom.js">
+        function toggle(){
+            var blur = document.getElementById('blur');
+            blur.classList.toggle('active');
+            var popup = document.getElementById('blur');
+            popup.classList.toggle('active');
+        }
+    </script>
 </body>
 </html>

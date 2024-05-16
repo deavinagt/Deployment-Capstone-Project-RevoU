@@ -78,10 +78,26 @@ body{
     -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
+.business-problem.blur.active{
+    filter: blur(20px);
+    pointer-events: none;
+    user-select: none;
+}
+
 .business-problem h1{
     margin: 10px;
     margin-bottom: 20px;
     align-items: center;
+}
+
+.business-problem h1 a{
+    position: absolute;
+    bottom: 0;
+    margin-block-end: 0;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 100;
+    color: black;
 }
 
 .problem-statement{
@@ -254,63 +270,23 @@ body{
     margin: 0 20px 0 20px;
 }
 
-/* Media query untuk perangkat dengan lebar layar kurang dari atau sama dengan 768px */
-@media only screen and (max-width: 768px) {
-    /* Atur tampilan atau tata letak untuk layar kecil di sini */
-
-  }
-  
-  /* Media query untuk perangkat dengan lebar layar di antara 768px dan 1024px */
-  @media only screen and (min-width: 769px) and (max-width: 1024px) {
-    /* Atur tampilan atau tata letak untuk layar menengah di sini */
-
-    /* Mengatur tata letak logout */
-    .logout {
-        width: 50%; /* Mengatur lebar logout menjadi 50% dari lebar parent */
-    }
-
-    /* Mengatur tampilan konten utama */
-    .main--content {
-        position: relative;
-        background: #ebe9e9;
-        width: 70%; /* Ubah lebar konten utama menjadi 70% dari lebar layar */
-        padding: 0.5rem;
-    }
-
-    /* Mengatur ukuran font judul */
-    .header--title {
-        font-size: 18px; /* Ubah ukuran font judul menjadi 18px */
-        font-weight: 200;
-    }
-
-    /* Mengatur tata letak kotak pencarian */
-    .search-container {
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-right: 20px;
-        justify-content: space-between;
-    }
-
-    /* Mengatur ukuran kotak pencarian */
-    .search-box {
-        width: 140px;
-        height: 30px; /* Ubah tinggi kotak pencarian menjadi 30px */
-        padding: 5px;
-        border: 1px solid #ccc;
-        border-radius: 2px;
-        outline: none;
-        margin-left: 5px;
-    }
-
-    .sidebar-kanan {
-        display: none; /* Hide the right sidebar for medium screens */
-    }
+.popup{
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    padding: 50px;
+    box-shadow: 0 5px 30px rgba(0,0,0,.30);
+    background: #FFFFFF;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
 }
 
-  
-  /* Media query untuk perangkat dengan lebar layar lebih dari atau sama dengan 1024px */
-  @media only screen and (min-width: 1025px) {
-    /* Atur tampilan atau tata letak untuk layar besar di sini */
-
-  }
+.popup.active{
+    top: 50%;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}

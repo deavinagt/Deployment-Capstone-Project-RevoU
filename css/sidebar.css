@@ -50,21 +50,6 @@ body{
     margin-top: 20px;
 }
 
-/* .sidebar-kiri ul li{
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    align-items: center;
-    height: 100%;
-    width: 100px;
-    
-    width: 100%;
-    margin: 25px;
-    padding: 10px 30px 10px 30px;
-    
-    border-radius: 20px;
-} */
-
 .sidebar-kiri ul li {
     display: flex;
     justify-content: center;
@@ -164,9 +149,6 @@ body{
 }
 
 
-
-
-
 /* Media query untuk perangkat dengan lebar layar kurang dari atau sama dengan 768px */
 @media only screen and (max-width: 768px) {
     /* Atur tampilan atau tata letak untuk layar kecil di sini */
@@ -174,81 +156,91 @@ body{
   }
   
   @media only screen and (min-width: 769px) and (max-width: 1024px) {
-    /* Atur tampilan atau tata letak untuk layar menengah di sini */
-
-    /* Mengatur lebar sidebar */
     .sidebar-kiri {
-        display: none; /* Hide the menu by default */
-        flex-direction: column;
-        width: 100%;
-        background-color: #333;
-        position: absolute;
-        top: 50px;
-        left: 0;
-    }
-
-    .sidebar-kiri h1 {
-        margin: 10px 0;
-        text-align: center;
+        width: 100px;
+        padding: 0 1rem;
     }
 
     .sidebar-kiri ul {
-        display: block; /* Show the toggle button */
+        width: 80px;
     }
 
-    .sidebar-kiri ul a:hover {
-        display: flex; /* Show the menu when active */
+    .sidebar-kiri ul li {
+        width: 80px;
     }
-    .sidebar-kiri {
-        display: none; /* Hide the menu by default */
-        flex-direction: column;
+
+    .main--content {
+        padding: 0 1rem;
+    }
+
+    .header--wrapper {
         width: 100%;
-        background-color: #333;
-        position: absolute;
-        top: 50px;
-        left: 0;
+        padding: 0 0.5rem;
+        flex-direction: column; /* Stack header-title and search-container vertically */
+        align-items: flex-start; /* Align items to the start */
     }
 
-    .sidebar-kiri h1{
+    .header--title {
+        font-size: 14px;
         margin: 10px 0;
-        text-align: center;
     }
-    
-    .sidebar-kiri ul{
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        width: 80%;
-        align-items: center;
-        margin-top: 20px;
+
+    .search-container {
+        margin-top: 10px;
+        width: 35%; /* Ensure the search container takes full width */
     }
-    
-    .sidebar-kiri ul li{
-        list-style: none;
-        align-items: center;
-        margin: 25px;
-        /* padding: 10px 30px 10px 30px; */
-        
-        border-radius: 20px;
+
+    .search-box {
+        width: 100%; /* Full width for search box */
     }
-    
-    .sidebar-kiri ul a{
-        color: #F5BA5E;
-        text-decoration: none;
-        
-        width: auto;
-        transition: transform 0.5s ease;
-    }
-    .sidebar-kiri ul a:hover{
-        background-color: rgb(234, 234, 234);
-        transform: translateX(10px);
-        border-radius: 20px;
+
+    .search-button {
+        padding: 5px;
     }
 } 
 
 
   /* Media query untuk perangkat dengan lebar layar lebih dari atau sama dengan 1024px */
-@media only screen and (min-width: 1025px) {
-    /* Atur tampilan atau tata letak untuk layar besar di sini */
+  @media only screen and (min-width: 1025px) {
+    .sidebar-kiri {
+        width: 150px; /* Increase sidebar width for larger screens */
+        padding: 0 1.7rem; /* Adjust padding as needed */
+    }
 
+    .sidebar-kiri ul {
+        width: 120px; /* Adjust width of sidebar items */
+    }
+
+    .sidebar-kiri ul li {
+        width: 120px; /* Adjust width of sidebar items */
+    }
+
+    .main--content {
+        padding: 0 2rem; /* Adjust main content padding */
+    }
+
+    .header--wrapper {
+        width: auto; /* Allow header to expand based on content */
+        padding: 0 2rem; /* Adjust padding as needed */
+        justify-content: center; /* Center align header content */
+        align-items: center; /* Center align header content */
+        flex-direction: row; /* Ensure default horizontal layout */
+    }
+
+    .header--title {
+        margin-right: auto; /* Push the title to the left side */
+    }
+
+    .search-container {
+        margin-left: auto; /* Push the search container to the right side */
+    }
+
+    .search-box {
+        width: 250px; /* Adjust search box width */
+        margin-left: 10px; /* Adjust margin as needed */
+    }
+
+    .search-button {
+        padding: 7px; /* Adjust padding as needed */
+    }
 }
