@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -8,79 +10,82 @@
 }
 
 body{
-    background-color: #E8E8E8;
-}
-
-.content{
     display: flex;
 }
 
 .sidebar-kiri{
-    background-color: #FFFFFF;
-    display: flex;
-    flex-direction: column;
+    position: sticky;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 120px;
+    width: 110px;
     height: 100vh;
     padding: 0 1.7rem;
-    color: black;
-    align-items: center;
-    position: sticky;
-    /* overflow: hidden; */
+    color: #fff;
+    overflow: hidden;
     transition: all 0.5s linear;
+    background: white;
 }
 
-
-.sidebar-kiri h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+.sidebar-kiri:hover{
+    width: 240px;
+    transition: 0.5s;
 }
 
-.sidebar-kiri ul{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 5px;
-    width: 100px;
-    height: 80vh;
-    align-items: center;
-    margin-top: 20px;
+.logo{
+    height: 80px;
+    padding: 16px;
 }
-
-.sidebar-kiri ul li {
-    display: flex;
-    justify-content: center;
+.menu{
+    height: 88%;
     list-style: none;
-    align-items: center;
-    height: 100%;
-    width: 100px;
-    border-radius: 20px;
-    transition: all 0.5s ease;
-    position: relative; /* Added to allow z-index to work */
-    z-index: 0; /* Ensure non-active elements are behind */
+    position: relative;
+    padding: 0;
+}
+.menu li{
+    padding: 1rem;
+    margin: 8px 0;
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
 }
 
-.sidebar-kiri ul a{
+.menu li:hover,
+.active{
+    background: #FFF2D7;
+}
+
+.menu a{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
     display: flex;
     align-items: center;
-    justify-content: center;
-    color: #F5BA5E;
-    text-decoration: none;
-    height: 100%;
-    width: 100%;
-    /* text-align: center; */
-    transition: transform 0.5s ease;
+    gap: 1.5rem;
 }
 
+.menu a span{
+    overflow: hidden;
+}
 
+.menu a i{
+    font-size: 1.2rem;
+    color: #F5BA5E;
+}
+
+/* .logout{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+} */
+
+/* main Content */
 .main--content{
     position: relative;
     background: #ebe9e9;
     width: 100%;
-    /* padding: 1rem; */
+    padding: 1rem;
 }
 
 .header--wrapper img{
@@ -94,153 +99,82 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
+    background: none;
     border-radius: 10px;
-    /* padding: 10px 2rem; */
+    padding: 10px 2rem;
     margin-bottom: 1rem;
-    width: 180vh;
 }
 
 .header--title{
     color: #0a0908;
     font-size: 15px;
     font-weight: 600;
-    margin: 20px 0px 0px 50px;
 }
 
 .header--title span{
     color: #F5BA5E;
 }
 
-.search-container{
-    position: relative;
+.InputContainer{
+    height: 35px;
     display: flex;
     align-items: center;
-    /* margin-right: 1000px; */
-    justify-content: space-between;
-    margin-top: 20px;
-}
-
-.search-box{
-    width: 230px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    outline: none;
-    margin-left: 10px;
-}
-
-.search-button{
-    top: 0;
-    left: 0;
-    padding: 7px;
-    border: none;
-    background: none;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
     cursor: pointer;
+    padding-left: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
 }
-
-.search-button i{
-    font-size: 18px;
-    color: #888;
-}
-
-.search-button span{
-    color: #D77E19;
-}
-
-
-/* Media query untuk perangkat dengan lebar layar kurang dari atau sama dengan 768px */
-@media only screen and (max-width: 768px) {
-    /* Atur tampilan atau tata letak untuk layar kecil di sini */
-
-  }
   
-  @media only screen and (min-width: 769px) and (max-width: 1024px) {
-    .sidebar-kiri {
-        width: 100px;
-        padding: 0 1rem;
-    }
-
-    .sidebar-kiri ul {
-        width: 80px;
-    }
-
-    .sidebar-kiri ul li {
-        width: 80px;
-    }
-
-    .main--content {
-        padding: 0 1rem;
-    }
-
-    .header--wrapper {
-        width: 100%;
-        padding: 0 0.5rem;
-        flex-direction: column; /* Stack header-title and search-container vertically */
-        align-items: flex-start; /* Align items to the start */
-    }
-
-    .header--title {
-        font-size: 14px;
-        margin: 10px 0;
-    }
-
-    .search-container {
-        margin-top: 10px;
-        width: 35%; /* Ensure the search container takes full width */
-    }
-
-    .search-box {
-        width: 100%; /* Full width for search box */
-    }
-
-    .search-button {
-        padding: 5px;
-    }
-} 
-
-
-  /* Media query untuk perangkat dengan lebar layar lebih dari atau sama dengan 1024px */
-  @media only screen and (min-width: 1025px) {
-    .sidebar-kiri {
-        width: 150px; /* Increase sidebar width for larger screens */
-        padding: 0 1.7rem; /* Adjust padding as needed */
-    }
-
-    .sidebar-kiri ul {
-        width: 120px; /* Adjust width of sidebar items */
-    }
-
-    .sidebar-kiri ul li {
-        width: 120px; /* Adjust width of sidebar items */
-    }
-
-    .main--content {
-        padding: 0 2rem; /* Adjust main content padding */
-    }
-
-    .header--wrapper {
-        width: auto; /* Allow header to expand based on content */
-        padding: 0 2rem; /* Adjust padding as needed */
-        justify-content: center; /* Center align header content */
-        align-items: center; /* Center align header content */
-        flex-direction: row; /* Ensure default horizontal layout */
-    }
-
-    .header--title {
-        margin-right: auto; /* Push the title to the left side */
-    }
-
-    .search-container {
-        margin-left: auto; /* Push the search container to the right side */
-    }
-
-    .search-box {
-        width: 250px; /* Adjust search box width */
-        margin-left: 10px; /* Adjust margin as needed */
-    }
-
-    .search-button {
-        padding: 7px; /* Adjust padding as needed */
-    }
+.input{
+    width: 125px;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 0.9em;
+    caret-color: rgb(255, 81, 0);
+}
+  
+.labelforsearch{
+    cursor: text;
+    padding: 0px 12px;
+}
+  
+.searchIcon{
+    width: 13px;
+}
+  
+.border{
+    height: 40%;
+    width: 1.3px;
+    background-color: rgb(223, 223, 223);
+}
+  
+.micIcon{
+    width: 12px;
+}
+  
+.micButton{
+    padding: 0px 15px 0px 12px;
+    border: none;
+    background-color: transparent;
+    height: 40px;
+    cursor: pointer;
+    transition-duration: .3s;
+}
+  
+.searchIcon path{
+    fill: rgb(114, 114, 114);
+}
+  
+.micIcon path{
+    fill: #D77E19;
+}
+  
+.micButton:hover{
+    background-color: rgb(255, 230, 230);
+    transition-duration: .3s;
 }
