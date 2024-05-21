@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -8,73 +10,82 @@
 }
 
 body{
-    background-color: #E8E8E8;
-}
-
-.content{
     display: flex;
 }
 
 .sidebar-kiri{
-    background-color: #FFFFFF;
-    display: flex;
-    flex-direction: column;
+    position: sticky;
     top: 0;
     left: 0;
     bottom: 0;
     width: 110px;
     height: 100vh;
     padding: 0 1.7rem;
-    color: black;
-    align-items: center;
-    position: sticky;
+    color: #fff;
     overflow: hidden;
     transition: all 0.5s linear;
+    background: white;
 }
 
-
-.sidebar-kiri h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+.sidebar-kiri:hover{
+    width: 240px;
+    transition: 0.5s;
 }
 
-.sidebar-kiri ul{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 80%;
-    align-items: center;
-    margin-top: 20px;
+.logo{
+    height: 80px;
+    padding: 16px;
 }
-
-.sidebar-kiri ul li{
+.menu{
+    height: 88%;
     list-style: none;
-    align-items: center;
-    margin: 25px;
-    /* padding: 10px 30px 10px 30px; */
-    
-    border-radius: 20px;
+    position: relative;
+    padding: 0;
+}
+.menu li{
+    padding: 1rem;
+    margin: 8px 0;
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
 }
 
-.sidebar-kiri ul a{
-    color: #F5BA5E;
+.menu li:hover,
+.active{
+    background: #FFF2D7;
+}
+
+.menu a{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
     text-decoration: none;
-    
-    width: auto;
-    transition: transform 0.5s ease;
-}
-.sidebar-kiri ul a:hover{
-    background-color: rgb(234, 234, 234);
-    transform: translateX(10px);
-    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
 }
 
+.menu a span{
+    overflow: hidden;
+}
+
+.menu a i{
+    font-size: 1.2rem;
+    color: #F5BA5E;
+}
+
+/* .logout{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+} */
+
+/* main Content */
 .main--content{
     position: relative;
     background: #ebe9e9;
     width: 100%;
-    /* padding: 1rem; */
+    padding: 1rem;
 }
 
 .header--wrapper img{
@@ -88,50 +99,36 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
+    background: none;
     border-radius: 10px;
-    /* padding: 10px 2rem; */
+    padding: 10px 2rem;
     margin-bottom: 1rem;
-    width: 180vh;
 }
 
 .header--title{
     color: #0a0908;
     font-size: 15px;
     font-weight: 600;
-    margin: 20px 0px 0px 50px;
 }
 
 .header--title span{
     color: #F5BA5E;
 }
 
-.search-container{
-    position: relative;
+.InputContainer{
+    height: 35px;
     display: flex;
     align-items: center;
-    /* margin-right: 1000px; */
-    justify-content: space-between;
-    margin-top: 20px;
-}
-
-.search-box{
-    width: 230px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    outline: none;
-    margin-left: 10px;
-}
-
-.search-button{
-    top: 0;
-    left: 0;
-    padding: 7px;
-    border: none;
-    background: none;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
     cursor: pointer;
+    padding-left: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
 }
+<<<<<<< HEAD
 
 .search-button i{
     font-size: 18px;
@@ -201,60 +198,55 @@ body{
     /* Atur tampilan atau tata letak untuk layar kecil di sini */
 
   }
+=======
+>>>>>>> 01e1fa1a3ab8f5b05b0ccab5a37ebf9388f35f3e
   
-  /* Media query untuk perangkat dengan lebar layar di antara 768px dan 1024px */
-  @media only screen and (min-width: 769px) and (max-width: 1024px) {
-    /* Atur tampilan atau tata letak untuk layar menengah di sini */
-
-    /* Mengatur lebar sidebar */
-    .sidebar-kiri{
-        width: 20%; /* Ubah lebar sidebar menjadi 20% dari lebar layar */
-        height: 100vh;
-    }
-
-    /* Mengatur tata letak logout */
-    .logout{
-        width: 50%; /* Mengatur lebar logout menjadi 50% dari lebar parent */
-    }   
-
-    /* Mengatur tampilan konten utama */
-    .main--content{
-        position: relative;
-        background: #ebe9e9;
-        width: 70%; /* Ubah lebar konten utama menjadi 70% dari lebar layar */
-        padding: 0.5rem;
-    }
-
-    /* Mengatur ukuran font judul */
-    .header--title{
-        font-size: 18px; /* Ubah ukuran font judul menjadi 18px */
-        font-weight: 200;
-    }
-
-    /* Mengatur tata letak kotak pencarian */
-    .search-container{
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-right: 20px;
-        justify-content: space-between;
-    }
-
-    /* Mengatur ukuran kotak pencarian */
-    .search-box{
-        width: 140px;
-        height: 30px; /* Ubah tinggi kotak pencarian menjadi 30px */
-        padding: 5px;
-        border: 1px solid #ccc;
-        border-radius: 2px;
-        outline: none;
-        margin-left: 5px;
-    }
+.input{
+    width: 125px;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 0.9em;
+    caret-color: rgb(255, 81, 0);
 }
-
-
-  /* Media query untuk perangkat dengan lebar layar lebih dari atau sama dengan 1024px */
-@media only screen and (min-width: 1025px) {
-    /* Atur tampilan atau tata letak untuk layar besar di sini */
-
+  
+.labelforsearch{
+    cursor: text;
+    padding: 0px 12px;
+}
+  
+.searchIcon{
+    width: 13px;
+}
+  
+.border{
+    height: 40%;
+    width: 1.3px;
+    background-color: rgb(223, 223, 223);
+}
+  
+.micIcon{
+    width: 12px;
+}
+  
+.micButton{
+    padding: 0px 15px 0px 12px;
+    border: none;
+    background-color: transparent;
+    height: 40px;
+    cursor: pointer;
+    transition-duration: .3s;
+}
+  
+.searchIcon path{
+    fill: rgb(114, 114, 114);
+}
+  
+.micIcon path{
+    fill: #D77E19;
+}
+  
+.micButton:hover{
+    background-color: rgb(255, 230, 230);
+    transition-duration: .3s;
 }

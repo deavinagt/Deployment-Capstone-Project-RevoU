@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .card img{
     width: 125px;
     height: 125px;
@@ -169,4 +170,14 @@
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     
+=======
+.pizz{
+    background-color: #E1AFD1;
+}
+
+.sidebar-kiri ul a:hover{
+    background-color: #E1AFD1;
+    /* transform: translateX(10px); */
+    border-radius: 20px;
+>>>>>>> 01e1fa1a3ab8f5b05b0ccab5a37ebf9388f35f3e
 }
