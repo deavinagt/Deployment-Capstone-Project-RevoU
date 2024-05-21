@@ -144,6 +144,23 @@ body{
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .sidebar-kiri{
+        background-color: #FFFFFF;
+        display: flex;
+        flex-direction: column;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 110px;
+        height: 100vh;
+        padding: 0 1.7rem;
+        color: black;
+        align-items: center;
+        position: sticky;
+        overflow: hidden;
+        transition: all 0.5s linear;
+    }
+
     .search-container{
         position: relative;
         display: flex;

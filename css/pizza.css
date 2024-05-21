@@ -1,0 +1,172 @@
+.card img{
+    width: 125px;
+    height: 125px;
+    border-radius: 7px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 15px;
+    /* align-items: center;
+    margin-top: 30px; */
+}
+
+.main-content-pizza{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    width: 98%;
+    margin-left: 25px;
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.card-pizza-1{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    background-color: #D77E19;
+    border-radius: 10px;
+    padding: 10px;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.card-pizza-2{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    background-color: #F5BA5E;
+    border-radius: 10px;
+    padding: 10px;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.card-pizza-3{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    background-color: #E3A36F;
+    border-radius: 10px;
+    padding: 10px;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.card span h4{
+    padding-top: 10px;
+}
+
+.card span h4 span{
+    background-color: bisque;
+    border-radius: 2px;
+    padding: 3px;
+}
+
+.pagination{
+    text-align: center;
+    margin: 30px 30px 60px;
+    user-select: none;
+}
+
+.pagination li{
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 0 5px 25px rgb(1 1 1 /10%);
+}
+
+.pagination li a{
+    color: #F5BA5E;
+    text-decoration: none;
+    font-size: 1.2em;
+    line-height: 45px;
+}
+
+.prev-page, .next-page{
+    background: #E3A36F;
+    width: 80px;
+    border-radius: 45px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.prev-page:hover{
+    transform: translateX(-5px);
+}
+
+.next-page:hover{
+    transform: translateX(5px);
+}
+
+.current-page, .dots{
+    background: #FFFFFF;
+    width: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.actives{
+    background: #D77E19;
+}
+
+.disable{
+    background: #E3A36F;
+}
+
+/* .pizza-preview{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pizza-popup img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.pizza-popup{
+    display: none;
+    padding: 2rem;
+    text-align: center;
+    background-color: #FFFFFF;
+    position: relative;
+    margin: 2rem;
+    width: 40rem;
+}
+
+.pizza-popup .active{
+    display: inline-block; 
+} */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+}
