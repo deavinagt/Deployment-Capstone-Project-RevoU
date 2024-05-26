@@ -32,3 +32,23 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+function openModal() {
+  var modal = document.getElementById("myModal");
+   modal.style.display = "block";
+}
+
+function closeModal() {
+  var modal = document.getElementById("myModal");
+  modal.style.display = "none";
+}
+
+// function openModal() {
+//   var modal = document.getElementById("myModal-1");
+//    modal.style.display = "block";
+// }
+
+// function closeModal() {
+//   var modal = document.getElementById("myModal-1");
+//   modal.style.display = "none";
+// }
