@@ -5,50 +5,80 @@
 //         navbarMenu.classList.toggle('active');
 //     });
 
-// Get the modal
-let modal = document.getElementById("myModal");
+//
 
-// Get the button that opens the modal
-let btn = document.getElementById("myBtn");
+const buttons = {
+  "myBtn": "myModal",
+  "myBtn-1": "myModal-1",
+  "myBtn-2": "myModal-2",
+  "myBtn-3": "myModal-3",
+  "myBtn-4": "myModal-4"
+};
 
-// Get the <span> element that closes the modal
-let span = document.getElementsByClassName("close")[0];
+for (let btnId in buttons) {
+  let btn = document.getElementById(btnId);
+  let modalId = buttons[btnId];
+  let modal = document.getElementById(modalId);
 
-const closeButton = document.getElementById("btn-close");
+  btn.onclick = function() {
+      modal.style.display = "block";
+  };
+}
 
-// When the user clicks the button, open the modal 
-btn.onclick = function() {
+let closeElements = document.getElementsByClassName("close");
+
+for (let i = 0; i < closeElements.length; i++) {
+  closeElements[i].onclick = function() {
+      let modal = closeElements[i].closest(".modal");
+      modal.style.display = "none";
+  };
+}
+
+window.onclick = function(event) {
+  for (let modalId in buttons) {
+      let modal = document.getElementById(modalId);
+      if (event.target === modal) {
+          modal.style.display = "none";
+      }
+  }
+};
+
+function closeModal(modalId) {
+  var modal = document.getElementById(modalId);
+  modal.style.display = "none";
+}
+
+const modals = {
+  "myBtn": "myModal",
+  "myBtn-1": "myModal-1",
+  "myBtn-2": "myModal-2",
+  "myBtn-3": "myModal-3",
+  "myBtn-4": "myModal-4"
+};
+
+function openModal(modalId) {
+  var modal = document.getElementById(modalId);
   modal.style.display = "block";
 }
 
-// When the user clicks on <span> (x), close the modal
-closeButton.onclick = function() {
+function closeModal(modalId) {
+  var modal = document.getElementById(modalId);
   modal.style.display = "none";
 }
 
-// When the user clicks anywhere outside of the modal, close it
+Object.keys(modals).forEach(btnId => {
+  const button = document.getElementById(btnId);
+  button.onclick = function() {
+      openModal(modals[btnId]);
+  };
+});
+
 window.onclick = function(event) {
-  if (event.target === modal) {
-    modal.style.display = "none";
-  }
+  Object.values(modals).forEach(modalId => {
+      var modal = document.getElementById(modalId);
+      if (event.target === modal) {
+          closeModal(modalId);
+      }
+  });
 }
 
-function openModal() {
-  var modal = document.getElementById("myModal");
-   modal.style.display = "block";
-}
-
-function closeModal() {
-  var modal = document.getElementById("myModal");
-  modal.style.display = "none";
-}
-
-// function openModal() {
-//   var modal = document.getElementById("myModal-1");
-//    modal.style.display = "block";
-// }
-
-// function closeModal() {
-//   var modal = document.getElementById("myModal-1");
-//   modal.style.display = "none";
-// }

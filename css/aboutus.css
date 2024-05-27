@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+.aboutus-content{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.team-content{
+    display: flex;
+    justify-content: center;
+}
+
+.name-pic h1{
+	color: black;
+	font-size: 30px;
+    font-weight: 700;
+	text-align: center;
+    padding: 30px;
+    padding-bottom: 1px;
+}
+
+.box{
+    width: 25%;
+    height: 30%;
+    margin: 20px;
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all .38s ease;
+	background: #F5BA5E;
+}
+
+.box h2{
+	font-size: 15px;
+	font-weight: 600;
+	color: black;
+    padding: 5px;
+}
+
+.box p{
+    font-size: 15px;
+	font-weight: 600;
+	color: black;
+    margin-bottom: 3px;
+    padding: 5px;
+}
+
+img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card i{
+    font-size: 25px;
+    color: #000;
+}

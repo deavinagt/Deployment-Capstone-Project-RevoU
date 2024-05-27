@@ -345,7 +345,7 @@ body{
     background: #D77E19;
     max-width: 90%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 15px;
     border-radius: 20px;
 }
 
@@ -372,36 +372,8 @@ body{
     margin: 0 10px;
 }
 
-.modal-content-2{
-    background: #D77E19;
-    max-width: 90%;
-    margin: 0 auto;
-    padding: 20px;
-    border-radius: 20px;
-}
-
-.modal-content-2 h1{
-    font-size: 25px;
-    font-weight: 600;
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.modal-content-2 img{
+.modal-content-1 ul li .image-problem-statement img{
+    margin: 0 10px;
     max-width: 70%;
     max-height: 70%;
-    margin-left: 23%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.modal-content-2 ul{
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.modal-content-2 ul li{
-    margin: 0 10px;
 }
