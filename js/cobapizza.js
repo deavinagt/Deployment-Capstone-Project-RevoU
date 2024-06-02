@@ -331,3 +331,16 @@ $(function () {
 
     $("#search-box").on("input", updateContent);
 });
+
+//coba pop up
+cardContent.addEventListener('click', () => {
+                prevImg.src = item.image;
+                prevImg.alt = item.name;
+                popupName.textContent = item.name;
+                popupIngredients.textContent = item.ingredients;
+                popupCategory.textContent = item.category;
+                popupSize.textContent = item.size;
+                popupPrice.textContent = `$${item.price}`;
+
+                popup.style.display = 'block';
+            });
