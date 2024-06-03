@@ -359,6 +359,7 @@ body{
 .modal-content-1 img{
     max-width: 100%;
     max-height: 100%;
+    border-radius: 10px;
 }
 
 .modal-content-1 ul{
@@ -370,10 +371,333 @@ body{
 
 .modal-content-1 ul li{
     margin: 0 10px;
+    width: 50%;
+    border-radius: 10px;
 }
 
-.modal-content-1 ul li .image-problem-statement img{
-    margin: 0 10px;
-    max-width: 70%;
-    max-height: 70%;
+.modal-content-2{
+  background: #F5BA5E;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 20px;
 }
+
+.modal-content-2 h1{
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.modal-content-2 img{
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 10px;
+}
+
+.modal-content-2 ul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.modal-content-2 ul li{
+  margin: 0 10px;
+  width: 50%;
+  border-radius: 10px;
+}
+
+.modal-content-3{
+  background: #E3A36F;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.modal-content-3 h1{
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.modal-content-3 img{
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 10px;
+}
+
+.modal-content-3 ul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.modal-content-3 ul li{
+  margin: 0 10px;
+  width: 50%;
+  border-radius: 10px;
+}
+
+  @media screen and (max-width: 450px) {
+    body {
+      font-size: 10px;
+    }
+
+    .isi-home {
+      flex-direction: column;
+    }
+
+    .isi-main-content {
+      flex-direction: column;
+    }
+
+    .main-content {
+      width: 100%;
+    }
+    
+    .main-content ul li {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .main-content ul li:hover {
+      transform: none;
+    }
+
+    .sidebar-kiri {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 70%;
+      height: 80px;
+      background-color: #FFFFFF;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 999;
+      transition: width 0.3s ease-out;
+    }
+
+    .sidebar-kiri.collapsed {
+      width: 80px;
+    }
+    
+    .sidebar-kiri.collapsed ul {
+      display: none;
+    }
+    
+    .sidebar-kiri.collapsed ul.show {
+      display: flex;
+    }
+
+    .sidebar-kiri ul {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .sidebar-kiri ul li {
+      margin: 0 10px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    .sidebar-kiri ul li img {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+    }
+
+    .business-problem {
+      width: 100%;
+      height: 100%;
+      font-size: 7px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .problem-statement{
+      width: 100%;
+      height: 80%;
+      font-size: 7px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .scope{
+      width: 100%;
+      height: 80%;
+      font-size: 7px;
+      font-weight: 300;
+    }
+
+    .whys{
+      width: 100%;
+      height: 100%;
+      font-size: 7px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .metric{
+      width: 100%;
+      height: 100%;
+      font-size: 7px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .image{
+      width: 100%;
+      height: 100%;
+      margin-bottom: 0;
+    }
+
+    .image img{
+      height: 230px;
+    }
+
+    .button{
+      font-size: 8px;
+    }
+
+    .button-1{
+      font-size: 8px;
+    }
+
+    .button-2{
+      font-size: 8px;
+    }
+
+    .button-3{
+      font-size: 8px;
+    }
+
+    .button-4{
+      font-size: 8px;
+    }
+
+    .sidebar-kanan {
+      width: 86%;
+      height: 100%;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .modal-content-1 {
+      max-width: 100%;
+    }
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
+    .isi-home {
+      flex-direction: row;
+    }
+
+    .isi-main-content {
+      flex-direction: row;
+    }
+
+    .main-content {
+      width: 5100%;
+    }
+
+    .main-content ul li {
+      flex-direction: row;
+      align-items: center;
+    }
+
+    .main-content ul li:hover {
+      transform: scale(1.1) translate(10px);
+      width: auto;
+      height: auto;
+    }
+
+    .business-problem {
+      width: 100%;
+      height: 100%;
+      font-size: 8px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .problem-statement {
+      width: 100%;
+      height: 100%;
+      font-size: 8px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .scope {
+      width: 100%;
+      height: 100%;
+      font-size: 8px;
+      font-weight: 300;
+    }
+
+    .whys {
+      width: 100%;
+      height: 100%;
+      font-size: 8px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .metric {
+      width: 100%;
+      height: 100%;
+      font-size: 8px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    .image {
+      width: 85%;
+      height: 100%;
+      margin-bottom: 0;
+    }
+    
+    .image img {
+      width: 100%;
+      height: 245px;
+    }
+
+    .button {
+      font-size: 8px;
+    }
+
+    .button-1 {
+      font-size: 8px;
+    }
+
+    .button-2 {
+      font-size: 8px;
+    }
+
+    .button-3 {
+      font-size: 8px;
+    }
+
+    .button-4 {
+      font-size: 8px;
+    }
+
+    .sidebar-kanan {
+      width: 40%;
+      height: 100%;
+      margin: 0 auto;
+      padding: 40px;
+    }
+
+    .modal-content-1 {
+      max-width: 100%;
+    }
+  }
