@@ -179,7 +179,7 @@ body{
     transition-duration: .3s;
 }
 
-/* @media (max-width: 450px) {
+@media (max-width: 450px) {
     .content {
         flex-direction: column;
         max-width: 720px;
@@ -241,4 +241,4 @@ body{
         width: 100%;
         margin: 10px 0;
     }
-} */
+}

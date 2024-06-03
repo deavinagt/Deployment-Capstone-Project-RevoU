@@ -272,7 +272,7 @@
         background: none;
         border-radius: 10px;
         padding: 10px 20px;
-        font-size: 25;
+        /* font-size: 25; */
         margin-bottom: 1rem;
     }
 
@@ -322,7 +322,7 @@
     
     .main-content-pizza{
         /* align-items: flex-start; */
-        place-items: center;
+        /* place-items: center; */
         margin-left: 5px;
         margin-right: 5px;
         padding: 10px;
@@ -385,15 +385,16 @@
 
     .group-pagination{
         display: flex;
-        align-items: baseline;
+        align-items: center;
         margin: 10px;
         padding: 0;
         position: relative;
     }
     
     .pagination{
-        display: flex;
-        flex-direction: row;
+        display: grid;
+        grid-template-columns: repeat(4, 30px);
+        /* flex-direction: row; */
         text-align: center;
         margin: 10px 10px 20px;
         user-select: none;
@@ -503,7 +504,6 @@
         padding: 0;
         position: relative;
         justify-content: center;
-        margin-left: 165px;
     }
     
     .pagination{
