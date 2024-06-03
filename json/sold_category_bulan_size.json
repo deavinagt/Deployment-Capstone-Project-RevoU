@@ -1,0 +1,836 @@
+[{
+  "bulan": "5",
+  "size": "S",
+  "Quantity": "565",
+  "Category": "Classic"
+}, {
+  "bulan": "7",
+  "size": "S",
+  "Quantity": "543",
+  "Category": "Classic"
+}, {
+  "bulan": "11",
+  "size": "S",
+  "Quantity": "539",
+  "Category": "Classic"
+}, {
+  "bulan": "3",
+  "size": "S",
+  "Quantity": "533",
+  "Category": "Classic"
+}, {
+  "bulan": "8",
+  "size": "S",
+  "Quantity": "533",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "S",
+  "Quantity": "515",
+  "Category": "Classic"
+}, {
+  "bulan": "7",
+  "size": "L",
+  "Quantity": "510",
+  "Category": "Veggie"
+}, {
+  "bulan": "4",
+  "size": "S",
+  "Quantity": "502",
+  "Category": "Classic"
+}, {
+  "bulan": "3",
+  "size": "L",
+  "Quantity": "500",
+  "Category": "Veggie"
+}, {
+  "bulan": "10",
+  "size": "S",
+  "Quantity": "491",
+  "Category": "Classic"
+}, {
+  "bulan": "2",
+  "size": "S",
+  "Quantity": "485",
+  "Category": "Classic"
+}, {
+  "bulan": "9",
+  "size": "S",
+  "Quantity": "485",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "L",
+  "Quantity": "485",
+  "Category": "Veggie"
+}, {
+  "bulan": "12",
+  "size": "S",
+  "Quantity": "482",
+  "Category": "Classic"
+}, {
+  "bulan": "5",
+  "size": "L",
+  "Quantity": "467",
+  "Category": "Veggie"
+}, {
+  "bulan": "6",
+  "size": "S",
+  "Quantity": "466",
+  "Category": "Classic"
+}, {
+  "bulan": "6",
+  "size": "L",
+  "Quantity": "459",
+  "Category": "Veggie"
+}, {
+  "bulan": "11",
+  "size": "L",
+  "Quantity": "456",
+  "Category": "Veggie"
+}, {
+  "bulan": "3",
+  "size": "L",
+  "Quantity": "444",
+  "Category": "Chicken"
+}, {
+  "bulan": "2",
+  "size": "L",
+  "Quantity": "441",
+  "Category": "Veggie"
+}, {
+  "bulan": "8",
+  "size": "L",
+  "Quantity": "436",
+  "Category": "Veggie"
+}, {
+  "bulan": "5",
+  "size": "L",
+  "Quantity": "435",
+  "Category": "Chicken"
+}, {
+  "bulan": "11",
+  "size": "L",
+  "Quantity": "433",
+  "Category": "Chicken"
+}, {
+  "bulan": "7",
+  "size": "L",
+  "Quantity": "423",
+  "Category": "Chicken"
+}, {
+  "bulan": "10",
+  "size": "L",
+  "Quantity": "419",
+  "Category": "Veggie"
+}, {
+  "bulan": "5",
+  "size": "L",
+  "Quantity": "419",
+  "Category": "Supreme"
+}, {
+  "bulan": "4",
+  "size": "L",
+  "Quantity": "417",
+  "Category": "Chicken"
+}, {
+  "bulan": "9",
+  "size": "L",
+  "Quantity": "415",
+  "Category": "Chicken"
+}, {
+  "bulan": "4",
+  "size": "L",
+  "Quantity": "410",
+  "Category": "Veggie"
+}, {
+  "bulan": "9",
+  "size": "L",
+  "Quantity": "410",
+  "Category": "Veggie"
+}, {
+  "bulan": "12",
+  "size": "L",
+  "Quantity": "410",
+  "Category": "Veggie"
+}, {
+  "bulan": "12",
+  "size": "L",
+  "Quantity": "409",
+  "Category": "Chicken"
+}, {
+  "bulan": "1",
+  "size": "L",
+  "Quantity": "406",
+  "Category": "Chicken"
+}, {
+  "bulan": "7",
+  "size": "L",
+  "Quantity": "404",
+  "Category": "Supreme"
+}, {
+  "bulan": "11",
+  "size": "L",
+  "Quantity": "400",
+  "Category": "Supreme"
+}, {
+  "bulan": "8",
+  "size": "L",
+  "Quantity": "399",
+  "Category": "Chicken"
+}, {
+  "bulan": "6",
+  "size": "L",
+  "Quantity": "396",
+  "Category": "Supreme"
+}, {
+  "bulan": "2",
+  "size": "L",
+  "Quantity": "392",
+  "Category": "Chicken"
+}, {
+  "bulan": "1",
+  "size": "L",
+  "Quantity": "392",
+  "Category": "Supreme"
+}, {
+  "bulan": "4",
+  "size": "L",
+  "Quantity": "392",
+  "Category": "Supreme"
+}, {
+  "bulan": "6",
+  "size": "L",
+  "Quantity": "385",
+  "Category": "Chicken"
+}, {
+  "bulan": "3",
+  "size": "L",
+  "Quantity": "380",
+  "Category": "Supreme"
+}, {
+  "bulan": "7",
+  "size": "M",
+  "Quantity": "378",
+  "Category": "Classic"
+}, {
+  "bulan": "10",
+  "size": "L",
+  "Quantity": "374",
+  "Category": "Chicken"
+}, {
+  "bulan": "8",
+  "size": "M",
+  "Quantity": "374",
+  "Category": "Classic"
+}, {
+  "bulan": "10",
+  "size": "L",
+  "Quantity": "369",
+  "Category": "Supreme"
+}, {
+  "bulan": "6",
+  "size": "M",
+  "Quantity": "367",
+  "Category": "Supreme"
+}, {
+  "bulan": "4",
+  "size": "M",
+  "Quantity": "366",
+  "Category": "Supreme"
+}, {
+  "bulan": "7",
+  "size": "M",
+  "Quantity": "365",
+  "Category": "Supreme"
+}, {
+  "bulan": "10",
+  "size": "M",
+  "Quantity": "364",
+  "Category": "Supreme"
+}, {
+  "bulan": "2",
+  "size": "L",
+  "Quantity": "362",
+  "Category": "Supreme"
+}, {
+  "bulan": "8",
+  "size": "L",
+  "Quantity": "362",
+  "Category": "Supreme"
+}, {
+  "bulan": "7",
+  "size": "L",
+  "Quantity": "360",
+  "Category": "Classic"
+}, {
+  "bulan": "4",
+  "size": "M",
+  "Quantity": "360",
+  "Category": "Classic"
+}, {
+  "bulan": "12",
+  "size": "L",
+  "Quantity": "358",
+  "Category": "Supreme"
+}, {
+  "bulan": "11",
+  "size": "M",
+  "Quantity": "357",
+  "Category": "Chicken"
+}, {
+  "bulan": "1",
+  "size": "L",
+  "Quantity": "357",
+  "Category": "Classic"
+}, {
+  "bulan": "9",
+  "size": "L",
+  "Quantity": "356",
+  "Category": "Classic"
+}, {
+  "bulan": "5",
+  "size": "M",
+  "Quantity": "355",
+  "Category": "Classic"
+}, {
+  "bulan": "6",
+  "size": "M",
+  "Quantity": "351",
+  "Category": "Chicken"
+}, {
+  "bulan": "3",
+  "size": "M",
+  "Quantity": "350",
+  "Category": "Chicken"
+}, {
+  "bulan": "6",
+  "size": "L",
+  "Quantity": "350",
+  "Category": "Classic"
+}, {
+  "bulan": "11",
+  "size": "M",
+  "Quantity": "350",
+  "Category": "Supreme"
+}, {
+  "bulan": "5",
+  "size": "L",
+  "Quantity": "347",
+  "Category": "Classic"
+}, {
+  "bulan": "11",
+  "size": "M",
+  "Quantity": "341",
+  "Category": "Classic"
+}, {
+  "bulan": "5",
+  "size": "M",
+  "Quantity": "340",
+  "Category": "Supreme"
+}, {
+  "bulan": "4",
+  "size": "M",
+  "Quantity": "339",
+  "Category": "Chicken"
+}, {
+  "bulan": "3",
+  "size": "M",
+  "Quantity": "339",
+  "Category": "Supreme"
+}, {
+  "bulan": "12",
+  "size": "M",
+  "Quantity": "336",
+  "Category": "Classic"
+}, {
+  "bulan": "7",
+  "size": "M",
+  "Quantity": "335",
+  "Category": "Chicken"
+}, {
+  "bulan": "1",
+  "size": "M",
+  "Quantity": "335",
+  "Category": "Supreme"
+}, {
+  "bulan": "11",
+  "size": "L",
+  "Quantity": "334",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "M",
+  "Quantity": "333",
+  "Category": "Classic"
+}, {
+  "bulan": "3",
+  "size": "M",
+  "Quantity": "332",
+  "Category": "Classic"
+}, {
+  "bulan": "6",
+  "size": "M",
+  "Quantity": "332",
+  "Category": "Classic"
+}, {
+  "bulan": "8",
+  "size": "L",
+  "Quantity": "330",
+  "Category": "Classic"
+}, {
+  "bulan": "9",
+  "size": "L",
+  "Quantity": "330",
+  "Category": "Supreme"
+}, {
+  "bulan": "8",
+  "size": "M",
+  "Quantity": "329",
+  "Category": "Supreme"
+}, {
+  "bulan": "3",
+  "size": "L",
+  "Quantity": "327",
+  "Category": "Classic"
+}, {
+  "bulan": "2",
+  "size": "L",
+  "Quantity": "326",
+  "Category": "Classic"
+}, {
+  "bulan": "2",
+  "size": "M",
+  "Quantity": "326",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "M",
+  "Quantity": "325",
+  "Category": "Chicken"
+}, {
+  "bulan": "5",
+  "size": "M",
+  "Quantity": "325",
+  "Category": "Chicken"
+}, {
+  "bulan": "12",
+  "size": "L",
+  "Quantity": "325",
+  "Category": "Classic"
+}, {
+  "bulan": "4",
+  "size": "M",
+  "Quantity": "325",
+  "Category": "Veggie"
+}, {
+  "bulan": "10",
+  "size": "L",
+  "Quantity": "323",
+  "Category": "Classic"
+}, {
+  "bulan": "10",
+  "size": "M",
+  "Quantity": "323",
+  "Category": "Classic"
+}, {
+  "bulan": "4",
+  "size": "L",
+  "Quantity": "322",
+  "Category": "Classic"
+}, {
+  "bulan": "9",
+  "size": "M",
+  "Quantity": "322",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "M",
+  "Quantity": "318",
+  "Category": "Veggie"
+}, {
+  "bulan": "5",
+  "size": "M",
+  "Quantity": "318",
+  "Category": "Veggie"
+}, {
+  "bulan": "7",
+  "size": "M",
+  "Quantity": "318",
+  "Category": "Veggie"
+}, {
+  "bulan": "2",
+  "size": "M",
+  "Quantity": "318",
+  "Category": "Supreme"
+}, {
+  "bulan": "1",
+  "size": "S",
+  "Quantity": "317",
+  "Category": "Supreme"
+}, {
+  "bulan": "8",
+  "size": "M",
+  "Quantity": "315",
+  "Category": "Veggie"
+}, {
+  "bulan": "8",
+  "size": "M",
+  "Quantity": "313",
+  "Category": "Chicken"
+}, {
+  "bulan": "9",
+  "size": "M",
+  "Quantity": "311",
+  "Category": "Chicken"
+}, {
+  "bulan": "12",
+  "size": "M",
+  "Quantity": "311",
+  "Category": "Veggie"
+}, {
+  "bulan": "8",
+  "size": "S",
+  "Quantity": "300",
+  "Category": "Supreme"
+}, {
+  "bulan": "11",
+  "size": "S",
+  "Quantity": "300",
+  "Category": "Supreme"
+}, {
+  "bulan": "10",
+  "size": "M",
+  "Quantity": "298",
+  "Category": "Chicken"
+}, {
+  "bulan": "12",
+  "size": "M",
+  "Quantity": "296",
+  "Category": "Chicken"
+}, {
+  "bulan": "2",
+  "size": "M",
+  "Quantity": "294",
+  "Category": "Chicken"
+}, {
+  "bulan": "3",
+  "size": "M",
+  "Quantity": "292",
+  "Category": "Veggie"
+}, {
+  "bulan": "12",
+  "size": "M",
+  "Quantity": "290",
+  "Category": "Supreme"
+}, {
+  "bulan": "11",
+  "size": "M",
+  "Quantity": "289",
+  "Category": "Veggie"
+}, {
+  "bulan": "5",
+  "size": "S",
+  "Quantity": "286",
+  "Category": "Supreme"
+}, {
+  "bulan": "6",
+  "size": "M",
+  "Quantity": "285",
+  "Category": "Veggie"
+}, {
+  "bulan": "12",
+  "size": "S",
+  "Quantity": "285",
+  "Category": "Supreme"
+}, {
+  "bulan": "2",
+  "size": "S",
+  "Quantity": "284",
+  "Category": "Supreme"
+}, {
+  "bulan": "9",
+  "size": "M",
+  "Quantity": "283",
+  "Category": "Supreme"
+}, {
+  "bulan": "6",
+  "size": "S",
+  "Quantity": "277",
+  "Category": "Supreme"
+}, {
+  "bulan": "2",
+  "size": "M",
+  "Quantity": "272",
+  "Category": "Veggie"
+}, {
+  "bulan": "9",
+  "size": "M",
+  "Quantity": "272",
+  "Category": "Veggie"
+}, {
+  "bulan": "3",
+  "size": "S",
+  "Quantity": "272",
+  "Category": "Supreme"
+}, {
+  "bulan": "7",
+  "size": "S",
+  "Quantity": "272",
+  "Category": "Supreme"
+}, {
+  "bulan": "10",
+  "size": "M",
+  "Quantity": "268",
+  "Category": "Veggie"
+}, {
+  "bulan": "10",
+  "size": "S",
+  "Quantity": "265",
+  "Category": "Supreme"
+}, {
+  "bulan": "9",
+  "size": "S",
+  "Quantity": "264",
+  "Category": "Supreme"
+}, {
+  "bulan": "4",
+  "size": "S",
+  "Quantity": "255",
+  "Category": "Supreme"
+}, {
+  "bulan": "3",
+  "size": "S",
+  "Quantity": "248",
+  "Category": "Veggie"
+}, {
+  "bulan": "5",
+  "size": "S",
+  "Quantity": "235",
+  "Category": "Veggie"
+}, {
+  "bulan": "2",
+  "size": "S",
+  "Quantity": "231",
+  "Category": "Veggie"
+}, {
+  "bulan": "7",
+  "size": "S",
+  "Quantity": "229",
+  "Category": "Veggie"
+}, {
+  "bulan": "9",
+  "size": "S",
+  "Quantity": "229",
+  "Category": "Veggie"
+}, {
+  "bulan": "11",
+  "size": "S",
+  "Quantity": "228",
+  "Category": "Veggie"
+}, {
+  "bulan": "4",
+  "size": "S",
+  "Quantity": "226",
+  "Category": "Veggie"
+}, {
+  "bulan": "8",
+  "size": "S",
+  "Quantity": "222",
+  "Category": "Chicken"
+}, {
+  "bulan": "1",
+  "size": "S",
+  "Quantity": "215",
+  "Category": "Veggie"
+}, {
+  "bulan": "6",
+  "size": "S",
+  "Quantity": "214",
+  "Category": "Veggie"
+}, {
+  "bulan": "12",
+  "size": "S",
+  "Quantity": "214",
+  "Category": "Veggie"
+}, {
+  "bulan": "8",
+  "size": "S",
+  "Quantity": "209",
+  "Category": "Veggie"
+}, {
+  "bulan": "7",
+  "size": "S",
+  "Quantity": "205",
+  "Category": "Chicken"
+}, {
+  "bulan": "3",
+  "size": "S",
+  "Quantity": "200",
+  "Category": "Chicken"
+}, {
+  "bulan": "11",
+  "size": "S",
+  "Quantity": "191",
+  "Category": "Chicken"
+}, {
+  "bulan": "2",
+  "size": "S",
+  "Quantity": "189",
+  "Category": "Chicken"
+}, {
+  "bulan": "10",
+  "size": "S",
+  "Quantity": "185",
+  "Category": "Veggie"
+}, {
+  "bulan": "1",
+  "size": "S",
+  "Quantity": "182",
+  "Category": "Chicken"
+}, {
+  "bulan": "12",
+  "size": "S",
+  "Quantity": "180",
+  "Category": "Chicken"
+}, {
+  "bulan": "5",
+  "size": "S",
+  "Quantity": "179",
+  "Category": "Chicken"
+}, {
+  "bulan": "6",
+  "size": "S",
+  "Quantity": "174",
+  "Category": "Chicken"
+}, {
+  "bulan": "9",
+  "size": "S",
+  "Quantity": "174",
+  "Category": "Chicken"
+}, {
+  "bulan": "4",
+  "size": "S",
+  "Quantity": "168",
+  "Category": "Chicken"
+}, {
+  "bulan": "10",
+  "size": "S",
+  "Quantity": "160",
+  "Category": "Chicken"
+}, {
+  "bulan": "4",
+  "size": "XL",
+  "Quantity": "65",
+  "Category": "Classic"
+}, {
+  "bulan": "5",
+  "size": "XL",
+  "Quantity": "54",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "XL",
+  "Quantity": "50",
+  "Category": "Classic"
+}, {
+  "bulan": "7",
+  "size": "XL",
+  "Quantity": "50",
+  "Category": "Classic"
+}, {
+  "bulan": "6",
+  "size": "XL",
+  "Quantity": "49",
+  "Category": "Classic"
+}, {
+  "bulan": "11",
+  "size": "XL",
+  "Quantity": "45",
+  "Category": "Classic"
+}, {
+  "bulan": "8",
+  "size": "XL",
+  "Quantity": "44",
+  "Category": "Classic"
+}, {
+  "bulan": "10",
+  "size": "XL",
+  "Quantity": "42",
+  "Category": "Classic"
+}, {
+  "bulan": "3",
+  "size": "XL",
+  "Quantity": "41",
+  "Category": "Classic"
+}, {
+  "bulan": "2",
+  "size": "XL",
+  "Quantity": "38",
+  "Category": "Classic"
+}, {
+  "bulan": "12",
+  "size": "XL",
+  "Quantity": "38",
+  "Category": "Classic"
+}, {
+  "bulan": "9",
+  "size": "XL",
+  "Quantity": "36",
+  "Category": "Classic"
+}, {
+  "bulan": "4",
+  "size": "XXL",
+  "Quantity": "4",
+  "Category": "Classic"
+}, {
+  "bulan": "2",
+  "size": "XXL",
+  "Quantity": "3",
+  "Category": "Classic"
+}, {
+  "bulan": "3",
+  "size": "XXL",
+  "Quantity": "3",
+  "Category": "Classic"
+}, {
+  "bulan": "5",
+  "size": "XXL",
+  "Quantity": "3",
+  "Category": "Classic"
+}, {
+  "bulan": "9",
+  "size": "XXL",
+  "Quantity": "3",
+  "Category": "Classic"
+}, {
+  "bulan": "11",
+  "size": "XXL",
+  "Quantity": "3",
+  "Category": "Classic"
+}, {
+  "bulan": "1",
+  "size": "XXL",
+  "Quantity": "2",
+  "Category": "Classic"
+}, {
+  "bulan": "6",
+  "size": "XXL",
+  "Quantity": "2",
+  "Category": "Classic"
+}, {
+  "bulan": "8",
+  "size": "XXL",
+  "Quantity": "2",
+  "Category": "Classic"
+}, {
+  "bulan": "10",
+  "size": "XXL",
+  "Quantity": "2",
+  "Category": "Classic"
+}, {
+  "bulan": "12",
+  "size": "XXL",
+  "Quantity": "1",
+  "Category": "Classic"
+}]

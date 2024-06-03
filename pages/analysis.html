@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/sidebar.css">
     <link rel="stylesheet" href="../css/analysis.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <!-- kalau diluar folder manggil css nya pake ../namafile, kalau didalam satu file cukup namafile aja -->
     <title>Document</title>
@@ -14,104 +15,146 @@
     <div class="content">
         <!-- sidebar-kiri -->
         <div class="sidebar-kiri">
-            <ul>
-                <li class="li"><a href="index.html" class="link">
-                    <span class="material-symbols-outlined">home</span>
-                </a></li>
-                <li class="li"><a href="pizza.html" class="link">
-                    <span class="material-symbols-outlined">local_pizza</span>
-                </a></li>
-                <li class="isis"><a href="analysis.html" class="link">
-                    <span class="material-symbols-outlined">analytics</span>
-                </a></li>
-                <li class="li"><a href="person.html" class="link">
-                    <span class="material-symbols-outlined">account_circle</span>
-                </a></li>
-                <li class="li"><a href="setting.html" class="link">
-                    <span class="material-symbols-outlined">settings</span>
-                </a></li>
-                <li class="li logout"><a href="help.html" class="link">
-                    <span class="material-symbols-outlined">help</span>
-                </a></li>
+            <ul class="menu">
+                <li >
+                <a href="home.html"> <i class="fa-sharp fa-solid fa-house"></i> <span>Dashboard</span> </a></li>
+                <li>
+                <a href="pizza.html"> <i class="fa-solid fa-pizza-slice"></i> <span>Pizza</span> </a></li>
+                <li class="active">
+                    <a href="analysis.html"> <i class="fa-solid fa-chart-simple"></i> <span>Analytics</span>
+                    </a>
+                </li>
+                <li>
+                <a href="about.html"> <i class="fa-solid fa-user"></i> <span>About Us</span> </a></li>
+    
+    
             </ul>
         </div>
 
         <!-- Main Content -->
         <div class="main--content">
-                <div class="header--wrapper">
+            <div class="header--wrapper">
                     <div class="header--title">
                         <h1>Welcome, <span>Medan Team 23!</span></h1>
                     </div>
-                    <div class="search-container">
-                        <input type="text" class="search-box" placeholder="Search here">
-                        <button type="submit" class="search-button"><span class="material-symbols-outlined">
-                            search
-                        </span></button>
-                    </div>
-                </div>
-
+            </div>
             <div class="container-chart">
-                <h1 class="head-chart">Jangan Nangis</h1>
-                <div class="dropdown">
-                    <button onclick="myFunction()" class="dropbtn">Month
-                        <span class="material-symbols-outlined">
-                            arrow_drop_down
-                        </span>
-                    </button>
-                    <div id="filter" class="dropdown-content">
-                        <button class="filter"  id="All">All</button>
-                        <button class="filter"  id="Januari">January</button>
-                        <button class="filter"  id="February">February</button>
+                <div class="heading">
+                    <h1 class="head-chart">Dashboard</h1>
+                </div>
+            <!-- <div class="tools">    
+    
+            </div>     -->
+                <!-- MONTH DROPDOWN -->
+                <div class="group-tools">
+                    <div class="tooltip"> <img class="image-tooltips" src="../image/tooltips.png" alt="">
+                        <span class="tooltiptext">Click again to disable filter</span>
+                    </div>
+                    <div class="groupDropDown">
+                        <div class="dropdown">
+                            <button onclick="toggleDropdown()" class="dropbtn">Month
+                                <span class="material-symbols-outlined">
+                                    arrow_drop_down
+                                </span>
+                            </button>
+                            <div id="filter" class="dropdown-content">
+                                    <button id="1"  class="filter month">January</button>
+                                    <button id="2"  class="filter month">February</button>
+                                    <button id="3"  class="filter month" class="filter month">March</button>
+                                    <button id="4"  class="filter month" class="filter month">April</button>
+                                    <button id="5"  class="filter month" class="filter month">May</button>
+                                    <button id="6"  class="filter month" class="filter month">June</button>
+                                    <button id="7"  class="filter month" class="filter month">July</button>
+                                    <button id="8"  class="filter month" class="filter month">August</button>
+                                    <button id="9"  class="filter month" class="filter month">September</button>
+                                    <button id="10"  class="filter month" class="filter month">October</button>
+                                    <button id="11"  class="filter month" class="filter month">November</button>
+                                    <button id="12"  class="filter month" class="filter month">December</button>
+                            </div>
+                        </div>
+                        <!-- CATEGORY DROPDOWN -->
+                        <div class="dropDownCategory">
+                            <button onclick="toggleDropDownCategory()" class="dropbtn">Category
+                                <span class="material-symbols-outlined">
+                                    arrow_drop_down
+                                </span>
+                            </button>
+                            <div id="filterCategory" class="dropdown-content-category">
+                                <button class="filter category" id="Chicken">Chicken</button>
+                                <button class="filter category" id="Classic">Classic</button>
+                                <button class="filter category" id="Supreme">Supreme</button>
+                                <button class="filter category" id="Veggie">Veggie</button>
+                            </div>
+                        </div>
+
+                        <!-- SIZE DROPDOWN -->
+                        <div class="dropDownSize">
+                            <button onclick="toggleDropDownSize()" class="dropbtn">Size
+                                <span class="material-symbols-outlined">
+                                    arrow_drop_down
+                                </span>
+                            </button>
+                            <div id="filterSize" class="dropdown-content-size">
+                                <button class="filter size" id="S">S</button>
+                                <button class="filter size" id="M">M</button>
+                                <button class="filter size" id="L">L</button>
+                                <button class="filter size" id="XL">XL</button>
+                                <button class="filter size" id="XXL">XXL</button>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                
                 <div class="groupchart">
                     <canvas id="barchart1" class="chart"></canvas>
                     <canvas id = "barchart2" class="chart"></canvas>
                     <canvas id = 'barchart3'class="chart"></canvas>
-
-                    <div class="barchart4">
-                        <h3>Highest Sold</h3>
+                            <div class="barchart4">
+                            <h3>Highest Sold</h3>
+                        <div id="pagination">
+                            <button id="prev-button">Previous</button>
+                            <span id="page-indicator"></span>
+                            <button id="next-button">Next</button>                
+                        </div>
                         <table id="data-table">
                             <thead>
                                 <tr>
                                     <th>No</th>
-                                    <th>Pizza Name</th>
-                                    <th>Total Sold</th>
-                                    <th>Total Revenue</th>
+                                    <th>Name</th>
+                                    <th>Sold</th>
+                                    <th>Revenue</th>
                                 </tr>
                             </thead>
                             <tbody>
+                                <!-- Data akan dimasukkan di sini oleh JavaScript -->
                             </tbody>
-                            <div class="pagination">
-                                <button id="prev-button">Previous</button>
-                                <span id="page-indicator"></span>
-                                <button id="next-button">Next</button>
-                            </div>
                         </table>
                     </div>
                     <div class="barchart5">
                         <h3>Lowest Sold</h3>
-                        <table id="data-table-chart5">
-                            <thead>
-                                <tr>
-                                    <th>No</th>
-                                    <th>Pizza Name</th>
-                                    <th>Total Sold</th>
-                                    <th>Total Revenue</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                            </tbody>
-                            <div class="pagination">
-                                <button id="prev-button-chart5">Previous</button>
-                                <span id="page-indicator-chart5"></span>
-                                <button id="next-button-chart5">Next</button>
-                            </div>
-                        </table>
+                        <div id="pagination-chart5">
+                        <button id="prev-button-chart5">Previous</button>
+                        <span id="page-indicator-chart5"></span>
+                        <button id="next-button-chart5">Next</button>                
                     </div>
+                    <table id="data-table-chart5">
+                        <thead>
+                            <tr>
+                                <th>No</th>
+                                <th>Name</th>
+                                <th>Sold</th>
+                                <th>Revenue</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Data akan dimasukkan di sini oleh JavaScript -->
+                        </tbody>
+                    </table>
                 </div>
             </div>
-
+            <div class="foot"></div>
+        </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="../js/chart.js"></script>

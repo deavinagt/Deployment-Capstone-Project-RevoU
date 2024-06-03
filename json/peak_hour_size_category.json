@@ -1,0 +1,971 @@
+[{
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "9",
+  "Pesanan": "1"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "9",
+  "Pesanan": "1"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "9",
+  "Pesanan": "1"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "9",
+  "Pesanan": "1"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "10",
+  "Pesanan": "2"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "10",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "10",
+  "Pesanan": "3"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "10",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "10",
+  "Pesanan": "3"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "10",
+  "Pesanan": "2"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "10",
+  "Pesanan": "1"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "10",
+  "Pesanan": "3"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "10",
+  "Pesanan": "1"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "11",
+  "Pesanan": "214"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "11",
+  "Pesanan": "160"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "11",
+  "Pesanan": "220"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "11",
+  "Pesanan": "239"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "11",
+  "Pesanan": "244"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "11",
+  "Pesanan": "132"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "11",
+  "Pesanan": "121"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "11",
+  "Pesanan": "293"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "11",
+  "Pesanan": "197"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "11",
+  "Pesanan": "190"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "11",
+  "Pesanan": "211"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "11",
+  "Pesanan": "158"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "11",
+  "Pesanan": "37"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "11",
+  "Pesanan": "3"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "12",
+  "Pesanan": "434"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "12",
+  "Pesanan": "518"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "12",
+  "Pesanan": "280"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "12",
+  "Pesanan": "668"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "12",
+  "Pesanan": "391"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "12",
+  "Pesanan": "307"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "12",
+  "Pesanan": "619"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "12",
+  "Pesanan": "484"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "12",
+  "Pesanan": "469"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "12",
+  "Pesanan": "486"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "12",
+  "Pesanan": "534"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "12",
+  "Pesanan": "418"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "12",
+  "Pesanan": "53"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "12",
+  "Pesanan": "3"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "13",
+  "Pesanan": "589"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "13",
+  "Pesanan": "537"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "13",
+  "Pesanan": "397"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "13",
+  "Pesanan": "460"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "13",
+  "Pesanan": "272"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "13",
+  "Pesanan": "455"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "13",
+  "Pesanan": "613"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "13",
+  "Pesanan": "457"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "13",
+  "Pesanan": "411"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "13",
+  "Pesanan": "286"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "13",
+  "Pesanan": "367"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "13",
+  "Pesanan": "453"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "13",
+  "Pesanan": "68"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "13",
+  "Pesanan": "2"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "14",
+  "Pesanan": "400"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "14",
+  "Pesanan": "324"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "14",
+  "Pesanan": "254"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "14",
+  "Pesanan": "309"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "14",
+  "Pesanan": "260"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "14",
+  "Pesanan": "154"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "14",
+  "Pesanan": "233"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "14",
+  "Pesanan": "217"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "14",
+  "Pesanan": "251"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "14",
+  "Pesanan": "228"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "14",
+  "Pesanan": "285"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "14",
+  "Pesanan": "36"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "14",
+  "Pesanan": "192"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "14",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "15",
+  "Pesanan": "291"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "15",
+  "Pesanan": "229"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "15",
+  "Pesanan": "292"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "15",
+  "Pesanan": "144"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "15",
+  "Pesanan": "184"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "15",
+  "Pesanan": "219"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "15",
+  "Pesanan": "348"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "15",
+  "Pesanan": "263"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "15",
+  "Pesanan": "229"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "15",
+  "Pesanan": "272"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "15",
+  "Pesanan": "224"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "15",
+  "Pesanan": "193"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "15",
+  "Pesanan": "37"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "15",
+  "Pesanan": "2"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "16",
+  "Pesanan": "471"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "16",
+  "Pesanan": "391"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "16",
+  "Pesanan": "341"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "16",
+  "Pesanan": "311"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "16",
+  "Pesanan": "291"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "16",
+  "Pesanan": "300"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "16",
+  "Pesanan": "417"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "16",
+  "Pesanan": "362"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "16",
+  "Pesanan": "179"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "16",
+  "Pesanan": "315"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "16",
+  "Pesanan": "49"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "16",
+  "Pesanan": "274"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "16",
+  "Pesanan": "214"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "16",
+  "Pesanan": "6"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "17",
+  "Pesanan": "625"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "17",
+  "Pesanan": "394"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "17",
+  "Pesanan": "469"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "17",
+  "Pesanan": "210"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "17",
+  "Pesanan": "520"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "17",
+  "Pesanan": "350"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "17",
+  "Pesanan": "254"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "17",
+  "Pesanan": "372"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "17",
+  "Pesanan": "412"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "17",
+  "Pesanan": "471"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "17",
+  "Pesanan": "312"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "17",
+  "Pesanan": "392"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "17",
+  "Pesanan": "69"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "17",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "18",
+  "Pesanan": "405"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "18",
+  "Pesanan": "488"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "18",
+  "Pesanan": "419"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "18",
+  "Pesanan": "300"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "18",
+  "Pesanan": "479"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "18",
+  "Pesanan": "62"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "18",
+  "Pesanan": "524"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "18",
+  "Pesanan": "590"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "18",
+  "Pesanan": "388"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "18",
+  "Pesanan": "355"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "18",
+  "Pesanan": "356"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "18",
+  "Pesanan": "424"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "18",
+  "Pesanan": "232"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "18",
+  "Pesanan": "5"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "19",
+  "Pesanan": "393"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "19",
+  "Pesanan": "344"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "19",
+  "Pesanan": "394"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "19",
+  "Pesanan": "296"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "19",
+  "Pesanan": "331"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "19",
+  "Pesanan": "327"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "19",
+  "Pesanan": "437"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "19",
+  "Pesanan": "323"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "19",
+  "Pesanan": "247"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "19",
+  "Pesanan": "479"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "19",
+  "Pesanan": "304"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "19",
+  "Pesanan": "182"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "19",
+  "Pesanan": "51"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "19",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "20",
+  "Pesanan": "331"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "20",
+  "Pesanan": "264"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "20",
+  "Pesanan": "264"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "20",
+  "Pesanan": "270"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "20",
+  "Pesanan": "277"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "20",
+  "Pesanan": "285"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "20",
+  "Pesanan": "386"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "20",
+  "Pesanan": "140"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "20",
+  "Pesanan": "33"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "20",
+  "Pesanan": "361"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "20",
+  "Pesanan": "230"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "20",
+  "Pesanan": "265"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "20",
+  "Pesanan": "171"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "20",
+  "Pesanan": "2"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "21",
+  "Pesanan": "174"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "21",
+  "Pesanan": "276"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "21",
+  "Pesanan": "202"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "21",
+  "Pesanan": "193"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "21",
+  "Pesanan": "178"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "21",
+  "Pesanan": "109"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "21",
+  "Pesanan": "197"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "21",
+  "Pesanan": "249"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "21",
+  "Pesanan": "247"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "21",
+  "Pesanan": "125"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "21",
+  "Pesanan": "199"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "21",
+  "Pesanan": "186"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "21",
+  "Pesanan": "33"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "21",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "22",
+  "Pesanan": "128"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "22",
+  "Pesanan": "101"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "22",
+  "Pesanan": "132"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "22",
+  "Pesanan": "100"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "22",
+  "Pesanan": "110"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "22",
+  "Pesanan": "142"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "22",
+  "Pesanan": "94"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "22",
+  "Pesanan": "139"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "22",
+  "Pesanan": "103"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "22",
+  "Pesanan": "14"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "22",
+  "Pesanan": "69"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "22",
+  "Pesanan": "69"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "22",
+  "Pesanan": "83"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "Jam": "22",
+  "Pesanan": "1"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "Jam": "23",
+  "Pesanan": "6"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "Jam": "23",
+  "Pesanan": "7"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "Jam": "23",
+  "Pesanan": "3"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "Jam": "23",
+  "Pesanan": "8"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "Jam": "23",
+  "Pesanan": "8"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "Jam": "23",
+  "Pesanan": "7"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "Jam": "23",
+  "Pesanan": "4"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "Jam": "23",
+  "Pesanan": "4"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "Jam": "23",
+  "Pesanan": "9"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "Jam": "23",
+  "Pesanan": "4"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "Jam": "23",
+  "Pesanan": "5"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "Jam": "23",
+  "Pesanan": "2"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "Jam": "23",
+  "Pesanan": "1"
+}]

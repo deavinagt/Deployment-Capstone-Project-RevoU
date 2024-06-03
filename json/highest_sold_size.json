@@ -1,0 +1,547 @@
+[{
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "size": "S",
+  "Sold": "1914",
+  "Revenue": "22968"
+}, {
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "size": "L",
+  "Sold": "1410",
+  "Revenue": "29258"
+}, {
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "size": "L",
+  "Sold": "1409",
+  "Revenue": "26067"
+}, {
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "size": "L",
+  "Sold": "1316",
+  "Revenue": "23622"
+}, {
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "size": "M",
+  "Sold": "1181",
+  "Revenue": "18896"
+}, {
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "size": "L",
+  "Sold": "1109",
+  "Revenue": "23012"
+}, {
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "size": "S",
+  "Sold": "1020",
+  "Revenue": "10710"
+}, {
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "size": "L",
+  "Sold": "1016",
+  "Revenue": "21082"
+}, {
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "size": "L",
+  "Sold": "992",
+  "Revenue": "20584"
+}, {
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "size": "M",
+  "Sold": "956",
+  "Revenue": "16013"
+}, {
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "size": "M",
+  "Sold": "944",
+  "Revenue": "15812"
+}, {
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "size": "M",
+  "Sold": "941",
+  "Revenue": "15527"
+}, {
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "size": "M",
+  "Sold": "939",
+  "Revenue": "11738"
+}, {
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "size": "L",
+  "Sold": "927",
+  "Revenue": "19235"
+}, {
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "size": "L",
+  "Sold": "919",
+  "Revenue": "15164"
+}, {
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "size": "L",
+  "Sold": "867",
+  "Revenue": "17557"
+}, {
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "size": "S",
+  "Sold": "799",
+  "Revenue": "9588"
+}, {
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "size": "S",
+  "Sold": "751",
+  "Revenue": "9200"
+}, {
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "size": "S",
+  "Sold": "751",
+  "Revenue": "7322"
+}, {
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "size": "L",
+  "Sold": "747",
+  "Revenue": "15500"
+}, {
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "size": "L",
+  "Sold": "732",
+  "Revenue": "15006"
+}, {
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "size": "L",
+  "Sold": "728",
+  "Revenue": "11102"
+}, {
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "size": "M",
+  "Sold": "703",
+  "Revenue": "11775"
+}, {
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "size": "L",
+  "Sold": "696",
+  "Revenue": "14442"
+}, {
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "size": "M",
+  "Sold": "635",
+  "Revenue": "10160"
+}, {
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "size": "L",
+  "Sold": "613",
+  "Revenue": "12413"
+}, {
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "size": "S",
+  "Sold": "600",
+  "Revenue": "7200"
+}, {
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "size": "M",
+  "Sold": "598",
+  "Revenue": "9867"
+}, {
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "size": "M",
+  "Sold": "586",
+  "Revenue": "8644"
+}, {
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "size": "S",
+  "Sold": "578",
+  "Revenue": "6358"
+}, {
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "size": "M",
+  "Sold": "574",
+  "Revenue": "9328"
+}, {
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "size": "L",
+  "Sold": "566",
+  "Revenue": "11603"
+}, {
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "size": "M",
+  "Sold": "562",
+  "Revenue": "9133"
+}, {
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "size": "M",
+  "Sold": "562",
+  "Revenue": "8992"
+}, {
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "size": "XL",
+  "Sold": "552",
+  "Revenue": "14076"
+}, {
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "size": "M",
+  "Sold": "534",
+  "Revenue": "8945"
+}, {
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "size": "S",
+  "Sold": "499",
+  "Revenue": "6362"
+}, {
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "size": "S",
+  "Sold": "490",
+  "Revenue": "11588"
+}, {
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "size": "M",
+  "Sold": "486",
+  "Revenue": "8141"
+}, {
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "size": "S",
+  "Sold": "484",
+  "Revenue": "6171"
+}, {
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "size": "M",
+  "Sold": "483",
+  "Revenue": "6400"
+}, {
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "size": "M",
+  "Sold": "481",
+  "Revenue": "8057"
+}, {
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "size": "S",
+  "Sold": "480",
+  "Revenue": "6120"
+}, {
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "size": "L",
+  "Sold": "473",
+  "Revenue": "9697"
+}, {
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "size": "S",
+  "Sold": "471",
+  "Revenue": "5652"
+}, {
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "size": "S",
+  "Sold": "464",
+  "Revenue": "5568"
+}, {
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "size": "M",
+  "Sold": "455",
+  "Revenue": "7280"
+}, {
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "size": "L",
+  "Sold": "445",
+  "Revenue": "9011"
+}, {
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "size": "S",
+  "Sold": "439",
+  "Revenue": "5268"
+}, {
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "size": "L",
+  "Sold": "435",
+  "Revenue": "9026"
+}, {
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "size": "M",
+  "Sold": "428",
+  "Revenue": "7062"
+}, {
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "size": "M",
+  "Sold": "427",
+  "Revenue": "6832"
+}, {
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "size": "L",
+  "Sold": "427",
+  "Revenue": "8647"
+}, {
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "size": "S",
+  "Sold": "424",
+  "Revenue": "5300"
+}, {
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "size": "M",
+  "Sold": "408",
+  "Revenue": "6732"
+}, {
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "size": "S",
+  "Sold": "407",
+  "Revenue": "5088"
+}, {
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "size": "L",
+  "Sold": "405",
+  "Revenue": "8404"
+}, {
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "size": "S",
+  "Sold": "404",
+  "Revenue": "5050"
+}, {
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "size": "M",
+  "Sold": "404",
+  "Revenue": "6464"
+}, {
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "size": "S",
+  "Sold": "400",
+  "Revenue": "5000"
+}, {
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "size": "L",
+  "Sold": "399",
+  "Revenue": "8279"
+}, {
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "size": "M",
+  "Sold": "397",
+  "Revenue": "5757"
+}, {
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "size": "L",
+  "Sold": "384",
+  "Revenue": "6720"
+}, {
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "size": "L",
+  "Sold": "370",
+  "Revenue": "7493"
+}, {
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "size": "S",
+  "Sold": "367",
+  "Revenue": "4679"
+}, {
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "size": "S",
+  "Sold": "322",
+  "Revenue": "4025"
+}, {
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "size": "S",
+  "Sold": "305",
+  "Revenue": "3889"
+}, {
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "size": "S",
+  "Sold": "304",
+  "Revenue": "3648"
+}, {
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "size": "S",
+  "Sold": "302",
+  "Revenue": "3624"
+}, {
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "size": "M",
+  "Sold": "302",
+  "Revenue": "4832"
+}, {
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "size": "S",
+  "Sold": "298",
+  "Revenue": "3800"
+}, {
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "size": "S",
+  "Sold": "289",
+  "Revenue": "3468"
+}, {
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "size": "S",
+  "Sold": "288",
+  "Revenue": "3600"
+}, {
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "size": "L",
+  "Sold": "284",
+  "Revenue": "5893"
+}, {
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "size": "L",
+  "Sold": "283",
+  "Revenue": "5872"
+}, {
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "size": "M",
+  "Sold": "282",
+  "Revenue": "4653"
+}, {
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "size": "M",
+  "Sold": "281",
+  "Revenue": "4496"
+}, {
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "size": "L",
+  "Sold": "276",
+  "Revenue": "5589"
+}, {
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "size": "M",
+  "Sold": "276",
+  "Revenue": "4623"
+}, {
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "size": "M",
+  "Sold": "275",
+  "Revenue": "4400"
+}, {
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "size": "M",
+  "Sold": "268",
+  "Revenue": "4422"
+}, {
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "size": "M",
+  "Sold": "267",
+  "Revenue": "4406"
+}, {
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "size": "L",
+  "Sold": "255",
+  "Revenue": "5228"
+}, {
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "size": "S",
+  "Sold": "196",
+  "Revenue": "2450"
+}, {
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "size": "L",
+  "Sold": "190",
+  "Revenue": "3990"
+}, {
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "size": "L",
+  "Sold": "188",
+  "Revenue": "3901"
+}, {
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "size": "S",
+  "Sold": "162",
+  "Revenue": "1944"
+}, {
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "size": "S",
+  "Sold": "99",
+  "Revenue": "1213"
+}, {
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "size": "S",
+  "Sold": "96",
+  "Revenue": "1224"
+}, {
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "size": "L",
+  "Sold": "95",
+  "Revenue": "1924"
+}, {
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "size": "XXL",
+  "Sold": "28",
+  "Revenue": "1007"
+}]

@@ -1,265 +1,234 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
     margin: 0;
     padding: 0;
     border: none;
     outline: none;
     box-sizing: border-box;
-    font-family: "Lato", sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
-body{
-    background-color: #E8E8E8;
-}
-
-.content{
+body {
     display: flex;
 }
 
-.sidebar-kiri{
-    background-color: #FFFFFF;
-    display: flex;
-    flex-direction: column;
+.sidebar-kiri {
+    position: sticky;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 120px;
+    width: 110px;
     height: 100vh;
     padding: 0 1.7rem;
-    color: black;
-    align-items: center;
-    position: sticky;
-    /* overflow: hidden; */
+    color: #fff;
+    overflow: hidden;
     transition: all 0.5s linear;
+    background: white;
 }
 
-
-.sidebar-kiri h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+.sidebar-kiri:hover {
+    width: 240px;
+    transition: 0.5s;
 }
 
-.sidebar-kiri ul{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 5px;
-    width: 100px;
-    height: 80vh;
-    align-items: center;
-    margin-top: 20px;
+.logo {
+    height: 80px;
+    padding: 16px;
 }
-
-/* .sidebar-kiri ul li{
-    display: flex;
-    justify-content: center;
+.menu {
+    height: 88%;
     list-style: none;
+    position: relative;
+    padding: 0;
+}
+.menu li {
+    padding: 1rem;
+    margin: 8px 0;
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
+}
+
+.menu li:hover,
+.active {
+    background: #fff2d7;
+}
+
+.menu a {
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    display: flex;
     align-items: center;
-    height: 100%;
-    width: 100px;
-    
+    gap: 1.5rem;
+}
+
+.menu a span {
+    overflow: hidden;
+}
+
+.menu a i {
+    font-size: 1.2rem;
+    color: #f5ba5e;
+}
+
+/* .logout{
+    position: absolute;
+    bottom: 0;
+    left: 0;
     width: 100%;
-    margin: 25px;
-    padding: 10px 30px 10px 30px;
-    
-    border-radius: 20px;
 } */
 
-.sidebar-kiri ul li {
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    align-items: center;
-    height: 100%;
-    width: 100px;
-    border-radius: 20px;
-    transition: all 0.5s ease;
-    position: relative; /* Added to allow z-index to work */
-    z-index: 0; /* Ensure non-active elements are behind */
-}
-
-.sidebar-kiri ul a{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #F5BA5E;
-    text-decoration: none;
-    height: 100%;
-    width: 100%;
-    /* text-align: center; */
-    transition: transform 0.5s ease;
-}
-
-
-.main--content{
+/* main Content */
+.main--content {
     position: relative;
     background: #ebe9e9;
     width: 100%;
-    /* padding: 1rem; */
+    padding: 1rem;
 }
 
-.header--wrapper img{
+.header--wrapper img {
     width: 50px;
     height: 50px;
     cursor: pointer;
     border-radius: 50%;
 }
 
-.header--wrapper{
+.header--wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
+    background: none;
     border-radius: 10px;
-    /* padding: 10px 2rem; */
+    padding: 10px 2rem;
     margin-bottom: 1rem;
-    width: 180vh;
 }
 
-.header--title{
+.header--title {
     color: #0a0908;
     font-size: 15px;
     font-weight: 600;
-    margin: 20px 0px 0px 50px;
 }
 
-.header--title span{
-    color: #F5BA5E;
+.header--title span {
+    color: #f5ba5e;
 }
 
-.search-container{
-    position: relative;
+.InputContainer {
+    height: 35px;
     display: flex;
     align-items: center;
-    /* margin-right: 1000px; */
-    justify-content: space-between;
-    margin-top: 20px;
-}
-
-.search-box{
-    width: 230px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    outline: none;
-    margin-left: 10px;
-}
-
-.search-button{
-    top: 0;
-    left: 0;
-    padding: 7px;
-    border: none;
-    background: none;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
     cursor: pointer;
+    padding-left: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
 }
 
-.search-button i{
-    font-size: 18px;
-    color: #888;
+.input {
+    width: 125px;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 0.9em;
+    caret-color: rgb(255, 81, 0);
 }
 
-.search-button span{
-    color: #D77E19;
+.labelforsearch {
+    cursor: text;
+    padding: 0px 12px;
 }
 
+.searchIcon {
+    width: 13px;
+}
 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .search-container{
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-right: 10px;
+.border {
+    height: 40%;
+    width: 1.3px;
+    background-color: rgb(223, 223, 223);
+}
+
+.micIcon {
+    width: 12px;
+}
+
+.micButton {
+    padding: 0px 15px 0px 12px;
+    border: none;
+    background-color: transparent;
+    height: 40px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
+
+.searchIcon path {
+    fill: rgb(114, 114, 114);
+}
+
+.micIcon path {
+    fill: #d77e19;
+}
+
+.micButton:hover {
+    background-color: rgb(255, 230, 230);
+    transition-duration: 0.3s;
+}
+
+@media (max-width: 450px) {
+    .main--content {
+        max-width: 720px;
     }
 
-
-    .search-box{
-        width: 230px;
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        outline: none;
-        margin-left: 60px;
+    .sidebar-kiri {
+        width: 100%;
+        height: 30%;
+        padding: 0px;
+        position: inherit;
     }
 
-    .sidebar-kiri{
-        background-color: #FFFFFF;
-        display: flex;
+    .sidebar-kiri ul {
         flex-direction: column;
-        width: 3%;
-        height: 100vh;
-        margin: 180px 10px 20px;
-        padding: 20px;
+        height: auto;
+        margin-top: 0;
+        width: 100%;
+    }
+
+    .sidebar-kiri ul li {
+        width: auto;
+        width: 100%;
         border-radius: 20px;
-        color: black;
+        margin: 5px;
+    }
+
+    .sidebar-kiri ul a {
+        height: auto;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .header--wrapper {
+        flex-direction: column;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .header--title {
+        margin: 10px 0;
+    }
+
+    .search-container {
+        flex-direction: row;
         align-items: center;
-        position: fixed;
+        margin-top: 10px;
     }
 
-
-}
-
-
-/* Media query untuk perangkat dengan lebar layar kurang dari atau sama dengan 768px */
-@media only screen and (max-width: 768px) {
-    /* Atur tampilan atau tata letak untuk layar kecil di sini */
-
-  }
-  
-  /* Media query untuk perangkat dengan lebar layar di antara 768px dan 1024px */
-  @media only screen and (min-width: 769px) and (max-width: 1024px) {
-    /* Atur tampilan atau tata letak untuk layar menengah di sini */
-
-    /* Mengatur lebar sidebar */
-    .sidebar-kiri{
-        width: 20%; /* Ubah lebar sidebar menjadi 20% dari lebar layar */
-        height: 100vh;
+    .search-box {
+        width: 100%;
+        margin: 10px 0;
     }
-
-    /* Mengatur tata letak logout */
-    .logout{
-        width: 50%; /* Mengatur lebar logout menjadi 50% dari lebar parent */
-    }   
-
-    /* Mengatur tampilan konten utama */
-    .main--content{
-        position: relative;
-        background: #ebe9e9;
-        width: 70%; /* Ubah lebar konten utama menjadi 70% dari lebar layar */
-        padding: 0.5rem;
-    }
-
-    /* Mengatur ukuran font judul */
-    .header--title{
-        font-size: 18px; /* Ubah ukuran font judul menjadi 18px */
-        font-weight: 200;
-    }
-
-    /* Mengatur tata letak kotak pencarian */
-    .search-container{
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-right: 20px;
-        justify-content: space-between;
-    }
-
-    /* Mengatur ukuran kotak pencarian */
-    .search-box{
-        width: 140px;
-        height: 30px; /* Ubah tinggi kotak pencarian menjadi 30px */
-        padding: 5px;
-        border: 1px solid #ccc;
-        border-radius: 2px;
-        outline: none;
-        margin-left: 5px;
-    }
-}
-
-
-  /* Media query untuk perangkat dengan lebar layar lebih dari atau sama dengan 1024px */
-@media only screen and (min-width: 1025px) {
-    /* Atur tampilan atau tata letak untuk layar besar di sini */
-
 }

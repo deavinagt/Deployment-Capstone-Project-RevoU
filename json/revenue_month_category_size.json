@@ -1,0 +1,836 @@
+[{
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "1",
+  "Pendapatan": "8425"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "1",
+  "Pendapatan": "5444"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "1",
+  "Pendapatan": "2321"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "1",
+  "Pendapatan": "5834"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "1",
+  "Pendapatan": "6503"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "1",
+  "Pendapatan": "4936"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "1",
+  "Pendapatan": "9378"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "1",
+  "Pendapatan": "5058"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "1",
+  "Pendapatan": "2619"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "1",
+  "Pendapatan": "8094"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "1",
+  "Pendapatan": "5506"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "1",
+  "Pendapatan": "4330"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "1",
+  "Pendapatan": "1275"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "1",
+  "Pendapatan": "72"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "2",
+  "Pendapatan": "8134"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "2",
+  "Pendapatan": "4925"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "2",
+  "Pendapatan": "2410"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "2",
+  "Pendapatan": "5500"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "2",
+  "Pendapatan": "5986"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "2",
+  "Pendapatan": "4774"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "2",
+  "Pendapatan": "8484"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "2",
+  "Pendapatan": "4344"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "2",
+  "Pendapatan": "2809"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "2",
+  "Pendapatan": "7474"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "2",
+  "Pendapatan": "5222"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "2",
+  "Pendapatan": "4023"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "2",
+  "Pendapatan": "969"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "2",
+  "Pendapatan": "108"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "3",
+  "Pendapatan": "9213"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "3",
+  "Pendapatan": "5863"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "3",
+  "Pendapatan": "2550"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "3",
+  "Pendapatan": "6077"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "3",
+  "Pendapatan": "6026"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "3",
+  "Pendapatan": "4861"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "3",
+  "Pendapatan": "9662"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "3",
+  "Pendapatan": "4656"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "3",
+  "Pendapatan": "3017"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "3",
+  "Pendapatan": "7852"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "3",
+  "Pendapatan": "5574"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "3",
+  "Pendapatan": "3895"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "3",
+  "Pendapatan": "1046"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "3",
+  "Pendapatan": "108"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "4",
+  "Pendapatan": "8653"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "4",
+  "Pendapatan": "5678"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "4",
+  "Pendapatan": "2142"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "4",
+  "Pendapatan": "5718"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "4",
+  "Pendapatan": "5988"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "4",
+  "Pendapatan": "5310"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "4",
+  "Pendapatan": "7877"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "4",
+  "Pendapatan": "5177"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "4",
+  "Pendapatan": "2750"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "4",
+  "Pendapatan": "8106"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "4",
+  "Pendapatan": "6011"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "4",
+  "Pendapatan": "3527"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "4",
+  "Pendapatan": "1658"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "4",
+  "Pendapatan": "144"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "5",
+  "Pendapatan": "9026"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "5",
+  "Pendapatan": "5444"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "5",
+  "Pendapatan": "2282"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "5",
+  "Pendapatan": "6435"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "5",
+  "Pendapatan": "6282"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "5",
+  "Pendapatan": "5221"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "5",
+  "Pendapatan": "9004"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "5",
+  "Pendapatan": "5052"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "5",
+  "Pendapatan": "2856"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "5",
+  "Pendapatan": "8658"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "5",
+  "Pendapatan": "5586"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "5",
+  "Pendapatan": "4071"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "5",
+  "Pendapatan": "1377"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "5",
+  "Pendapatan": "108"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "6",
+  "Pendapatan": "7989"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "6",
+  "Pendapatan": "5879"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "6",
+  "Pendapatan": "2219"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "6",
+  "Pendapatan": "5342"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "6",
+  "Pendapatan": "6463"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "6",
+  "Pendapatan": "4910"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "6",
+  "Pendapatan": "8864"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "6",
+  "Pendapatan": "4548"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "6",
+  "Pendapatan": "2599"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "6",
+  "Pendapatan": "8178"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "6",
+  "Pendapatan": "6030"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "6",
+  "Pendapatan": "3889"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "6",
+  "Pendapatan": "1250"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "6",
+  "Pendapatan": "72"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "7",
+  "Pendapatan": "8777"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "7",
+  "Pendapatan": "5611"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "7",
+  "Pendapatan": "2614"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "7",
+  "Pendapatan": "6207"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "7",
+  "Pendapatan": "6628"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "7",
+  "Pendapatan": "5543"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "7",
+  "Pendapatan": "9836"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "7",
+  "Pendapatan": "5071"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "7",
+  "Pendapatan": "2779"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "7",
+  "Pendapatan": "8342"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "7",
+  "Pendapatan": "5999"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "7",
+  "Pendapatan": "3876"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "7",
+  "Pendapatan": "1275"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "8",
+  "Pendapatan": "8279"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "8",
+  "Pendapatan": "5243"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "8",
+  "Pendapatan": "2831"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "8",
+  "Pendapatan": "6053"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "8",
+  "Pendapatan": "6066"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "8",
+  "Pendapatan": "5509"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "8",
+  "Pendapatan": "8447"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "8",
+  "Pendapatan": "5020"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "8",
+  "Pendapatan": "2544"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "8",
+  "Pendapatan": "7476"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "8",
+  "Pendapatan": "5404"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "8",
+  "Pendapatan": "4213"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "8",
+  "Pendapatan": "1122"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "8",
+  "Pendapatan": "72"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "9",
+  "Pendapatan": "8611"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "9",
+  "Pendapatan": "5209"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "9",
+  "Pendapatan": "2219"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "9",
+  "Pendapatan": "5496"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "9",
+  "Pendapatan": "6551"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "9",
+  "Pendapatan": "4761"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "9",
+  "Pendapatan": "7895"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "9",
+  "Pendapatan": "4336"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "9",
+  "Pendapatan": "2781"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "9",
+  "Pendapatan": "6817"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "9",
+  "Pendapatan": "4651"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "9",
+  "Pendapatan": "3828"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "9",
+  "Pendapatan": "918"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "9",
+  "Pendapatan": "108"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "10",
+  "Pendapatan": "7761"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "10",
+  "Pendapatan": "4992"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "10",
+  "Pendapatan": "2040"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "10",
+  "Pendapatan": "5587"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "10",
+  "Pendapatan": "5920"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "10",
+  "Pendapatan": "4759"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "10",
+  "Pendapatan": "8035"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "10",
+  "Pendapatan": "4264"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "10",
+  "Pendapatan": "2252"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "10",
+  "Pendapatan": "7623"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "10",
+  "Pendapatan": "5978"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "10",
+  "Pendapatan": "3675"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "10",
+  "Pendapatan": "1071"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "10",
+  "Pendapatan": "72"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "11",
+  "Pendapatan": "8985"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "11",
+  "Pendapatan": "5980"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "11",
+  "Pendapatan": "2435"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "11",
+  "Pendapatan": "6123"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "11",
+  "Pendapatan": "6164"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "11",
+  "Pendapatan": "5044"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "11",
+  "Pendapatan": "8822"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "11",
+  "Pendapatan": "4607"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "11",
+  "Pendapatan": "2778"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "11",
+  "Pendapatan": "8255"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "11",
+  "Pendapatan": "5748"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "11",
+  "Pendapatan": "4200"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "11",
+  "Pendapatan": "1148"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "11",
+  "Pendapatan": "108"
+}, {
+  "Category": "Chicken",
+  "size": "L",
+  "bulan": "12",
+  "Pendapatan": "8487"
+}, {
+  "Category": "Chicken",
+  "size": "M",
+  "bulan": "12",
+  "Pendapatan": "4958"
+}, {
+  "Category": "Chicken",
+  "size": "S",
+  "bulan": "12",
+  "Pendapatan": "2295"
+}, {
+  "Category": "Classic",
+  "size": "S",
+  "bulan": "12",
+  "Pendapatan": "5500"
+}, {
+  "Category": "Classic",
+  "size": "L",
+  "bulan": "12",
+  "Pendapatan": "5943"
+}, {
+  "Category": "Classic",
+  "size": "M",
+  "bulan": "12",
+  "Pendapatan": "4956"
+}, {
+  "Category": "Veggie",
+  "size": "L",
+  "bulan": "12",
+  "Pendapatan": "7898"
+}, {
+  "Category": "Veggie",
+  "size": "M",
+  "bulan": "12",
+  "Pendapatan": "4969"
+}, {
+  "Category": "Veggie",
+  "size": "S",
+  "bulan": "12",
+  "Pendapatan": "2603"
+}, {
+  "Category": "Supreme",
+  "size": "L",
+  "bulan": "12",
+  "Pendapatan": "7385"
+}, {
+  "Category": "Supreme",
+  "size": "M",
+  "bulan": "12",
+  "Pendapatan": "4768"
+}, {
+  "Category": "Supreme",
+  "size": "S",
+  "bulan": "12",
+  "Pendapatan": "3936"
+}, {
+  "Category": "Classic",
+  "size": "XL",
+  "bulan": "12",
+  "Pendapatan": "969"
+}, {
+  "Category": "Classic",
+  "size": "XXL",
+  "bulan": "12",
+  "Pendapatan": "36"
+}]

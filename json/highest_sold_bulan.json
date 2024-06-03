@@ -1,1921 +1,2305 @@
 [{
-  "bulan": "1",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "143",
-  "Revenue": "2290"
-}, {
-  "bulan": "2",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "141",
-  "Revenue": "2283"
-}, {
-  "bulan": "3",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "138",
-  "Revenue": "2202"
-}, {
-  "bulan": "4",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "134",
-  "Revenue": "2095"
-}, {
   "bulan": "5",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "109",
-  "Revenue": "1719"
-}, {
-  "bulan": "6",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "123",
-  "Revenue": "1974"
-}, {
-  "bulan": "7",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "143",
-  "Revenue": "2298"
-}, {
-  "bulan": "8",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "122",
-  "Revenue": "1923"
-}, {
-  "bulan": "9",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "109",
-  "Revenue": "1740"
-}, {
-  "bulan": "10",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "97",
-  "Revenue": "1585"
-}, {
-  "bulan": "11",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "122",
-  "Revenue": "1936"
-}, {
-  "bulan": "12",
-  "Name": "The Vegetables + Vegetables Pizza",
-  "Sold": "145",
-  "Revenue": "2331"
-}, {
-  "bulan": "1",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "199",
-  "Revenue": "3657"
-}, {
-  "bulan": "2",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "167",
-  "Revenue": "3009"
-}, {
-  "bulan": "3",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "213",
-  "Revenue": "3844"
-}, {
-  "bulan": "4",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "200",
-  "Revenue": "3686"
-}, {
-  "bulan": "5",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "195",
-  "Revenue": "3558"
-}, {
-  "bulan": "6",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "188",
-  "Revenue": "3505"
-}, {
-  "bulan": "7",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "221",
-  "Revenue": "4074"
-}, {
-  "bulan": "8",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "182",
-  "Revenue": "3273"
-}, {
-  "bulan": "9",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "203",
-  "Revenue": "3736"
-}, {
-  "bulan": "10",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "191",
-  "Revenue": "3503"
-}, {
-  "bulan": "11",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "208",
-  "Revenue": "3776"
-}, {
-  "bulan": "12",
-  "Name": "The Thai Chicken Pizza",
-  "Sold": "204",
-  "Revenue": "3813"
-}, {
-  "bulan": "1",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "126",
-  "Revenue": "2047"
-}, {
-  "bulan": "2",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "108",
-  "Revenue": "1695"
-}, {
-  "bulan": "3",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "137",
-  "Revenue": "2146"
-}, {
-  "bulan": "4",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "120",
-  "Revenue": "1878"
-}, {
-  "bulan": "5",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "137",
-  "Revenue": "2232"
-}, {
-  "bulan": "6",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "117",
-  "Revenue": "1881"
-}, {
-  "bulan": "7",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "127",
-  "Revenue": "2059"
-}, {
-  "bulan": "8",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "140",
-  "Revenue": "2319"
-}, {
-  "bulan": "9",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "111",
-  "Revenue": "1756"
-}, {
-  "bulan": "10",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "88",
-  "Revenue": "1435"
-}, {
-  "bulan": "11",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "119",
-  "Revenue": "1925"
-}, {
-  "bulan": "12",
-  "Name": "The Spinach and Feta Pizza",
-  "Sold": "116",
-  "Revenue": "1897"
-}, {
-  "bulan": "1",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "87",
-  "Revenue": "1357"
-}, {
-  "bulan": "2",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "81",
-  "Revenue": "1298"
-}, {
-  "bulan": "3",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "71",
-  "Revenue": "1153"
-}, {
-  "bulan": "4",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "85",
-  "Revenue": "1443"
-}, {
-  "bulan": "5",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "85",
-  "Revenue": "1381"
-}, {
-  "bulan": "6",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "84",
-  "Revenue": "1357"
-}, {
-  "bulan": "7",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "83",
-  "Revenue": "1373"
-}, {
-  "bulan": "8",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "84",
-  "Revenue": "1283"
-}, {
-  "bulan": "9",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "71",
-  "Revenue": "1116"
-}, {
-  "bulan": "10",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "72",
-  "Revenue": "1207"
-}, {
-  "bulan": "11",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "74",
-  "Revenue": "1137"
-}, {
-  "bulan": "12",
-  "Name": "The Spinach Supreme Pizza",
-  "Sold": "73",
-  "Revenue": "1173"
-}, {
-  "bulan": "1",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "77",
-  "Revenue": "1269"
-}, {
-  "bulan": "2",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "75",
-  "Revenue": "1211"
-}, {
-  "bulan": "3",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "92",
-  "Revenue": "1514"
-}, {
-  "bulan": "4",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "60",
-  "Revenue": "913"
-}, {
-  "bulan": "5",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "94",
-  "Revenue": "1551"
-}, {
-  "bulan": "6",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "90",
-  "Revenue": "1486"
-}, {
-  "bulan": "7",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "78",
-  "Revenue": "1262"
-}, {
-  "bulan": "8",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "86",
-  "Revenue": "1377"
-}, {
-  "bulan": "9",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "88",
-  "Revenue": "1409"
-}, {
-  "bulan": "10",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "60",
-  "Revenue": "954"
-}, {
-  "bulan": "11",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "95",
-  "Revenue": "1481"
-}, {
-  "bulan": "12",
-  "Name": "The Spinach Pesto Pizza",
-  "Sold": "75",
-  "Revenue": "1169"
-}, {
-  "bulan": "1",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "153",
-  "Revenue": "2762"
-}, {
-  "bulan": "2",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "144",
-  "Revenue": "2646"
-}, {
-  "bulan": "3",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "174",
-  "Revenue": "3206"
-}, {
-  "bulan": "4",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "152",
-  "Revenue": "2758"
-}, {
-  "bulan": "5",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "188",
-  "Revenue": "3431"
-}, {
-  "bulan": "6",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "165",
-  "Revenue": "2986"
-}, {
-  "bulan": "7",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "193",
-  "Revenue": "3459"
-}, {
-  "bulan": "8",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "155",
-  "Revenue": "2796"
-}, {
-  "bulan": "9",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "130",
-  "Revenue": "2373"
-}, {
-  "bulan": "10",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "151",
-  "Revenue": "2707"
-}, {
-  "bulan": "11",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "166",
-  "Revenue": "3000"
-}, {
-  "bulan": "12",
-  "Name": "The Spicy Italian Pizza",
-  "Sold": "153",
-  "Revenue": "2709"
-}, {
-  "bulan": "1",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "138",
-  "Revenue": "2496"
-}, {
-  "bulan": "2",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "155",
-  "Revenue": "2804"
-}, {
-  "bulan": "3",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "175",
-  "Revenue": "3155"
-}, {
-  "bulan": "4",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "171",
-  "Revenue": "3096"
-}, {
-  "bulan": "5",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "155",
-  "Revenue": "2860"
-}, {
-  "bulan": "6",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "144",
-  "Revenue": "2584"
-}, {
-  "bulan": "7",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "178",
-  "Revenue": "3242"
-}, {
-  "bulan": "8",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "170",
-  "Revenue": "3020"
-}, {
-  "bulan": "9",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "163",
-  "Revenue": "2950"
-}, {
-  "bulan": "10",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "159",
-  "Revenue": "2891"
-}, {
-  "bulan": "11",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "168",
-  "Revenue": "3022"
-}, {
-  "bulan": "12",
-  "Name": "The Southwest Chicken Pizza",
-  "Sold": "141",
-  "Revenue": "2586"
-}, {
-  "bulan": "1",
-  "Name": "The Soppressata Pizza",
-  "Sold": "79",
-  "Revenue": "1324"
-}, {
-  "bulan": "2",
-  "Name": "The Soppressata Pizza",
-  "Sold": "76",
-  "Revenue": "1289"
-}, {
-  "bulan": "3",
-  "Name": "The Soppressata Pizza",
-  "Sold": "78",
-  "Revenue": "1335"
-}, {
-  "bulan": "4",
-  "Name": "The Soppressata Pizza",
-  "Sold": "94",
-  "Revenue": "1639"
-}, {
-  "bulan": "5",
-  "Name": "The Soppressata Pizza",
-  "Sold": "87",
-  "Revenue": "1505"
-}, {
-  "bulan": "6",
-  "Name": "The Soppressata Pizza",
-  "Sold": "85",
-  "Revenue": "1527"
-}, {
-  "bulan": "7",
-  "Name": "The Soppressata Pizza",
-  "Sold": "85",
-  "Revenue": "1476"
-}, {
-  "bulan": "8",
-  "Name": "The Soppressata Pizza",
-  "Sold": "79",
-  "Revenue": "1335"
-}, {
-  "bulan": "9",
-  "Name": "The Soppressata Pizza",
-  "Sold": "65",
-  "Revenue": "1107"
-}, {
-  "bulan": "10",
-  "Name": "The Soppressata Pizza",
-  "Sold": "90",
-  "Revenue": "1489"
-}, {
-  "bulan": "11",
-  "Name": "The Soppressata Pizza",
-  "Sold": "72",
-  "Revenue": "1244"
-}, {
-  "bulan": "12",
-  "Name": "The Soppressata Pizza",
-  "Sold": "71",
-  "Revenue": "1158"
-}, {
-  "bulan": "1",
-  "Name": "The Sicilian Pizza",
-  "Sold": "191",
-  "Revenue": "2988"
-}, {
-  "bulan": "2",
-  "Name": "The Sicilian Pizza",
-  "Sold": "160",
-  "Revenue": "2560"
-}, {
-  "bulan": "3",
-  "Name": "The Sicilian Pizza",
-  "Sold": "155",
-  "Revenue": "2443"
-}, {
-  "bulan": "4",
-  "Name": "The Sicilian Pizza",
-  "Sold": "155",
-  "Revenue": "2435"
-}, {
-  "bulan": "5",
-  "Name": "The Sicilian Pizza",
-  "Sold": "150",
-  "Revenue": "2434"
-}, {
-  "bulan": "6",
-  "Name": "The Sicilian Pizza",
-  "Sold": "167",
-  "Revenue": "2654"
-}, {
-  "bulan": "7",
-  "Name": "The Sicilian Pizza",
-  "Sold": "151",
-  "Revenue": "2474"
-}, {
-  "bulan": "8",
-  "Name": "The Sicilian Pizza",
-  "Sold": "160",
-  "Revenue": "2548"
-}, {
-  "bulan": "9",
-  "Name": "The Sicilian Pizza",
-  "Sold": "144",
-  "Revenue": "2260"
-}, {
-  "bulan": "10",
-  "Name": "The Sicilian Pizza",
-  "Sold": "168",
-  "Revenue": "2678"
-}, {
-  "bulan": "11",
-  "Name": "The Sicilian Pizza",
-  "Sold": "178",
-  "Revenue": "2897"
-}, {
-  "bulan": "12",
-  "Name": "The Sicilian Pizza",
-  "Sold": "159",
-  "Revenue": "2572"
-}, {
-  "bulan": "1",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "134",
-  "Revenue": "2218"
-}, {
-  "bulan": "2",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "123",
-  "Revenue": "2006"
-}, {
-  "bulan": "3",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "127",
-  "Revenue": "2137"
-}, {
-  "bulan": "4",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "109",
-  "Revenue": "1789"
-}, {
-  "bulan": "5",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "114",
-  "Revenue": "1887"
-}, {
-  "bulan": "6",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "111",
-  "Revenue": "1877"
-}, {
-  "bulan": "7",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "132",
-  "Revenue": "2212"
-}, {
-  "bulan": "8",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "121",
-  "Revenue": "1956"
-}, {
-  "bulan": "9",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "113",
-  "Revenue": "1871"
-}, {
-  "bulan": "10",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "136",
-  "Revenue": "2333"
-}, {
-  "bulan": "11",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "124",
-  "Revenue": "2060"
-}, {
-  "bulan": "12",
-  "Name": "The Prosciutto and Arugula Pizza",
-  "Sold": "113",
-  "Revenue": "1848"
-}, {
-  "bulan": "1",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "102",
-  "Revenue": "1435"
-}, {
-  "bulan": "2",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "112",
-  "Revenue": "1530"
-}, {
-  "bulan": "3",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "116",
-  "Revenue": "1586"
-}, {
-  "bulan": "4",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "110",
-  "Revenue": "1548"
-}, {
-  "bulan": "5",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "120",
-  "Revenue": "1659"
-}, {
-  "bulan": "6",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "127",
-  "Revenue": "1786"
-}, {
-  "bulan": "7",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "124",
-  "Revenue": "1689"
-}, {
-  "bulan": "8",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "133",
-  "Revenue": "1792"
-}, {
-  "bulan": "9",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "121",
-  "Revenue": "1687"
-}, {
-  "bulan": "10",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "105",
-  "Revenue": "1474"
-}, {
-  "bulan": "11",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "88",
-  "Revenue": "1235"
-}, {
-  "bulan": "12",
-  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
-  "Sold": "101",
-  "Revenue": "1415"
-}, {
-  "bulan": "1",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "239",
-  "Revenue": "3001"
-}, {
-  "bulan": "2",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "205",
-  "Revenue": "2554"
-}, {
-  "bulan": "3",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "187",
-  "Revenue": "2324"
-}, {
-  "bulan": "4",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "171",
-  "Revenue": "2113"
-}, {
-  "bulan": "5",
+  "category": "Classic",
   "Name": "The Pepperoni Pizza",
   "Sold": "241",
   "Revenue": "2999"
 }, {
-  "bulan": "6",
+  "bulan": "1",
+  "category": "Classic",
   "Name": "The Pepperoni Pizza",
-  "Sold": "162",
-  "Revenue": "2055"
-}, {
-  "bulan": "7",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "224",
-  "Revenue": "2819"
-}, {
-  "bulan": "8",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "213",
-  "Revenue": "2638"
-}, {
-  "bulan": "9",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "198",
-  "Revenue": "2467"
-}, {
-  "bulan": "10",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "199",
-  "Revenue": "2471"
-}, {
-  "bulan": "11",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "196",
-  "Revenue": "2428"
-}, {
-  "bulan": "12",
-  "Name": "The Pepperoni Pizza",
-  "Sold": "183",
-  "Revenue": "2293"
-}, {
-  "bulan": "1",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "131",
-  "Revenue": "2342"
-}, {
-  "bulan": "2",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "108",
-  "Revenue": "1862"
+  "Sold": "239",
+  "Revenue": "3001"
 }, {
   "bulan": "3",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "123",
-  "Revenue": "2185"
-}, {
-  "bulan": "4",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "131",
-  "Revenue": "2363"
-}, {
-  "bulan": "5",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "115",
-  "Revenue": "2056"
-}, {
-  "bulan": "6",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "127",
-  "Revenue": "2267"
-}, {
-  "bulan": "7",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "124",
-  "Revenue": "2214"
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "231",
+  "Revenue": "4049"
 }, {
   "bulan": "8",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "109",
-  "Revenue": "1894"
-}, {
-  "bulan": "9",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "102",
-  "Revenue": "1816"
-}, {
-  "bulan": "10",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "127",
-  "Revenue": "2238"
-}, {
-  "bulan": "11",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "128",
-  "Revenue": "2227"
-}, {
-  "bulan": "12",
-  "Name": "The Pepper Salami Pizza",
-  "Sold": "121",
-  "Revenue": "2066"
-}, {
-  "bulan": "1",
-  "Name": "The Napolitana Pizza",
-  "Sold": "136",
-  "Revenue": "2307"
-}, {
-  "bulan": "2",
-  "Name": "The Napolitana Pizza",
-  "Sold": "113",
-  "Revenue": "1911"
-}, {
-  "bulan": "3",
-  "Name": "The Napolitana Pizza",
-  "Sold": "108",
-  "Revenue": "1774"
-}, {
-  "bulan": "4",
-  "Name": "The Napolitana Pizza",
-  "Sold": "119",
-  "Revenue": "1930"
-}, {
-  "bulan": "5",
-  "Name": "The Napolitana Pizza",
-  "Sold": "116",
-  "Revenue": "1847"
-}, {
-  "bulan": "6",
-  "Name": "The Napolitana Pizza",
-  "Sold": "143",
-  "Revenue": "2292"
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "231",
+  "Revenue": "3977"
 }, {
   "bulan": "7",
-  "Name": "The Napolitana Pizza",
-  "Sold": "123",
-  "Revenue": "2024"
-}, {
-  "bulan": "8",
-  "Name": "The Napolitana Pizza",
-  "Sold": "139",
-  "Revenue": "2278"
-}, {
-  "bulan": "9",
-  "Name": "The Napolitana Pizza",
-  "Sold": "119",
-  "Revenue": "1987"
-}, {
-  "bulan": "10",
-  "Name": "The Napolitana Pizza",
-  "Sold": "130",
-  "Revenue": "2121"
-}, {
-  "bulan": "11",
-  "Name": "The Napolitana Pizza",
-  "Sold": "115",
-  "Revenue": "1954"
-}, {
-  "bulan": "12",
-  "Name": "The Napolitana Pizza",
-  "Sold": "103",
-  "Revenue": "1667"
-}, {
-  "bulan": "1",
-  "Name": "The Mexicana Pizza",
-  "Sold": "132",
-  "Revenue": "2358"
-}, {
-  "bulan": "2",
-  "Name": "The Mexicana Pizza",
-  "Sold": "107",
-  "Revenue": "1916"
-}, {
-  "bulan": "3",
-  "Name": "The Mexicana Pizza",
-  "Sold": "130",
-  "Revenue": "2389"
-}, {
-  "bulan": "4",
-  "Name": "The Mexicana Pizza",
-  "Sold": "130",
-  "Revenue": "2396"
-}, {
-  "bulan": "5",
-  "Name": "The Mexicana Pizza",
-  "Sold": "104",
-  "Revenue": "1880"
-}, {
-  "bulan": "6",
-  "Name": "The Mexicana Pizza",
-  "Sold": "122",
-  "Revenue": "2231"
-}, {
-  "bulan": "7",
-  "Name": "The Mexicana Pizza",
-  "Sold": "148",
-  "Revenue": "2643"
-}, {
-  "bulan": "8",
-  "Name": "The Mexicana Pizza",
-  "Sold": "124",
-  "Revenue": "2234"
-}, {
-  "bulan": "9",
-  "Name": "The Mexicana Pizza",
-  "Sold": "102",
-  "Revenue": "1807"
-}, {
-  "bulan": "10",
-  "Name": "The Mexicana Pizza",
-  "Sold": "113",
-  "Revenue": "2024"
-}, {
-  "bulan": "11",
-  "Name": "The Mexicana Pizza",
-  "Sold": "157",
-  "Revenue": "2873"
-}, {
-  "bulan": "12",
-  "Name": "The Mexicana Pizza",
-  "Sold": "115",
-  "Revenue": "2031"
-}, {
-  "bulan": "1",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "68",
-  "Revenue": "1148"
-}, {
-  "bulan": "2",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "65",
-  "Revenue": "1084"
-}, {
-  "bulan": "3",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "78",
-  "Revenue": "1301"
-}, {
-  "bulan": "4",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "79",
-  "Revenue": "1246"
-}, {
-  "bulan": "5",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "92",
-  "Revenue": "1500"
-}, {
-  "bulan": "6",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "75",
-  "Revenue": "1215"
-}, {
-  "bulan": "7",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "87",
-  "Revenue": "1453"
-}, {
-  "bulan": "8",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "77",
-  "Revenue": "1277"
-}, {
-  "bulan": "9",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "76",
-  "Revenue": "1268"
-}, {
-  "bulan": "10",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "65",
-  "Revenue": "1074"
-}, {
-  "bulan": "11",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "87",
-  "Revenue": "1432"
-}, {
-  "bulan": "12",
-  "Name": "The Mediterranean Pizza",
-  "Sold": "85",
-  "Revenue": "1364"
-}, {
-  "bulan": "1",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "100",
-  "Revenue": "1654"
-}, {
-  "bulan": "2",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "87",
-  "Revenue": "1397"
-}, {
-  "bulan": "3",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "87",
-  "Revenue": "1397"
-}, {
-  "bulan": "4",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "87",
-  "Revenue": "1405"
-}, {
-  "bulan": "5",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "87",
-  "Revenue": "1425"
-}, {
-  "bulan": "6",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "72",
-  "Revenue": "1185"
-}, {
-  "bulan": "7",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "72",
-  "Revenue": "1202"
-}, {
-  "bulan": "8",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "78",
-  "Revenue": "1296"
-}, {
-  "bulan": "9",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "72",
-  "Revenue": "1169"
-}, {
-  "bulan": "10",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "82",
-  "Revenue": "1338"
-}, {
-  "bulan": "11",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "72",
-  "Revenue": "1170"
-}, {
-  "bulan": "12",
-  "Name": "The Italian Vegetables Pizza",
-  "Sold": "85",
-  "Revenue": "1383"
-}, {
-  "bulan": "1",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "167",
-  "Revenue": "2955"
-}, {
-  "bulan": "2",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "142",
-  "Revenue": "2555"
-}, {
-  "bulan": "3",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "152",
-  "Revenue": "2665"
-}, {
-  "bulan": "4",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "172",
-  "Revenue": "3080"
-}, {
-  "bulan": "5",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "176",
-  "Revenue": "3142"
-}, {
-  "bulan": "6",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "171",
-  "Revenue": "2959"
-}, {
-  "bulan": "7",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "146",
-  "Revenue": "2541"
-}, {
-  "bulan": "8",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "167",
-  "Revenue": "3003"
-}, {
-  "bulan": "9",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "137",
-  "Revenue": "2489"
-}, {
-  "bulan": "10",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "139",
-  "Revenue": "2447"
-}, {
-  "bulan": "11",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "172",
-  "Revenue": "3051"
-}, {
-  "bulan": "12",
-  "Name": "The Italian Supreme Pizza",
-  "Sold": "143",
-  "Revenue": "2592"
-}, {
-  "bulan": "1",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "126",
-  "Revenue": "2153"
-}, {
-  "bulan": "2",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "121",
-  "Revenue": "2079"
-}, {
-  "bulan": "3",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "118",
-  "Revenue": "2085"
-}, {
-  "bulan": "4",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "129",
-  "Revenue": "2260"
-}, {
-  "bulan": "5",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "118",
-  "Revenue": "2019"
-}, {
-  "bulan": "6",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "127",
-  "Revenue": "2248"
-}, {
-  "bulan": "7",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "133",
-  "Revenue": "2302"
-}, {
-  "bulan": "8",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "117",
-  "Revenue": "2085"
-}, {
-  "bulan": "9",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "110",
-  "Revenue": "1981"
-}, {
-  "bulan": "10",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "106",
-  "Revenue": "1813"
-}, {
-  "bulan": "11",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "111",
-  "Revenue": "1950"
-}, {
-  "bulan": "12",
-  "Name": "The Italian Capocollo Pizza",
-  "Sold": "122",
-  "Revenue": "2122"
-}, {
-  "bulan": "1",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "185",
-  "Revenue": "2443"
-}, {
-  "bulan": "2",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "198",
-  "Revenue": "2633"
-}, {
-  "bulan": "3",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "217",
-  "Revenue": "2879"
-}, {
-  "bulan": "4",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "219",
-  "Revenue": "2868"
-}, {
-  "bulan": "5",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "198",
-  "Revenue": "2688"
-}, {
-  "bulan": "6",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "189",
-  "Revenue": "2564"
-}, {
-  "bulan": "7",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "195",
-  "Revenue": "2620"
-}, {
-  "bulan": "8",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "201",
-  "Revenue": "2679"
-}, {
-  "bulan": "9",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "196",
-  "Revenue": "2616"
-}, {
-  "bulan": "10",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "188",
-  "Revenue": "2515"
-}, {
-  "bulan": "11",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "227",
-  "Revenue": "2953"
-}, {
-  "bulan": "12",
-  "Name": "The Hawaiian Pizza",
-  "Sold": "209",
-  "Revenue": "2817"
-}, {
-  "bulan": "1",
-  "Name": "The Green Garden Pizza",
-  "Sold": "75",
-  "Revenue": "1066"
-}, {
-  "bulan": "2",
-  "Name": "The Green Garden Pizza",
-  "Sold": "88",
-  "Revenue": "1227"
-}, {
-  "bulan": "3",
-  "Name": "The Green Garden Pizza",
-  "Sold": "88",
-  "Revenue": "1263"
-}, {
-  "bulan": "4",
-  "Name": "The Green Garden Pizza",
-  "Sold": "82",
-  "Revenue": "1146"
-}, {
-  "bulan": "5",
-  "Name": "The Green Garden Pizza",
-  "Sold": "91",
-  "Revenue": "1258"
-}, {
-  "bulan": "6",
-  "Name": "The Green Garden Pizza",
-  "Sold": "87",
-  "Revenue": "1231"
-}, {
-  "bulan": "7",
-  "Name": "The Green Garden Pizza",
-  "Sold": "101",
-  "Revenue": "1427"
-}, {
-  "bulan": "8",
-  "Name": "The Green Garden Pizza",
-  "Sold": "81",
-  "Revenue": "1150"
-}, {
-  "bulan": "9",
-  "Name": "The Green Garden Pizza",
-  "Sold": "91",
-  "Revenue": "1254"
-}, {
-  "bulan": "10",
-  "Name": "The Green Garden Pizza",
-  "Sold": "85",
-  "Revenue": "1182"
-}, {
-  "bulan": "11",
-  "Name": "The Green Garden Pizza",
-  "Sold": "63",
-  "Revenue": "837"
-}, {
-  "bulan": "12",
-  "Name": "The Green Garden Pizza",
-  "Sold": "65",
-  "Revenue": "918"
-}, {
-  "bulan": "1",
-  "Name": "The Greek Pizza",
-  "Sold": "129",
-  "Revenue": "2539"
-}, {
-  "bulan": "2",
-  "Name": "The Greek Pizza",
-  "Sold": "105",
-  "Revenue": "2112"
-}, {
-  "bulan": "3",
-  "Name": "The Greek Pizza",
-  "Sold": "110",
-  "Revenue": "2190"
-}, {
-  "bulan": "4",
-  "Name": "The Greek Pizza",
-  "Sold": "150",
-  "Revenue": "3088"
-}, {
-  "bulan": "5",
-  "Name": "The Greek Pizza",
-  "Sold": "123",
-  "Revenue": "2488"
-}, {
-  "bulan": "6",
-  "Name": "The Greek Pizza",
-  "Sold": "115",
-  "Revenue": "2395"
-}, {
-  "bulan": "7",
-  "Name": "The Greek Pizza",
-  "Sold": "120",
-  "Revenue": "2425"
-}, {
-  "bulan": "8",
-  "Name": "The Greek Pizza",
-  "Sold": "112",
-  "Revenue": "2244"
-}, {
-  "bulan": "9",
-  "Name": "The Greek Pizza",
-  "Sold": "107",
-  "Revenue": "2134"
-}, {
-  "bulan": "10",
-  "Name": "The Greek Pizza",
-  "Sold": "106",
-  "Revenue": "2128"
-}, {
-  "bulan": "11",
-  "Name": "The Greek Pizza",
-  "Sold": "133",
-  "Revenue": "2600"
-}, {
-  "bulan": "12",
-  "Name": "The Greek Pizza",
-  "Sold": "110",
-  "Revenue": "2109"
-}, {
-  "bulan": "1",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "159",
-  "Revenue": "2672"
-}, {
-  "bulan": "2",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "160",
-  "Revenue": "2734"
-}, {
-  "bulan": "3",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "165",
-  "Revenue": "2811"
-}, {
-  "bulan": "4",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "162",
-  "Revenue": "2745"
-}, {
-  "bulan": "5",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "182",
-  "Revenue": "3052"
-}, {
-  "bulan": "6",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "148",
-  "Revenue": "2516"
-}, {
-  "bulan": "7",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "162",
-  "Revenue": "2770"
-}, {
-  "bulan": "8",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "139",
-  "Revenue": "2345"
-}, {
-  "bulan": "9",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "147",
-  "Revenue": "2482"
-}, {
-  "bulan": "10",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "169",
-  "Revenue": "2870"
-}, {
-  "bulan": "11",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "149",
-  "Revenue": "2537"
-}, {
-  "bulan": "12",
-  "Name": "The Four Cheese Pizza",
-  "Sold": "160",
-  "Revenue": "2731"
-}, {
-  "bulan": "1",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "138",
-  "Revenue": "2553"
-}, {
-  "bulan": "2",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "113",
-  "Revenue": "2091"
-}, {
-  "bulan": "3",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "125",
-  "Revenue": "2313"
-}, {
-  "bulan": "4",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "107",
-  "Revenue": "1980"
-}, {
-  "bulan": "5",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "124",
-  "Revenue": "2294"
-}, {
-  "bulan": "6",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "124",
-  "Revenue": "2294"
-}, {
-  "bulan": "7",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "139",
-  "Revenue": "2572"
-}, {
-  "bulan": "8",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "113",
-  "Revenue": "2091"
-}, {
-  "bulan": "9",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "115",
-  "Revenue": "2128"
-}, {
-  "bulan": "10",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "113",
-  "Revenue": "2091"
-}, {
-  "bulan": "11",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "109",
-  "Revenue": "2017"
-}, {
-  "bulan": "12",
-  "Name": "The Five Cheese Pizza",
-  "Sold": "89",
-  "Revenue": "1647"
-}, {
-  "bulan": "1",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "190",
-  "Revenue": "2942"
-}, {
-  "bulan": "2",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "173",
-  "Revenue": "2705"
-}, {
-  "bulan": "3",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "204",
-  "Revenue": "3168"
-}, {
-  "bulan": "4",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "216",
-  "Revenue": "3343"
-}, {
-  "bulan": "5",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "218",
-  "Revenue": "3444"
-}, {
-  "bulan": "6",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "197",
-  "Revenue": "3029"
-}, {
-  "bulan": "7",
+  "category": "Classic",
   "Name": "The Classic Deluxe Pizza",
   "Sold": "227",
   "Revenue": "3555"
 }, {
-  "bulan": "8",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "208",
-  "Revenue": "3187"
-}, {
-  "bulan": "9",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "209",
-  "Revenue": "3258"
-}, {
-  "bulan": "10",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "196",
-  "Revenue": "3076"
-}, {
   "bulan": "11",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "218",
-  "Revenue": "3380"
-}, {
-  "bulan": "12",
-  "Name": "The Classic Deluxe Pizza",
-  "Sold": "197",
-  "Revenue": "3097"
-}, {
-  "bulan": "1",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "77",
-  "Revenue": "1338"
-}, {
-  "bulan": "2",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "82",
-  "Revenue": "1434"
-}, {
-  "bulan": "3",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "81",
-  "Revenue": "1341"
-}, {
-  "bulan": "4",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "89",
-  "Revenue": "1551"
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "227",
+  "Revenue": "2953"
 }, {
   "bulan": "5",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "79",
-  "Revenue": "1379"
-}, {
-  "bulan": "6",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "79",
-  "Revenue": "1339"
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "226",
+  "Revenue": "3954"
 }, {
   "bulan": "7",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "85",
-  "Revenue": "1428"
-}, {
-  "bulan": "8",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "81",
-  "Revenue": "1381"
-}, {
-  "bulan": "9",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "84",
-  "Revenue": "1483"
-}, {
-  "bulan": "10",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "72",
-  "Revenue": "1254"
-}, {
-  "bulan": "11",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "82",
-  "Revenue": "1402"
-}, {
-  "bulan": "12",
-  "Name": "The Chicken Pesto Pizza",
-  "Sold": "82",
-  "Revenue": "1374"
-}, {
-  "bulan": "1",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "86",
-  "Revenue": "1457"
-}, {
-  "bulan": "2",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "74",
-  "Revenue": "1268"
-}, {
-  "bulan": "3",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "100",
-  "Revenue": "1779"
-}, {
-  "bulan": "4",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "74",
-  "Revenue": "1260"
-}, {
-  "bulan": "5",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "85",
-  "Revenue": "1440"
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "224",
+  "Revenue": "2819"
 }, {
   "bulan": "6",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "83",
-  "Revenue": "1410"
-}, {
-  "bulan": "7",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "73",
-  "Revenue": "1223"
-}, {
-  "bulan": "8",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "83",
-  "Revenue": "1402"
-}, {
-  "bulan": "9",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "81",
-  "Revenue": "1401"
-}, {
-  "bulan": "10",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "80",
-  "Revenue": "1364"
-}, {
-  "bulan": "11",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "93",
-  "Revenue": "1626"
-}, {
-  "bulan": "12",
-  "Name": "The Chicken Alfredo Pizza",
-  "Sold": "75",
-  "Revenue": "1272"
-}, {
-  "bulan": "1",
-  "Name": "The California Chicken Pizza",
-  "Sold": "202",
-  "Revenue": "3472"
-}, {
-  "bulan": "2",
-  "Name": "The California Chicken Pizza",
-  "Sold": "204",
-  "Revenue": "3537"
-}, {
-  "bulan": "3",
-  "Name": "The California Chicken Pizza",
-  "Sold": "194",
-  "Revenue": "3458"
-}, {
-  "bulan": "4",
-  "Name": "The California Chicken Pizza",
-  "Sold": "176",
-  "Revenue": "3092"
-}, {
-  "bulan": "5",
-  "Name": "The California Chicken Pizza",
-  "Sold": "199",
-  "Revenue": "3561"
-}, {
-  "bulan": "6",
+  "category": "Chicken",
   "Name": "The California Chicken Pizza",
   "Sold": "222",
   "Revenue": "3871"
 }, {
   "bulan": "7",
-  "Name": "The California Chicken Pizza",
-  "Sold": "187",
-  "Revenue": "3252"
-}, {
-  "bulan": "8",
-  "Name": "The California Chicken Pizza",
-  "Sold": "231",
-  "Revenue": "3977"
-}, {
-  "bulan": "9",
-  "Name": "The California Chicken Pizza",
-  "Sold": "177",
-  "Revenue": "3089"
-}, {
-  "bulan": "10",
-  "Name": "The California Chicken Pizza",
-  "Sold": "162",
-  "Revenue": "2834"
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "221",
+  "Revenue": "4074"
 }, {
   "bulan": "11",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "221",
+  "Revenue": "3882"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "219",
+  "Revenue": "2868"
+}, {
+  "bulan": "7",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "219",
+  "Revenue": "3784"
+}, {
+  "bulan": "5",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "218",
+  "Revenue": "3444"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "218",
+  "Revenue": "3380"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "217",
+  "Revenue": "2879"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "216",
+  "Revenue": "3343"
+}, {
+  "bulan": "4",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "214",
+  "Revenue": "3789"
+}, {
+  "bulan": "3",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "213",
+  "Revenue": "3844"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "213",
+  "Revenue": "2638"
+}, {
+  "bulan": "1",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "211",
+  "Revenue": "3770"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "209",
+  "Revenue": "3258"
+}, {
+  "bulan": "11",
+  "category": "Chicken",
   "Name": "The California Chicken Pizza",
   "Sold": "209",
   "Revenue": "3693"
 }, {
   "bulan": "12",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "209",
+  "Revenue": "2817"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "208",
+  "Revenue": "3187"
+}, {
+  "bulan": "11",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "208",
+  "Revenue": "3776"
+}, {
+  "bulan": "12",
+  "category": "Chicken",
   "Name": "The California Chicken Pizza",
   "Sold": "207",
   "Revenue": "3575"
 }, {
-  "bulan": "1",
-  "Name": "The Calabrese Pizza",
-  "Sold": "67",
-  "Revenue": "1157"
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "205",
+  "Revenue": "2554"
 }, {
   "bulan": "2",
-  "Name": "The Calabrese Pizza",
-  "Sold": "86",
-  "Revenue": "1462"
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "204",
+  "Revenue": "3537"
 }, {
   "bulan": "3",
-  "Name": "The Calabrese Pizza",
-  "Sold": "65",
-  "Revenue": "1108"
-}, {
-  "bulan": "4",
-  "Name": "The Calabrese Pizza",
-  "Sold": "83",
-  "Revenue": "1381"
-}, {
-  "bulan": "5",
-  "Name": "The Calabrese Pizza",
-  "Sold": "84",
-  "Revenue": "1393"
-}, {
-  "bulan": "6",
-  "Name": "The Calabrese Pizza",
-  "Sold": "90",
-  "Revenue": "1527"
-}, {
-  "bulan": "7",
-  "Name": "The Calabrese Pizza",
-  "Sold": "83",
-  "Revenue": "1429"
-}, {
-  "bulan": "8",
-  "Name": "The Calabrese Pizza",
-  "Sold": "73",
-  "Revenue": "1262"
-}, {
-  "bulan": "9",
-  "Name": "The Calabrese Pizza",
-  "Sold": "66",
-  "Revenue": "1105"
-}, {
-  "bulan": "10",
-  "Name": "The Calabrese Pizza",
-  "Sold": "81",
-  "Revenue": "1372"
-}, {
-  "bulan": "11",
-  "Name": "The Calabrese Pizza",
-  "Sold": "94",
-  "Revenue": "1596"
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "204",
+  "Revenue": "3168"
 }, {
   "bulan": "12",
-  "Name": "The Calabrese Pizza",
-  "Sold": "65",
-  "Revenue": "1144"
-}, {
-  "bulan": "1",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "35",
-  "Revenue": "828"
-}, {
-  "bulan": "2",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "44",
-  "Revenue": "1041"
-}, {
-  "bulan": "3",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "46",
-  "Revenue": "1088"
-}, {
-  "bulan": "4",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "32",
-  "Revenue": "757"
-}, {
-  "bulan": "5",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "46",
-  "Revenue": "1088"
-}, {
-  "bulan": "6",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "40",
-  "Revenue": "946"
-}, {
-  "bulan": "7",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "44",
-  "Revenue": "1041"
-}, {
-  "bulan": "8",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "43",
-  "Revenue": "1017"
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "204",
+  "Revenue": "3813"
 }, {
   "bulan": "9",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "49",
-  "Revenue": "1159"
-}, {
-  "bulan": "10",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "34",
-  "Revenue": "804"
-}, {
-  "bulan": "11",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "42",
-  "Revenue": "993"
-}, {
-  "bulan": "12",
-  "Name": "The Brie Carre Pizza",
-  "Sold": "35",
-  "Revenue": "828"
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "203",
+  "Revenue": "3736"
 }, {
   "bulan": "1",
-  "Name": "The Big Meat Pizza",
-  "Sold": "150",
-  "Revenue": "1800"
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "202",
+  "Revenue": "3472"
 }, {
-  "bulan": "2",
-  "Name": "The Big Meat Pizza",
-  "Sold": "151",
-  "Revenue": "1812"
-}, {
-  "bulan": "3",
-  "Name": "The Big Meat Pizza",
-  "Sold": "176",
-  "Revenue": "2112"
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "201",
+  "Revenue": "2679"
 }, {
   "bulan": "4",
-  "Name": "The Big Meat Pizza",
-  "Sold": "139",
-  "Revenue": "1668"
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "200",
+  "Revenue": "3686"
+}, {
+  "bulan": "1",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "199",
+  "Revenue": "3657"
 }, {
   "bulan": "5",
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "199",
+  "Revenue": "3561"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "199",
+  "Revenue": "2471"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "198",
+  "Revenue": "2633"
+}, {
+  "bulan": "5",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "198",
+  "Revenue": "2688"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "198",
+  "Revenue": "2467"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "197",
+  "Revenue": "3029"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "197",
+  "Revenue": "3097"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "196",
+  "Revenue": "2616"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "196",
+  "Revenue": "3076"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "196",
+  "Revenue": "2428"
+}, {
+  "bulan": "5",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "195",
+  "Revenue": "3558"
+}, {
+  "bulan": "7",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "195",
+  "Revenue": "2620"
+}, {
+  "bulan": "3",
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "194",
+  "Revenue": "3458"
+}, {
+  "bulan": "6",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "194",
+  "Revenue": "3378"
+}, {
+  "bulan": "2",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "193",
+  "Revenue": "3417"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "193",
+  "Revenue": "3459"
+}, {
+  "bulan": "9",
+  "category": "Chicken",
+  "Name": "The Barbecue Chicken Pizza",
+  "Sold": "192",
+  "Revenue": "3380"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "191",
+  "Revenue": "2988"
+}, {
+  "bulan": "10",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "191",
+  "Revenue": "3503"
+}, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "190",
+  "Revenue": "2942"
+}, {
+  "bulan": "5",
+  "category": "Classic",
   "Name": "The Big Meat Pizza",
   "Sold": "190",
   "Revenue": "2280"
 }, {
   "bulan": "6",
-  "Name": "The Big Meat Pizza",
-  "Sold": "139",
-  "Revenue": "1668"
-}, {
-  "bulan": "7",
-  "Name": "The Big Meat Pizza",
-  "Sold": "185",
-  "Revenue": "2220"
-}, {
-  "bulan": "8",
-  "Name": "The Big Meat Pizza",
-  "Sold": "160",
-  "Revenue": "1920"
-}, {
-  "bulan": "9",
-  "Name": "The Big Meat Pizza",
-  "Sold": "142",
-  "Revenue": "1704"
-}, {
-  "bulan": "10",
-  "Name": "The Big Meat Pizza",
-  "Sold": "151",
-  "Revenue": "1812"
-}, {
-  "bulan": "11",
-  "Name": "The Big Meat Pizza",
-  "Sold": "174",
-  "Revenue": "2088"
-}, {
-  "bulan": "12",
-  "Name": "The Big Meat Pizza",
-  "Sold": "157",
-  "Revenue": "1884"
-}, {
-  "bulan": "1",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "211",
-  "Revenue": "3770"
-}, {
-  "bulan": "2",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "193",
-  "Revenue": "3417"
-}, {
-  "bulan": "3",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "231",
-  "Revenue": "4049"
-}, {
-  "bulan": "4",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "214",
-  "Revenue": "3789"
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "189",
+  "Revenue": "2564"
 }, {
   "bulan": "5",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "226",
-  "Revenue": "3954"
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "188",
+  "Revenue": "3431"
 }, {
   "bulan": "6",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "194",
-  "Revenue": "3378"
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "188",
+  "Revenue": "3505"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "188",
+  "Revenue": "2515"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "187",
+  "Revenue": "2324"
 }, {
   "bulan": "7",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "219",
-  "Revenue": "3784"
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "187",
+  "Revenue": "3252"
 }, {
   "bulan": "8",
+  "category": "Chicken",
   "Name": "The Barbecue Chicken Pizza",
   "Sold": "187",
   "Revenue": "3300"
 }, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Hawaiian Pizza",
+  "Sold": "185",
+  "Revenue": "2443"
+}, {
+  "bulan": "7",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "185",
+  "Revenue": "2220"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "183",
+  "Revenue": "2293"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "182",
+  "Revenue": "3052"
+}, {
+  "bulan": "8",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "182",
+  "Revenue": "3273"
+}, {
+  "bulan": "7",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "178",
+  "Revenue": "3242"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "178",
+  "Revenue": "2897"
+}, {
   "bulan": "9",
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "177",
+  "Revenue": "3089"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "176",
+  "Revenue": "2112"
+}, {
+  "bulan": "4",
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "176",
+  "Revenue": "3092"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "176",
+  "Revenue": "3142"
+}, {
+  "bulan": "12",
+  "category": "Chicken",
   "Name": "The Barbecue Chicken Pizza",
-  "Sold": "192",
-  "Revenue": "3380"
+  "Sold": "176",
+  "Revenue": "3120"
+}, {
+  "bulan": "3",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "175",
+  "Revenue": "3155"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "174",
+  "Revenue": "3206"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "174",
+  "Revenue": "2088"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Classic Deluxe Pizza",
+  "Sold": "173",
+  "Revenue": "2705"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "172",
+  "Revenue": "3080"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "172",
+  "Revenue": "3051"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "171",
+  "Revenue": "2113"
+}, {
+  "bulan": "4",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "171",
+  "Revenue": "3096"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "171",
+  "Revenue": "2959"
+}, {
+  "bulan": "8",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "170",
+  "Revenue": "3020"
 }, {
   "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "169",
+  "Revenue": "2870"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "168",
+  "Revenue": "2678"
+}, {
+  "bulan": "10",
+  "category": "Chicken",
   "Name": "The Barbecue Chicken Pizza",
   "Sold": "168",
   "Revenue": "2946"
 }, {
   "bulan": "11",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "221",
-  "Revenue": "3882"
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "168",
+  "Revenue": "3022"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "167",
+  "Revenue": "2955"
+}, {
+  "bulan": "2",
+  "category": "Chicken",
+  "Name": "The Thai Chicken Pizza",
+  "Sold": "167",
+  "Revenue": "3009"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "167",
+  "Revenue": "2654"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "167",
+  "Revenue": "3003"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "166",
+  "Revenue": "3000"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "165",
+  "Revenue": "2811"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "165",
+  "Revenue": "2986"
+}, {
+  "bulan": "9",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "163",
+  "Revenue": "2950"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "162",
+  "Revenue": "2745"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Pepperoni Pizza",
+  "Sold": "162",
+  "Revenue": "2055"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "162",
+  "Revenue": "2770"
+}, {
+  "bulan": "10",
+  "category": "Chicken",
+  "Name": "The California Chicken Pizza",
+  "Sold": "162",
+  "Revenue": "2834"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "160",
+  "Revenue": "2560"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "160",
+  "Revenue": "2734"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "160",
+  "Revenue": "2548"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "160",
+  "Revenue": "1920"
 }, {
   "bulan": "12",
-  "Name": "The Barbecue Chicken Pizza",
-  "Sold": "176",
-  "Revenue": "3120"
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "160",
+  "Revenue": "2731"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "159",
+  "Revenue": "2672"
+}, {
+  "bulan": "10",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "159",
+  "Revenue": "2891"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "159",
+  "Revenue": "2572"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "157",
+  "Revenue": "2873"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "157",
+  "Revenue": "1884"
+}, {
+  "bulan": "2",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "155",
+  "Revenue": "2804"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "155",
+  "Revenue": "2443"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "155",
+  "Revenue": "2435"
+}, {
+  "bulan": "5",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "155",
+  "Revenue": "2860"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "155",
+  "Revenue": "2796"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "153",
+  "Revenue": "2762"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "153",
+  "Revenue": "2709"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "152",
+  "Revenue": "2665"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "152",
+  "Revenue": "2758"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "151",
+  "Revenue": "1812"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "151",
+  "Revenue": "2474"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "151",
+  "Revenue": "2707"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "151",
+  "Revenue": "1812"
+}, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "150",
+  "Revenue": "1800"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "150",
+  "Revenue": "3088"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "150",
+  "Revenue": "2434"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "149",
+  "Revenue": "2537"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "148",
+  "Revenue": "2516"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "148",
+  "Revenue": "2643"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "147",
+  "Revenue": "2482"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "146",
+  "Revenue": "2541"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "145",
+  "Revenue": "2331"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "144",
+  "Revenue": "2646"
+}, {
+  "bulan": "6",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "144",
+  "Revenue": "2584"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Sicilian Pizza",
+  "Sold": "144",
+  "Revenue": "2260"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "143",
+  "Revenue": "2290"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "143",
+  "Revenue": "2292"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "143",
+  "Revenue": "2298"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "143",
+  "Revenue": "2592"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "142",
+  "Revenue": "2555"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "142",
+  "Revenue": "1704"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "141",
+  "Revenue": "2283"
+}, {
+  "bulan": "12",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "141",
+  "Revenue": "2586"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "140",
+  "Revenue": "2319"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "139",
+  "Revenue": "1668"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Big Meat Pizza",
+  "Sold": "139",
+  "Revenue": "1668"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "139",
+  "Revenue": "2572"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Four Cheese Pizza",
+  "Sold": "139",
+  "Revenue": "2345"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "139",
+  "Revenue": "2278"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "139",
+  "Revenue": "2447"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "138",
+  "Revenue": "2553"
+}, {
+  "bulan": "1",
+  "category": "Chicken",
+  "Name": "The Southwest Chicken Pizza",
+  "Sold": "138",
+  "Revenue": "2496"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "138",
+  "Revenue": "2202"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "137",
+  "Revenue": "2146"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "137",
+  "Revenue": "2232"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Italian Supreme Pizza",
+  "Sold": "137",
+  "Revenue": "2489"
+}, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "136",
+  "Revenue": "2307"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "136",
+  "Revenue": "2333"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "134",
+  "Revenue": "2218"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "134",
+  "Revenue": "2095"
+}, {
+  "bulan": "7",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "133",
+  "Revenue": "2302"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "133",
+  "Revenue": "1792"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "133",
+  "Revenue": "2600"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "132",
+  "Revenue": "2358"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "132",
+  "Revenue": "2212"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "131",
+  "Revenue": "2342"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "131",
+  "Revenue": "2363"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "130",
+  "Revenue": "2389"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "130",
+  "Revenue": "2396"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Spicy Italian Pizza",
+  "Sold": "130",
+  "Revenue": "2373"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "130",
+  "Revenue": "2121"
+}, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "129",
+  "Revenue": "2539"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "129",
+  "Revenue": "2260"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "128",
+  "Revenue": "2227"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "127",
+  "Revenue": "2137"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "127",
+  "Revenue": "2267"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "127",
+  "Revenue": "1786"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "127",
+  "Revenue": "2248"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "127",
+  "Revenue": "2059"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "127",
+  "Revenue": "2238"
+}, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "126",
+  "Revenue": "2153"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "126",
+  "Revenue": "2047"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "125",
+  "Revenue": "2313"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "124",
+  "Revenue": "2294"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "124",
+  "Revenue": "2294"
+}, {
+  "bulan": "7",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "124",
+  "Revenue": "1689"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "124",
+  "Revenue": "2214"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "124",
+  "Revenue": "2234"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "124",
+  "Revenue": "2060"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "123",
+  "Revenue": "2006"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "123",
+  "Revenue": "2185"
+}, {
+  "bulan": "5",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "123",
+  "Revenue": "2488"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "123",
+  "Revenue": "1974"
+}, {
+  "bulan": "7",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "123",
+  "Revenue": "2024"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "122",
+  "Revenue": "2231"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "122",
+  "Revenue": "1923"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "122",
+  "Revenue": "1936"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "122",
+  "Revenue": "2122"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "121",
+  "Revenue": "2079"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "121",
+  "Revenue": "1956"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "121",
+  "Revenue": "1687"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "121",
+  "Revenue": "2066"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "120",
+  "Revenue": "1878"
+}, {
+  "bulan": "5",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "120",
+  "Revenue": "1659"
+}, {
+  "bulan": "7",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "120",
+  "Revenue": "2425"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "119",
+  "Revenue": "1930"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "119",
+  "Revenue": "1987"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "119",
+  "Revenue": "1925"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "118",
+  "Revenue": "2085"
+}, {
+  "bulan": "5",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "118",
+  "Revenue": "2019"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "117",
+  "Revenue": "1881"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "117",
+  "Revenue": "2085"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "116",
+  "Revenue": "1586"
+}, {
+  "bulan": "5",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "116",
+  "Revenue": "1847"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "116",
+  "Revenue": "1897"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "115",
+  "Revenue": "2056"
+}, {
+  "bulan": "6",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "115",
+  "Revenue": "2395"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "115",
+  "Revenue": "2128"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "115",
+  "Revenue": "1954"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "115",
+  "Revenue": "2031"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "114",
+  "Revenue": "1887"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "113",
+  "Revenue": "2091"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "113",
+  "Revenue": "1911"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "113",
+  "Revenue": "2091"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "113",
+  "Revenue": "1871"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "113",
+  "Revenue": "2091"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "113",
+  "Revenue": "2024"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "113",
+  "Revenue": "1848"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "112",
+  "Revenue": "1530"
+}, {
+  "bulan": "8",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "112",
+  "Revenue": "2244"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "111",
+  "Revenue": "1877"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "111",
+  "Revenue": "1756"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "111",
+  "Revenue": "1950"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "110",
+  "Revenue": "2190"
+}, {
+  "bulan": "4",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "110",
+  "Revenue": "1548"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "110",
+  "Revenue": "1981"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "110",
+  "Revenue": "2109"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Prosciutto and Arugula Pizza",
+  "Sold": "109",
+  "Revenue": "1789"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "109",
+  "Revenue": "1719"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "109",
+  "Revenue": "1894"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "109",
+  "Revenue": "1740"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "109",
+  "Revenue": "2017"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "108",
+  "Revenue": "1695"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "108",
+  "Revenue": "1862"
+}, {
+  "bulan": "3",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "108",
+  "Revenue": "1774"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "107",
+  "Revenue": "1916"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "107",
+  "Revenue": "1980"
+}, {
+  "bulan": "9",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "107",
+  "Revenue": "2134"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "106",
+  "Revenue": "2128"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Italian Capocollo Pizza",
+  "Sold": "106",
+  "Revenue": "1813"
+}, {
+  "bulan": "2",
+  "category": "Classic",
+  "Name": "The Greek Pizza",
+  "Sold": "105",
+  "Revenue": "2112"
+}, {
+  "bulan": "10",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "105",
+  "Revenue": "1474"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "104",
+  "Revenue": "1880"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Napolitana Pizza",
+  "Sold": "103",
+  "Revenue": "1667"
+}, {
+  "bulan": "1",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "102",
+  "Revenue": "1435"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Pepper Salami Pizza",
+  "Sold": "102",
+  "Revenue": "1816"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Mexicana Pizza",
+  "Sold": "102",
+  "Revenue": "1807"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "101",
+  "Revenue": "1427"
+}, {
+  "bulan": "12",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "101",
+  "Revenue": "1415"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "100",
+  "Revenue": "1654"
+}, {
+  "bulan": "3",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "100",
+  "Revenue": "1779"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Vegetables + Vegetables Pizza",
+  "Sold": "97",
+  "Revenue": "1585"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "95",
+  "Revenue": "1481"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "94",
+  "Revenue": "1639"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "94",
+  "Revenue": "1551"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "94",
+  "Revenue": "1596"
+}, {
+  "bulan": "11",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "93",
+  "Revenue": "1626"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "92",
+  "Revenue": "1514"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "92",
+  "Revenue": "1500"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "91",
+  "Revenue": "1258"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "91",
+  "Revenue": "1254"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "90",
+  "Revenue": "1527"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "90",
+  "Revenue": "1486"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "90",
+  "Revenue": "1489"
+}, {
+  "bulan": "4",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "89",
+  "Revenue": "1551"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Five Cheese Pizza",
+  "Sold": "89",
+  "Revenue": "1647"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "88",
+  "Revenue": "1227"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "88",
+  "Revenue": "1263"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "88",
+  "Revenue": "1409"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Spinach and Feta Pizza",
+  "Sold": "88",
+  "Revenue": "1435"
+}, {
+  "bulan": "11",
+  "category": "Classic",
+  "Name": "The Pepperoni, Mushroom, and Peppers Pizza",
+  "Sold": "88",
+  "Revenue": "1235"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "87",
+  "Revenue": "1357"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "87",
+  "Revenue": "1397"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "87",
+  "Revenue": "1397"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "87",
+  "Revenue": "1405"
+}, {
+  "bulan": "5",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "87",
+  "Revenue": "1425"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "87",
+  "Revenue": "1505"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "87",
+  "Revenue": "1231"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "87",
+  "Revenue": "1453"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "87",
+  "Revenue": "1432"
+}, {
+  "bulan": "1",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "86",
+  "Revenue": "1457"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "86",
+  "Revenue": "1462"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "86",
+  "Revenue": "1377"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "85",
+  "Revenue": "1443"
+}, {
+  "bulan": "5",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "85",
+  "Revenue": "1440"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "85",
+  "Revenue": "1381"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "85",
+  "Revenue": "1527"
+}, {
+  "bulan": "7",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "85",
+  "Revenue": "1428"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "85",
+  "Revenue": "1476"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "85",
+  "Revenue": "1182"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "85",
+  "Revenue": "1364"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "85",
+  "Revenue": "1383"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "84",
+  "Revenue": "1393"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "84",
+  "Revenue": "1357"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "84",
+  "Revenue": "1283"
+}, {
+  "bulan": "9",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "84",
+  "Revenue": "1483"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "83",
+  "Revenue": "1381"
+}, {
+  "bulan": "6",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "83",
+  "Revenue": "1410"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "83",
+  "Revenue": "1373"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "83",
+  "Revenue": "1429"
+}, {
+  "bulan": "8",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "83",
+  "Revenue": "1402"
+}, {
+  "bulan": "2",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "82",
+  "Revenue": "1434"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "82",
+  "Revenue": "1146"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "82",
+  "Revenue": "1338"
+}, {
+  "bulan": "11",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "82",
+  "Revenue": "1402"
+}, {
+  "bulan": "12",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "82",
+  "Revenue": "1374"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "81",
+  "Revenue": "1298"
+}, {
+  "bulan": "3",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "81",
+  "Revenue": "1341"
+}, {
+  "bulan": "8",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "81",
+  "Revenue": "1381"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "81",
+  "Revenue": "1150"
+}, {
+  "bulan": "9",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "81",
+  "Revenue": "1401"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "81",
+  "Revenue": "1372"
+}, {
+  "bulan": "10",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "80",
+  "Revenue": "1364"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "79",
+  "Revenue": "1324"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "79",
+  "Revenue": "1246"
+}, {
+  "bulan": "5",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "79",
+  "Revenue": "1379"
+}, {
+  "bulan": "6",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "79",
+  "Revenue": "1339"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "79",
+  "Revenue": "1335"
+}, {
+  "bulan": "3",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "78",
+  "Revenue": "1301"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "78",
+  "Revenue": "1335"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "78",
+  "Revenue": "1262"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "78",
+  "Revenue": "1296"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "77",
+  "Revenue": "1269"
+}, {
+  "bulan": "1",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "77",
+  "Revenue": "1338"
+}, {
+  "bulan": "8",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "77",
+  "Revenue": "1277"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "76",
+  "Revenue": "1289"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "76",
+  "Revenue": "1268"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "75",
+  "Revenue": "1066"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "75",
+  "Revenue": "1211"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "75",
+  "Revenue": "1215"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "75",
+  "Revenue": "1169"
+}, {
+  "bulan": "12",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "75",
+  "Revenue": "1272"
+}, {
+  "bulan": "2",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "74",
+  "Revenue": "1268"
+}, {
+  "bulan": "4",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "74",
+  "Revenue": "1260"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "74",
+  "Revenue": "1137"
+}, {
+  "bulan": "7",
+  "category": "Chicken",
+  "Name": "The Chicken Alfredo Pizza",
+  "Sold": "73",
+  "Revenue": "1223"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "73",
+  "Revenue": "1262"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "73",
+  "Revenue": "1173"
+}, {
+  "bulan": "6",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "72",
+  "Revenue": "1185"
+}, {
+  "bulan": "7",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "72",
+  "Revenue": "1202"
+}, {
+  "bulan": "9",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "72",
+  "Revenue": "1169"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "72",
+  "Revenue": "1207"
+}, {
+  "bulan": "10",
+  "category": "Chicken",
+  "Name": "The Chicken Pesto Pizza",
+  "Sold": "72",
+  "Revenue": "1254"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Italian Vegetables Pizza",
+  "Sold": "72",
+  "Revenue": "1170"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "72",
+  "Revenue": "1244"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "71",
+  "Revenue": "1153"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Spinach Supreme Pizza",
+  "Sold": "71",
+  "Revenue": "1116"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "71",
+  "Revenue": "1158"
+}, {
+  "bulan": "1",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "68",
+  "Revenue": "1148"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "67",
+  "Revenue": "1157"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "66",
+  "Revenue": "1105"
+}, {
+  "bulan": "2",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "65",
+  "Revenue": "1084"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "65",
+  "Revenue": "1108"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Soppressata Pizza",
+  "Sold": "65",
+  "Revenue": "1107"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Mediterranean Pizza",
+  "Sold": "65",
+  "Revenue": "1074"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Calabrese Pizza",
+  "Sold": "65",
+  "Revenue": "1144"
+}, {
+  "bulan": "12",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "65",
+  "Revenue": "918"
+}, {
+  "bulan": "11",
+  "category": "Veggie",
+  "Name": "The Green Garden Pizza",
+  "Sold": "63",
+  "Revenue": "837"
+}, {
+  "bulan": "4",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "60",
+  "Revenue": "913"
+}, {
+  "bulan": "10",
+  "category": "Veggie",
+  "Name": "The Spinach Pesto Pizza",
+  "Sold": "60",
+  "Revenue": "954"
+}, {
+  "bulan": "9",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "49",
+  "Revenue": "1159"
+}, {
+  "bulan": "3",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "46",
+  "Revenue": "1088"
+}, {
+  "bulan": "5",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "46",
+  "Revenue": "1088"
+}, {
+  "bulan": "2",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "44",
+  "Revenue": "1041"
+}, {
+  "bulan": "7",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "44",
+  "Revenue": "1041"
+}, {
+  "bulan": "8",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "43",
+  "Revenue": "1017"
+}, {
+  "bulan": "11",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "42",
+  "Revenue": "993"
+}, {
+  "bulan": "6",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "40",
+  "Revenue": "946"
+}, {
+  "bulan": "1",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "35",
+  "Revenue": "828"
+}, {
+  "bulan": "12",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "35",
+  "Revenue": "828"
+}, {
+  "bulan": "10",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "34",
+  "Revenue": "804"
+}, {
+  "bulan": "4",
+  "category": "Supreme",
+  "Name": "The Brie Carre Pizza",
+  "Sold": "32",
+  "Revenue": "757"
 }]

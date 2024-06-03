@@ -1,37 +1,37 @@
 [{
-  "Bulan": "1",
+  "bulan": "1",
   "Pendapatan": "69793"
 }, {
-  "Bulan": "2",
+  "bulan": "2",
   "Pendapatan": "65160"
 }, {
-  "Bulan": "3",
+  "bulan": "3",
   "Pendapatan": "70397"
 }, {
-  "Bulan": "4",
+  "bulan": "4",
   "Pendapatan": "68737"
 }, {
-  "Bulan": "5",
+  "bulan": "5",
   "Pendapatan": "71403"
 }, {
-  "Bulan": "6",
+  "bulan": "6",
   "Pendapatan": "68230"
 }, {
-  "Bulan": "7",
+  "bulan": "7",
   "Pendapatan": "72558"
 }, {
-  "Bulan": "8",
+  "bulan": "8",
   "Pendapatan": "68278"
 }, {
-  "Bulan": "9",
+  "bulan": "9",
   "Pendapatan": "64180"
 }, {
-  "Bulan": "10",
+  "bulan": "10",
   "Pendapatan": "64028"
 }, {
-  "Bulan": "11",
+  "bulan": "11",
   "Pendapatan": "70395"
 }, {
-  "Bulan": "12",
+  "bulan": "12",
   "Pendapatan": "64701"
 }]
