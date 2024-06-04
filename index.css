@@ -89,31 +89,66 @@ body{
     height: 15%;
     background: none;
     margin-left: 80%;
-    margin-top: 33%;
+    margin-top: 38%;
 }
 
 .button-1{
     background: none;
     margin-left: 80%;
-    margin-top: 30%;
+    margin-top: 35%;
 }
 
 .button-2{
     background: none;
     margin-left: 80%;
-    margin-top: 30%;
+    margin-top: 35%;
 }
 
 .button-3{
     background: none;
     margin-left: 80%;
-    margin-top: 10%;
+    margin-top: 15%;
 }
 
 .button-4{
     background: none;
     margin-left: 80%;
-    margin-top: 10%;
+    margin-top: 15%;
+}
+
+.button:hover,
+.button:focus{
+    color: grey;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-1:hover,
+.button-1:focus{
+    color: grey;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-2:hover,
+.button-2:focus{
+    color: grey;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-3:hover,
+.button-3:focus{
+    color: grey;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-4:hover,
+.button-4:focus{
+    color: grey;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .popup-modal {
@@ -294,7 +329,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 30%;
-    height: 123vh;
+    height: 119vh;
     margin: 20px;
     padding: 40px;
     border-radius: 10px;
