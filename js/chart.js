@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', function () {
             data: {
                 labels: data.map(row => row.bulan),
                 datasets: [{
-                    label: 'Pendapatan',
+                    label: 'Revenue',
                     data: data.map(row => row.Pendapatan),
                     backgroundColor: '#c9770c',
                 }]

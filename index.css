@@ -474,7 +474,7 @@ body{
 
 .modal-content-3 ul li{
   margin: 0 10px;
-  width: 50%;
+  /* width: 50%; */
   border-radius: 10px;
 }
 
