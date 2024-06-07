@@ -9,6 +9,7 @@
     font-family: 'Lato', sans-serif;
 }
 
+
 body {
     display: flex;
 }
@@ -23,6 +24,7 @@ body {
 .sidebar-kiri.buka {
     display: none;
 }
+
 
 .sidebar-kiri {
     position: sticky;

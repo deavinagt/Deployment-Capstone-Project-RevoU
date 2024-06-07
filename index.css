@@ -1,412 +1,372 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 *{
-    margin: 0;
-    padding: 0;
-    border: none;
-    outline: none;
-    box-sizing: border-box;
-    font-family: "Lato", sans-serif;
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+body{
+  background-color: #E8E8E8;
 }
 
 .content{
-    display: flex;
-    width: 100%;
+  display: flex;
+  width: 100%;
 }
 
 .isi-home{
-    display: flex;
-    flex-direction: column;
-    color: black;
-    margin: 0px;
-    padding: 5px;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  margin: 0px;
+  padding: 5px;
 }
 
 .isi-main-content{
-    display: flex;
+  display: flex;
 }
 
 .main-content{
-    width: 70%;
-    margin-left: 0px;
-    display: flex;
+  width: 100%;
+  margin-left: 0px;
+  display: flex;
 }
 
-
-
 .main-content-1{
-    width: 50%;
+  width: 50%;
 }
 
 .main-content-2{
-    width: 50%;
+  width: 50%;
 }
 
 .main-content ul{
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 .main-content ul li{
-    list-style: none;
-    display: flex;
-    transition: transform 0.5s ease;
-    padding: 0px 10px 0px 10px;
-    border-radius: 20px;
-    align-items: center;
+  list-style: none;
+  display: flex;
+  transition: transform 0.5s ease;
+  padding: 0px 10px 0px 10px;
+  border-radius: 20px;
+  align-items: center;
 }
 
 .main-content ul li:hover{
-    transform: scale(1.1) translate(10px);
-    width: auto;
-    height: auto;
+  transform: scale(1.1) translate(10px);
+  width: auto;
+  height: auto;
 }
 
 .business-problem{
-    background-color: #D77E19;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 300;
-    margin: 20px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 38vh;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  background-color: #D77E19;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 45vh;
+  box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
 .business-problem h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+  margin: 10px;
+  margin-bottom: 20px;
+  align-items: center;
 }
 
 .button{
-    width: 15%;
-    height: 15%;
-    background: none;
-    margin-left: 80%;
-    margin-top: 38%;
+  width: 15%;
+  height: 15%;
+  background: none;
+  margin-left: 80%;
+  margin-top: 33%;
+  font-size: 20px;
 }
 
 .button-1{
-    background: none;
-    margin-left: 80%;
-    margin-top: 35%;
+  background: none;
+  margin-left: 80%;
+  margin-top: 29%;
+  font-size: 20px;
 }
 
 .button-2{
-    background: none;
-    margin-left: 80%;
-    margin-top: 35%;
+  background: none;
+  margin-left: 80%;
+  margin-top: 30%;
+  font-size: 20px;
 }
 
 .button-3{
-    background: none;
-    margin-left: 80%;
-    margin-top: 15%;
+  background: none;
+  margin-left: 80%;
+  margin-top: 10%;
+  font-size: 20px;
 }
 
 .button-4{
-    background: none;
-    margin-left: 80%;
-    margin-top: 15%;
+  background: none;
+  margin-left: 80%;
+  margin-top: 17%;
+  font-size: 20px;
 }
 
 .button:hover,
 .button:focus{
-    color: grey;
-    text-decoration: none;
-    cursor: pointer;
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .button-1:hover,
 .button-1:focus{
-    color: grey;
-    text-decoration: none;
-    cursor: pointer;
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .button-2:hover,
 .button-2:focus{
-    color: grey;
-    text-decoration: none;
-    cursor: pointer;
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .button-3:hover,
 .button-3:focus{
-    color: grey;
-    text-decoration: none;
-    cursor: pointer;
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .button-4:hover,
 .button-4:focus{
-    color: grey;
-    text-decoration: none;
-    cursor: pointer;
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .popup-modal {
-    display: none;
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background-color: rgba(0,0,0,0.4);
-    z-index: 999;
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.4);
+  z-index: 999;
 }
 
 .modal{
-    position: fixed; 
-    z-index: 9999; 
-    padding-top: 100px; 
-    left: 0;
-    top: 0;
-    width: 100%; 
-    height: 100%; 
-    background-color: rgba(0,0,0,0.4); 
+  position: fixed; 
+  z-index: 9999; 
+  padding-top: 100px; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  background-color: rgba(0,0,0,0.4); 
 }
 
 /* Modal Content */
 .modal-content{
-    background-color: #fefefe;
-    margin: auto;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
-    font-size: 20px;
-    font-weight: 600;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 .modal-content img{
-    height: 30%;
-    width: 50%;
-    padding-top: 15px;
-    gap: 20px;
+  height: 30%;
+  width: 50%;
+  padding-top: 15px;
+  gap: 20px;
 }
   
-/* The Close Button */
 .close{
-    color: #aaaaaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
 }
   
 .close:hover,
 .close:focus{
-    color: #000;
-    text-decoration: none;
-    cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .problem-statement{
-    background-color: #F5BA5E;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 300;
-    margin: 20px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 35vh;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  background-color: #F5BA5E;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 40vh;
+  box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
 .problem-statement h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+  margin: 10px;
+  margin-bottom: 20px;
+  align-items: center;
 }
 
 .scope{
-    background-color: #E3A36F;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 300;
-    margin: 20px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 35vh;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  background-color: #E3A36F;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 40vh;
+  box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
 .scope h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+  margin: 10px;
+  margin-bottom: 20px;
+  align-items: center;
 }
 
 .whys{
-    background-color: #D77E19;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 300;
-    margin: 20px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 25vh;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  background-color: #D77E19;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 25vh;
+  box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
 .whys h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+  margin: 10px;
+  margin-bottom: 20px;
+  align-items: center;
 }
 
 .metric{
-    background-color: #F5BA5E;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 300;
-    margin: 20px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 25vh;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  background-color: #F5BA5E;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 30vh;
+  box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
 .metric h1{
-    margin: 10px;
-    margin-bottom: 20px;
-    align-items: center;
+  margin: 10px;
+  margin-bottom: 20px;
+  align-items: center;
 }
 
 .image{
-    background-color: #E3A36F;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: 300;
-    display: flex;
-    flex-direction: column;
-    width: 92%;
-    margin-left: 20px;
-    margin-top: 20px;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  background-color: #E3A36F;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  width: 92%;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
 }
 
 .image img{
-    border-radius: 20px;
-    height: 58vh;
+  border-radius: 20px;
+  height: 70vh;
 }
 
 .image ul li{
-    list-style: none;
+  list-style: none;
 }
 
 .image ul li img{
-    width: 69vh;
-    height: 30vh;
-    border-radius: 20px;
+  width: 69vh;
+  height: 30vh;
+  border-radius: 20px;
 }
 
-.sidebar-kanan{
-    background-color: #FFFFFF;
-    display: flexz;
-    flex-direction: column;
-    width: 30%;
-    height: 119vh;
-    margin: 20px;
-    padding: 40px;
-    border-radius: 10px;
-    color: black;
-    align-items: center;
-    right: 20px;
-    box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -webkit-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-    -moz-box-shadow: -1px 1px 10px 0px rgba(0,0,0,0.51);
-}
-
-.sidebar-kanan-judul {
-    padding-bottom: 20px;
-    font-size: 15px;
-    font-weight: 500;
-}
-
-.sidebar-kanan ul li{
-    list-style: none;
-    display: flex;
-    margin: 5px 10px 5px 10px;
-    transition: transform 0.5s ease;
-    padding: 0px 10px 0px 10px;
-    border-radius: 20px;
-    align-items: center;
-    font-size: 13px;
-    font-weight: 400;
-}
-
-.sidebar-kanan ul li:hover{
-    background-color: #F5BA5E;
-    transform: scale(1.1) translate(30px);
-    width: auto;
-    height: auto;
-}
-
-.sidebar-kanan ul li img{
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-}
-
-.kartu-nama{
-    margin: 0 20px 0 20px;
+.content{
+  width: 100%;
+  margin-left: 0px;
+  display: flex;
 }
 
 .modal-content-1{
-    background: #D77E19;
-    max-width: 90%;
-    margin: 0 auto;
-    padding: 15px;
-    border-radius: 20px;
+  background: #D77E19;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 20px;
 }
 
 .modal-content-1 h1{
-    font-size: 25px;
-    font-weight: 600;
-    margin-bottom: 20px;
-    text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 .modal-content-1 img{
-    max-width: 100%;
-    max-height: 100%;
-    border-radius: 10px;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 10px;
 }
 
 .modal-content-1 ul{
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
 }
 
 .modal-content-1 ul li{
-    margin: 0 10px;
-    width: 50%;
-    border-radius: 10px;
+  margin: 0 10px;
+  width: 50%;
+  border-radius: 10px;
 }
 
 .modal-content-2{
@@ -460,7 +420,7 @@
 
 .modal-content-3 img{
   max-width: 100%;
-  max-height: 100%;
+  height: 300px;
   border-radius: 10px;
 }
 
@@ -477,19 +437,24 @@
   border-radius: 10px;
 }
 
-  @media screen and (max-width: 450px) {
+  @media (max-width: 450px) {
     body {
       font-size: 10px;
     }
+
     .isi-home {
       flex-direction: column;
     }
-    
+
     .isi-main-content {
       flex-direction: column;
     }
 
     .main-content {
+      width: 100%;
+    }
+
+    .main-content-1{
       width: 100%;
     }
     
@@ -502,59 +467,13 @@
       transform: none;
     }
 
-    .sidebar-kiri {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 70%;
-      height: 80px;
-      background-color: #FFFFFF;
-      padding: 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      z-index: 999;
-      transition: width 0.3s ease-out;
-    }
-
-    .sidebar-kiri.collapsed {
-      width: 80px;
-    }
-    
-    .sidebar-kiri.collapsed ul {
-      display: none;
-    }
-    
-    .sidebar-kiri.collapsed ul.show {
-      display: flex;
-    }
-
-    .sidebar-kiri ul {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .sidebar-kiri ul li {
-      margin: 0 10px;
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-    }
-
-    .sidebar-kiri ul li img {
-      width: 30px;
-      height: 30px;
-      border-radius: 50%;
-    }
-
     .business-problem {
       width: 100%;
       height: 100%;
       font-size: 7px;
       font-weight: 300;
       margin-bottom: 0;
+      margin-left: 0;
     }
 
     .problem-statement{
@@ -563,6 +482,7 @@
       font-size: 7px;
       font-weight: 300;
       margin-bottom: 0;
+      margin-left: 0;
     }
 
     .scope{
@@ -570,6 +490,7 @@
       height: 80%;
       font-size: 7px;
       font-weight: 300;
+      margin-left: 0;
     }
 
     .whys{
@@ -578,6 +499,7 @@
       font-size: 7px;
       font-weight: 300;
       margin-bottom: 0;
+      margin-left: 0;
     }
 
     .metric{
@@ -586,36 +508,38 @@
       font-size: 7px;
       font-weight: 300;
       margin-bottom: 0;
+      margin-left: 0;
     }
 
     .image{
       width: 100%;
       height: 100%;
       margin-bottom: 0;
+      margin-left: 0;
     }
 
     .image img{
-      height: 230px;
+      height: 200px;
     }
 
     .button{
-      font-size: 8px;
+      font-size: 7px;
     }
 
     .button-1{
-      font-size: 8px;
+      font-size: 7px;
     }
 
     .button-2{
-      font-size: 8px;
+      font-size: 7px;
     }
 
     .button-3{
-      font-size: 8px;
+      font-size: 7px;
     }
 
     .button-4{
-      font-size: 8px;
+      font-size: 7px;
     }
 
     .sidebar-kanan {
@@ -630,6 +554,7 @@
   }
 
   @media screen and (min-width: 451px) and (max-width: 1024px) {
+    
     .isi-home {
       flex-direction: row;
     }
@@ -638,8 +563,13 @@
       flex-direction: row;
     }
 
+    .team-content{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
     .main-content {
-      width: 5100%;
+      width: 100%;
     }
 
     .main-content ul li {
@@ -654,73 +584,43 @@
     }
 
     .business-problem {
-      width: 100%;
+      width: 500px;
       height: 100%;
-      font-size: 8px;
-      font-weight: 300;
       margin-bottom: 0;
     }
 
     .problem-statement {
       width: 100%;
       height: 100%;
-      font-size: 8px;
-      font-weight: 300;
       margin-bottom: 0;
     }
 
     .scope {
       width: 100%;
       height: 100%;
-      font-size: 8px;
-      font-weight: 300;
     }
 
     .whys {
       width: 100%;
       height: 100%;
-      font-size: 8px;
-      font-weight: 300;
       margin-bottom: 0;
     }
 
     .metric {
       width: 100%;
       height: 100%;
-      font-size: 8px;
-      font-weight: 300;
       margin-bottom: 0;
     }
 
     .image {
-      width: 85%;
+      width: 90%;
       height: 100%;
       margin-bottom: 0;
     }
     
     .image img {
       width: 100%;
-      height: 245px;
-    }
-
-    .button {
-      font-size: 8px;
-    }
-
-    .button-1 {
-      font-size: 8px;
-    }
-
-    .button-2 {
-      font-size: 8px;
-    }
-
-    .button-3 {
-      font-size: 8px;
-    }
-
-    .button-4 {
-      font-size: 8px;
+      height: 330px;
     }
 
     .sidebar-kanan {
