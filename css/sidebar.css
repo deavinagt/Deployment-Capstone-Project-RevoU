@@ -9,10 +9,6 @@
     font-family: 'Lato', sans-serif;
 }
 
-body {
-    display: flex;
-}
-
 .sidebar-kiri {
     position: sticky;
     top: 0;
@@ -20,7 +16,7 @@ body {
     bottom: 0;
     width: 110px;
     height: 100vh;
-    padding: 0 1.7rem;
+    padding: 0 1.5rem;
     color: #fff;
     overflow: hidden;
     transition: all 0.5s linear;
@@ -32,16 +28,18 @@ body {
     transition: 0.5s;
 }
 
-.logo {
+/* .logo {
     height: 80px;
     padding: 16px;
-}
+} */
+
 .menu {
     height: 88%;
     list-style: none;
     position: relative;
     padding: 0;
-    top: 80px;
+    top: 150px;
+    font-size: 30px;
 }
 
 .menu li {
@@ -71,7 +69,7 @@ body {
 }
 
 .menu a i {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: #f5ba5e;
 }
 
@@ -111,7 +109,7 @@ body {
 
 .header--title {
     color: #0a0908;
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 600;
 }
 
