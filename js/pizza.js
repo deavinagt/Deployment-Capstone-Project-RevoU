@@ -225,14 +225,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
         const filteredData = filterData(keyword);
         
-        // Clear previous items
+        
         cardPizza.innerHTML = "";
 
-        // Calculate start and end indexes for the current page
         const startIndex = (pageNumber - 1) * itemsPerPage;
         const endIndex = startIndex + itemsPerPage;
 
-        // Display items for the current page
         filteredData.slice(startIndex, endIndex).forEach((item, index) => {
 
             let className;
@@ -273,7 +271,6 @@ document.addEventListener("DOMContentLoaded", function() {
             itemContent.appendChild(pizzaPrice);
 
 
-            // Add click event listener to show pop-up
             cardContent.addEventListener('click', () => {
 
                 preview.innerHTML="";
@@ -309,32 +306,30 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     function handleSearch(){
-        const keyword = searchInput.value.trim(); // Get search keyword
-        currentPage = 1; // reset current page to 1
+        const keyword = searchInput.value.trim();
+        currentPage = 1;
 
         if(keyword === ''){
             displayItems(currentPage);
             const totalPages = Math.ceil(data.length / itemsPerPage);
             generatePaginationButtons(totalPages);
         } else {
-            displayFilteredItems(currentPage, keyword); // display filtered items
+            displayFilteredItems(currentPage, keyword);
             const totalPages = Math.ceil(filterData(keyword).length / itemsPerPage);
-            generatePaginationButtons(totalPages); // Generate pagination buttons for filtered data
+            generatePaginationButtons(totalPages);
         }
     }
 
-    // Add event listener for search input
     searchInput.addEventListener('keyup', handleSearch);
 
 
-    // Fetch data
+
     fetch('../json/pizza.json')
     .then(response => response.json())
     .then((jsonData) => {
-        data = jsonData; // Store fetched data
-        const totalPages = Math.ceil(data.length / itemsPerPage); // Calculate total pages
+        data = jsonData; 
+        const totalPages = Math.ceil(data.length / itemsPerPage); 
 
-        // Initial display
         displayItems(currentPage);
         generatePaginationButtons(totalPages);
         updatePagination();

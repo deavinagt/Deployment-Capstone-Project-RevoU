@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function updateChart() {
         let filejson;
         if (selectedMonth !== 'All' && selectedCategory !== 'All-category' && selectedSize !== 'All-size') {
-            // Jika ketiga filter bulan, kategori, dan ukuran (size) dipilih bersama-sama
+            
             filejson = '../json/sold_category_bulan_size.json';
         } else if (selectedMonth !== 'All' && selectedSize !== 'All-size') {
             // Jika hanya bulan dan ukuran (size) yang difilter bersama-sama

@@ -8,7 +8,9 @@
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
 }
-
+.content{
+  display: flex;
+}
 .aboutus-content{
     /* background-color: #fff;  */
     /* background-color: #EBD9B4; */
@@ -278,6 +280,11 @@ img{
 @media (max-width: 450px) {
   .aboutus-content {
     background-color: #EBD9B4;
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
   }
 
   .box{

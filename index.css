@@ -9,12 +9,9 @@
     font-family: "Lato", sans-serif;
 }
 
-body{
-    background-color: #E8E8E8;
-}
-
 .content{
     display: flex;
+    width: 100%;
 }
 
 .isi-home{
@@ -34,6 +31,8 @@ body{
     margin-left: 0px;
     display: flex;
 }
+
+
 
 .main-content-1{
     width: 50%;
@@ -447,11 +446,10 @@ body{
     body {
       font-size: 10px;
     }
-
     .isi-home {
       flex-direction: column;
     }
-
+    
     .isi-main-content {
       flex-direction: column;
     }
@@ -596,7 +594,7 @@ body{
     }
   }
 
-  @media screen and (min-width: 768px) and (max-width: 1024px) {
+  @media screen and (min-width: 451px) and (max-width: 1024px) {
     .isi-home {
       flex-direction: row;
     }

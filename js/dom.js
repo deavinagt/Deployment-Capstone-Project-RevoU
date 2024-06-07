@@ -43,3 +43,7 @@ for (let i = 0; i < closeElements.length; i++) {
   };
 }
 
+function toggleSidebar() {
+  let sidebar = document.getElementById('sidebar');
+  sidebar.classList.toggle('buka');
+}

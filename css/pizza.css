@@ -1,7 +1,7 @@
-/* .content{
+.content{
     display: flex;
-    flex-direction: column;
-} */
+    width: 100%;
+}
 
 .card img {
     width: 125px;
@@ -403,7 +403,7 @@
     }
 }
 
-@media screen and ((min-width: 768px) and (max-width: 1024px)) {
+@media screen and (min-width: 451px) and (max-width: 1024px) {
     .card img {
         width: 100px;
         height: 100px;
