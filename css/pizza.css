@@ -1,7 +1,6 @@
-/* .content{
+.content{
     display: flex;
-    flex-direction: column;
-} */
+}
 
 .card img {
     width: 125px;
@@ -17,7 +16,6 @@
     place-content: stretch;
     place-items: stretch;
     cursor: pointer;
-    /* width: 1400px; */
 }
 
 .main-content-pizza {
@@ -42,7 +40,6 @@
     background-color: #d77e19;
     border-radius: 10px;
     padding: 10px;
-    /* width: 30%; */
     margin-top: 10px;
 }
 
@@ -53,7 +50,6 @@
     background-color: #f5ba5e;
     border-radius: 10px;
     padding: 10px;
-    /* width: 30%; */
     margin-top: 10px;
 }
 
@@ -64,7 +60,6 @@
     background-color: #e3a36f;
     border-radius: 10px;
     padding: 10px;
-    /* width: 30%; */
     margin-top: 10px;
 }
 
@@ -111,13 +106,6 @@
     background-color: #e3a36f;
 }
 
-/* .pagination li a{
-    color: #F5BA5E;
-    text-decoration: none;
-    font-size: 1.2em;
-    line-height: 45px;
-} */
-
 .prev-button,
 .next-button {
     background: #f5ba5e;
@@ -137,17 +125,9 @@
     transform: translateX(5px);
 }
 
-/* tambahkan class untuk mengubah warna tombol pada halaman pertama */
 .first-last-page {
-    background-color: #d77e19; /* warna biru untuk tombol next pada halaman pertama */
+    background-color: #d77e19; 
 }
-
-/* .current-page, .dots{
-    background: #FFFFFF;
-    width: 45px;
-    border-radius: 50%;
-    cursor: pointer;
-} */
 
 .actives {
     background: #d77e19;
@@ -209,11 +189,11 @@
     align-items: center;
 }
 
-/* .popup-pizza .active{
-    display: inline-block; 
-}  */
+.no-results{
+    color: #d77e19;
+}
 
-@media screen and (max-width: 450px) {
+@media screen  and (max-width: 450px) {
     body {
         flex-direction: column;
     }
@@ -222,7 +202,6 @@
         padding: 5px;
         height: 5px;
     }
-
 
     .main--content {
         margin-top: 0;
@@ -236,7 +215,6 @@
         background: none;
         border-radius: 10px;
         padding: 10px 20px;
-        /* font-size: 25; */
         margin-bottom: 1rem;
     }
 
@@ -285,8 +263,7 @@
     }
 
     .main-content-pizza {
-        /* align-items: flex-start; */
-        /* place-items: center; */
+        place-items: stretch;
         margin-left: 5px;
         margin-right: 5px;
         padding: 10px;
@@ -294,14 +271,10 @@
 
     .card {
         display: grid;
-        /* flex-direction: column; */
-        justify-content: center;
-        /* flex-wrap: wrap; */
+        justify-content: stretch;
         gap: 10px;
         cursor: pointer;
         grid-template-columns: 1fr;
-        /* margin-left: 5px; */
-        /* width: 240px; */
     }
 
     .card-pizza-1 {
@@ -311,7 +284,6 @@
         background-color: #d77e19;
         border-radius: 10px;
         padding: 10px;
-        /* width: 92%; */
         margin-top: 10px;
     }
 
@@ -322,7 +294,6 @@
         background-color: #f5ba5e;
         border-radius: 10px;
         padding: 10px;
-        /* width: 92%; */
         margin-top: 10px;
     }
 
@@ -333,7 +304,6 @@
         background-color: #e3a36f;
         border-radius: 10px;
         padding: 10px;
-        /* width: 92%; */
         margin-top: 10px;
     }
 
@@ -349,16 +319,16 @@
 
     .group-pagination {
         display: flex;
-        align-items: center;
+        align-items: baseline;
         margin: 10px;
         padding: 0;
         position: relative;
+        justify-content: center;
     }
 
     .pagination {
         display: grid;
-        grid-template-columns: repeat(4, 30px);
-        /* flex-direction: row; */
+        grid-template-columns: repeat(5, 30px);
         text-align: center;
         margin: 10px 10px 20px;
         user-select: none;
@@ -391,7 +361,7 @@
     }
 
     .first-last-page {
-        background-color: #d77e19; /* warna biru untuk tombol next pada halaman pertama */
+        background-color: #d77e19; 
     }
 
     .actives {
@@ -403,7 +373,7 @@
     }
 }
 
-@media screen and ((min-width: 768px) and (max-width: 1024px)) {
+@media screen and ((min-width: 451px) and (max-width: 1024px)) {
     .card img {
         width: 100px;
         height: 100px;
@@ -427,7 +397,6 @@
         background-color: #d77e19;
         border-radius: 10px;
         padding: 10px;
-        /* width: 45%; */
         margin-top: 10px;
     }
 
@@ -438,7 +407,6 @@
         background-color: #f5ba5e;
         border-radius: 10px;
         padding: 10px;
-        /* width: 45%; */
         margin-top: 10px;
     }
 
@@ -449,7 +417,6 @@
         background-color: #e3a36f;
         border-radius: 10px;
         padding: 10px;
-        /* width: 45%; */
         margin-top: 10px;
     }
 
@@ -511,7 +478,7 @@
     }
 
     .first-last-page {
-        background-color: #d77e19; /* warna biru untuk tombol next pada halaman pertama */
+        background-color: #d77e19;
     }
 
     .disable {
