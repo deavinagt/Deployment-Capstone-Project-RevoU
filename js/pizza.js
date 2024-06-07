@@ -108,58 +108,24 @@ document.addEventListener("DOMContentLoaded", function() {
     function generatePaginationButtons(totalPages) {
         paginationContainer.innerHTML = "";
 
+        // Calculate start and end page for the pagination
+        const startPage = Math.floor((currentPage - 1) / 5) * 5 + 1;
+        const endPage = Math.min(startPage + 4, totalPages);
+
         // menambahkan tombol button
-        function createButton(page) {
-            const button = document.createElement('button');
-            button.textContent = page;
-            button.classList.add('number'); //Menambahkan kelas tanpa menghapus kelas yang ada sebelumnya. className = '' -> menghapus kelas sebelumnya
-            if (page === currentPage) {
-                button.classList.add('actives');
-            }
-            button.addEventListener('click', () => {
-                currentPage = page;
-                displayItems(currentPage);
-                generatePaginationButtons(totalPages);
-            });
-            return button;
-        }
-
-        // Always show first three pages
-        paginationContainer.appendChild(createButton(1));
-        if (totalPages > 1) paginationContainer.appendChild(createButton(2));
-        // if (totalPages > 2) paginationContainer.appendChild(createButton(3));
-
-        if (currentPage > 3) {
-            const textNode = document.createElement('button');
-            textNode.className = 'dots';
-            textNode.innerHTML = '...';
-            paginationContainer.appendChild(textNode);
-        }
-
-        // Show the three pages around the current page if necessary
-
-        if (currentPage > 2 && currentPage < totalPages - 2) {
-            if (currentPage - 1 > 2) {
-                paginationContainer.appendChild(createButton(currentPage - 1));
-            }
-            paginationContainer.appendChild(createButton(currentPage));
-            if (currentPage + 1 < totalPages - 1) {
-                paginationContainer.appendChild(createButton(currentPage + 1));
-            }
-        }
-
-        if (currentPage >= totalPages - 2) {
-            for (let i = totalPages - 3; i <= totalPages; i++) {
-                if (i > 3) paginationContainer.appendChild(createButton(i));
-            }
-        } else {
-            const textNode = document.createElement('button');
-            textNode.className = 'dots';
-            textNode.innerHTML = '...';
-            paginationContainer.appendChild(textNode);
-            
-            paginationContainer.appendChild(createButton(totalPages - 1));
-            paginationContainer.appendChild(createButton(totalPages));
+        for(let page = startPage; page <= endPage; page++){
+                const button = document.createElement('button');
+                button.textContent = page;
+                button.classList.add('number'); //Menambahkan kelas tanpa menghapus kelas yang ada sebelumnya. className = '' -> menghapus kelas sebelumnya
+                if (page === currentPage) {
+                    button.classList.add('actives');
+                }
+                button.addEventListener('click', () => {
+                    currentPage = page;
+                    displayItems(currentPage);
+                    generatePaginationButtons(totalPages);
+                });
+                paginationContainer.appendChild(button);
         }
 
         //Asumsikan semua elemen dengan kelas 'number' dan 'dots'
@@ -215,7 +181,7 @@ document.addEventListener("DOMContentLoaded", function() {
           prevBtn.classList.add('first-last-page');
           nextBtn.classList.add('first-last-page');
         }
-      }
+    }
 
     function filterData(keyword){
         return data.filter(item => item.name.toLowerCase().includes(keyword.toLowerCase()));
@@ -227,6 +193,11 @@ document.addEventListener("DOMContentLoaded", function() {
         
         // Clear previous items
         cardPizza.innerHTML = "";
+
+        if (filteredData.length === 0){
+            displayNoResults();
+            return;
+        }
 
         // Calculate start and end indexes for the current page
         const startIndex = (pageNumber - 1) * itemsPerPage;
@@ -308,6 +279,13 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }
 
+    function displayNoResults(){
+        const message = document.createElement('h3');
+        message.className = 'no-results';
+        message.textContent = 'The pizza is not found';
+        cardPizza.appendChild(message);
+    }
+
     function handleSearch(){
         const keyword = searchInput.value.trim(); // Get search keyword
         currentPage = 1; // reset current page to 1
@@ -316,11 +294,11 @@ document.addEventListener("DOMContentLoaded", function() {
             displayItems(currentPage);
             const totalPages = Math.ceil(data.length / itemsPerPage);
             generatePaginationButtons(totalPages);
-        } else {
+        } else{
             displayFilteredItems(currentPage, keyword); // display filtered items
             const totalPages = Math.ceil(filterData(keyword).length / itemsPerPage);
             generatePaginationButtons(totalPages); // Generate pagination buttons for filtered data
-        }
+        } 
     }
 
     // Add event listener for search input

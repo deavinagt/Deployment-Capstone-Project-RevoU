@@ -190,6 +190,10 @@
         max-width: 720px;
     }
 
+    .menu li{
+        width: 100%;
+    }
+
     .menu {
         top: 0px;
     }
