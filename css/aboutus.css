@@ -8,16 +8,21 @@
     box-sizing: border-box;
     font-family: "Lato", sans-serif;
 }
+
 .content{
   display: flex;
+  width: 100%;
 }
+
+
+body{
+  display: flex;
+}
+
 .aboutus-content{
     /* background-color: #fff;  */
     /* background-color: #EBD9B4; */
     background-color: wheat;
-    /* background-color: #FFF2D7; */
-    /* background: linear-gradient(to bottom, #EBD9B4,  #FFF); */
-    /* background: repeating-linear-gradient(to bottom, #EBD9B4, #ffffff); */
     border-radius: 20px 20px 0px 0px;
 }
 
@@ -32,12 +37,6 @@
 
 .name-pic h1{
 	  color: black;
-    /* background: whitesmoke;
-    width: 30%; */
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 20px; */
 	  font-size: 30px;
     font-weight: 700;
 	  text-align: center;
@@ -174,6 +173,13 @@ img{
     align-items: center;
     flex-wrap: wrap;
     gap: 10px;
+}
+
+.card a{
+    display: inline-block;
+    font-size: 1.5rem;
+    color: #333;
+    transition: color 0.3s;
 }
 
 .card i{
