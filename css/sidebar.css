@@ -36,13 +36,13 @@ body {
     padding: 0 1.5rem;
     color: #fff;
     overflow: hidden;
-    transition: all 0.5s linear;
+    transition: all 0.2s linear;
     background: white;
 }
 
 .sidebar-kiri:hover {
     width: 240px;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 /* .logo {

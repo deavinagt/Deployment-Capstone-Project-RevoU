@@ -11,16 +11,18 @@ for (let btnId in buttons) {
   let modalId = buttons[btnId];
   let modal = document.getElementById(modalId);
 
-  btn.onclick = function() {
-    modal.style.display = "block";
-  };
+  if (btn && modal) { 
+    btn.onclick = function() {
+      modal.style.display = "block";
+    };
 
-  modal.style.display = "none"; 
-  modal.addEventListener("click", function(event) {
-    if (event.target === modal) {
-      modal.style.display = "none";
-    }
-  });
+    modal.style.display = "none"; 
+    modal.addEventListener("click", function(event) {
+      if (event.target === modal) {
+        modal.style.display = "none";
+      }
+    });
+  }
 }
 
 let closeElements = document.getElementsByClassName("close");
